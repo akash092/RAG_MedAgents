@@ -1,0 +1,51 @@
+1. PLoS One. 2025 Aug 8;20(8):e0329677. doi: 10.1371/journal.pone.0329677. 
+eCollection 2025.
+
+Proximal and distal middle cerebral artery diameter ratio and lenticulostriate 
+artery infarction.
+
+Yoo JS(1), Choi JH(2), Park JY(1), Song JY(1), Chang JY(1), Kang DW(1), Kwon 
+SU(1), Jo HJ(2)(3), Kim BJ(1).
+
+Author information:
+(1)Department of Neurology, Asan Medical Center, University of Ulsan, Seoul, 
+South Korea.
+(2)Department of Mechanical engineering, POSTECH, Pohang, South Korea.
+(3)Division of Advanced Nuclear Engineering, POSTECH, Pohang, South Korea.
+
+BACKGROUND: Lipohyalinotic degeneration (LD) and branch atheromatous disease 
+(BAD) can contribute to subcortical infarctions in the lenticulostriate artery 
+(LSA) territory. This study aimed to identify the association between the 
+proximal and distal middle cerebral artery (MCA) diameter ratio and the two 
+different pathomechanisms of LSA infarction.
+METHODS: Patients with acute LSA infarctions categorized as small vessel 
+occlusive disease were included. Demographic and clinical data, along with MCA 
+geometrical variables, were collected. LD and BAD were differentiated based on 
+the length of the infarction diameter and number of axial slices. The 
+proximal/distal M1 diameter ratio was calculated. MCA geometrics between LD and 
+BAD were compared. Independent factors associated with LD were investigated. 
+Computational fluid dynamics (CFD) analysis was used to evaluate hemodynamic 
+parameters.
+RESULTS: A total of 117 patients were included, of whom 64 (54.7%) and 53 
+(45.3%) were classified as BAD and LD, respectively. LD was associated with 
+hypertension and favorable prognosis. MCA geometric variables revealed that LD 
+had a higher proximal/distal M1 diameter ratio, indicating a potential 
+distinguishing factor. Multivariate analysis confirmed the independent 
+association between LD and the proximal/distal M1 diameter ratio. The 
+proximal/distal M1 diameter ratio also showed a positive correlation with the 
+number of ipsilesional lacunes. CFD analysis showed that the LD model had 
+faster, greater blood influx into LSAs and higher wall shear stress and pressure 
+gradient compared with the BAD model.
+CONCLUSIONS: This study suggests MCA geometry, particularly the proximal/distal 
+M1 diameter ratio, may serve as an independent factor for identifying LD.
+
+Copyright: © 2025 Yoo et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0329677
+PMID: 40779593 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

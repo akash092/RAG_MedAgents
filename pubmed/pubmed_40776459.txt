@@ -1,0 +1,59 @@
+1. J Clin Hypertens (Greenwich). 2025 Aug;27(8):e70107. doi: 10.1111/jch.70107.
+
+Impact Factors for Trajectories of Medication and Healthy Lifestyle Adherence in 
+Young Adults With Hypertension: A Mixed Methods Study.
+
+Fang X(1)(2), Jia Y(3)(4), Zhou Y(3), Yang Z(3), Guo R(3), Cheng Y(3), Cheng 
+Y(3), Zeng R(5), Wan Z(6), Zhao Q(3)(4), Li D(6), Yuan B(3)(4), Yang R(3)(4), 
+Shen C(3)(4), Liao X(3)(4).
+
+Author information:
+(1)Department of General Internal Medicine, West China Second University 
+Hospital, Sichuan University, Chengdu, China.
+(2)Key Laboratory of Birth Defects and Related Diseases of Women and Children 
+(Sichuan University), Ministry of Education, Chengdu, China.
+(3)General Practice Ward/International Medical Center Ward, General Practice 
+Medical Center, West China Hospital, Sichuan University, Chengdu, China.
+(4)Teaching & Research Section of General Practice, the General Practice Medical 
+Center, West China Hospital of Sichuan University, Chengdu, China.
+(5)Department of Cardiology, West China Hospital, West China School of Medicine, 
+Sichuan University, Chengdu, Sichuan, China.
+(6)Department of Emergency Medicine, Disaster Medical Center, West China 
+Hospital, West China School of Medicine, Sichuan University, Chengdu, Sichuan, 
+China.
+
+Treatment adherence is a cornerstone of effective hypertension management. 
+However, the dynamic patterns of adherence and their influencing factors among 
+young Chinese adults with hypertension remain insufficiently understood. This 
+study aimed to explore the trajectories of medication adherence and healthy 
+lifestyle behaviors, as well as the associated influencing factors, in this 
+population. A mixed methods design was employed. First, a prospective cohort of 
+89 young hypertensive patients was established. Adherence was assessed using 
+guideline-recommended questionnaires from the 2018 Chinese Hypertension 
+Guidelines at the 3rd and 6th months of follow-up. Medication adherence was 
+categorized as low, moderate, or high. The healthy lifestyle adherence score 
+encompassed six dimensions: diet, salt intake, alcohol consumption, smoking 
+status, physical activity, and weight control. Second, semi-structured 
+interviews based on the Health Belief Model were conducted to identify factors 
+influencing adherence. Qualitative data were coded accordingly. During 
+follow-up, 28.07% of participants exhibited a decline in medication adherence, 
+whereas 19.30% showed improvement. For healthy lifestyle adherence, 46.07% 
+declined and 22.47% improved. Baseline characteristics did not differ 
+significantly across different adherence trajectory groups (p > 0.05). A total 
+of 27 and 36 individuals participated in interviews regarding medication and 
+lifestyle adherence, yielding 553 and 878 codes, respectively. Social, 
+environmental, and patient-related factors accounted for 73% and 85% of these 
+codes, respectively. The most frequently reported influencing factors included 
+reminders and encouragement from family members, childcare responsibilities, 
+occupational demands, social obligations, and awareness of hypertension. In 
+conclusion, young adults with hypertension commonly experience fluctuations in 
+both medication and lifestyle adherence. These variations are predominantly 
+influenced by a combination of social, environmental, and individual-level 
+factors. Trial Registration: Chinese Clinical Trial Registry 
+(https://www.chictr.org.cn/): ChiCTR2000033434.
+
+© 2025 The Author(s). The Journal of Clinical Hypertension published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1111/jch.70107
+PMID: 40776459 [Indexed for MEDLINE]

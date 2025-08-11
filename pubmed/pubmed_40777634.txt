@@ -1,0 +1,45 @@
+1. Front Public Health. 2025 Jul 24;13:1601168. doi: 10.3389/fpubh.2025.1601168. 
+eCollection 2025.
+
+Impacts of financial, caregiving, and emotional support on mental health: case 
+of hypertensive patients in China.
+
+Tan J(#)(1), Kong D(#)(1), Hu L(1), Pu C(1).
+
+Author information:
+(1)School of Public Health, Chongqing Medical University, Chongqing, China.
+(#)Contributed equally
+
+BACKGROUND: Hypertension and mental disorders, particularly depression, 
+significantly impact Asia's older adult. Alleviating depression in older adult 
+hypertensive patients can significantly enhance their quality of life. This 
+study evaluates the mental health status of hypertensive patients over 60 who do 
+or do not provide intergenerational family support.
+METHODS: Using 2020 CHARLS data, we analyzed 4,851 hypertensive patients aged 
+≥60. Intergenerational family support was categorized into financial, daily 
+caregiving, and emotional support, with mental health measured via the Chinese 
+CESD-10. Multivariate linear regression and propensity score matching (PSM) 
+assessed mental health changes from different support types. Heterogeneity 
+analysis examined differences across age, gender, education, and urban-rural 
+areas.
+RESULTS: Caregiving (β = -0.78, p < 0.01) and emotional support (β = -0.56, 
+p < 0.05) significantly reduced depressive symptoms in older adult hypertensive 
+patients, while financial support showed no significant impact. Sensitivity 
+tests confirmed these results. Subgroup analyses revealed greater benefits for 
+women (emotional support: β = -0.77), rural residents (emotional support: 
+β = -0.59), and those aged ≥75 (caregiving support: β = -2.26).
+CONCLUSION: Non-material intergenerational support, especially caregiving and 
+emotional involvement, is crucial for alleviating depression in older adult 
+hypertensive patients, whereas financial support has little effect. Policies 
+should prioritize psychosocial interventions over financial aid, particularly 
+for vulnerable groups like women, rural residents, and the older adult aged ≥75.
+
+Copyright © 2025 Tan, Kong, Hu and Pu.
+
+DOI: 10.3389/fpubh.2025.1601168
+PMCID: PMC12328140
+PMID: 40777634 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

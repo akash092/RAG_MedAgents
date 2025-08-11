@@ -1,0 +1,42 @@
+1. J Clin Hypertens (Greenwich). 2025 Aug;27(8):e70075. doi: 10.1111/jch.70075.
+
+Blood Pressure and Hypertension in Adolescents and Young Adults: Results From a 
+Nationwide Screening Program.
+
+Loo WTW(1), Ho WHH(1), Lim DYZ(1), Thiagarajan N(1), Ang WK(1), Han JYJ(1), Goy 
+S(1), Sng GGR(1), Lim LK(1), Lim HY(1).
+
+Author information:
+(1)Medical Classification Centre, Central Manpower Base, Singapore Armed Forces, 
+Singapore, Singapore.
+
+Literature on blood pressure (BP) norms in the adolescent and young adult (AYA) 
+population remains sparse compared to adults. This study aims to describe the BP 
+norms, prevalence of undiagnosed hypertension, and associations with demographic 
+and anthropometric data among asymptomatic Asian AYA males. We studied 
+retrospective cross-sectional data from individuals attending a national 
+centralized BP screening program for enlistment over 30 months. Each 
+individual's initial office BP reading was used to determine the cohort's BP 
+norms. Individuals with a high reading, defined as systolic ≥140 mmHg and/or 
+diastolic ≥90 mmHg, repeated office BP at a separate office visit. Those 
+demonstrating two high readings underwent 24-h ambulatory BP (ABP) measurement. 
+49 033 males of median age 18.1 years were studied. The median, 75th centile, 
+and 95th centile initial visit office BP readings were 121/74, 130/81, and 
+139/89 mmHg. 302 (0.62%; 95% CI, 0.55-0.69) were diagnosed with hypertension by 
+office BP criteria. 270 underwent ABP measurement-180 (0.37%; 95% CI, 0.31-0.42) 
+and 239 (0.49%; 95% CI, 0.43-0.55) had hypertension by ESC/ESH and ACC/AHA 
+criteria, respectively. Higher weight, body mass index (BMI), and body fat 
+percentage were associated with hypertension. The prevalence of undiagnosed 
+hypertension among Asian AYA males is <1%. Norm-based cut-offs for high BP 
+yielded absolute-value cut-offs similar to those recommended by adult 
+guidelines; the 95th centile corresponded closely to 140/90 mmHg. Given similar 
+diagnostic cut-offs with both norm-based and absolute-value approaches, both 
+methods may be adopted. Focused screening of subgroups at higher risk of 
+hypertension, such as obese individuals, may be considered in resource-limited 
+settings.
+
+© 2025 The Author(s). The Journal of Clinical Hypertension published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1111/jch.70075
+PMID: 40776427 [Indexed for MEDLINE]

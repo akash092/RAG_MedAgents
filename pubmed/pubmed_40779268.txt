@@ -1,0 +1,84 @@
+1. JAMA Netw Open. 2025 Aug 1;8(8):e2525719. doi: 
+10.1001/jamanetworkopen.2025.25719.
+
+Vascular Risk Factors and 1-Year Cognitive Change Among Individuals With 
+Traumatic Brain Injury.
+
+Schneider ALC(1)(2), Hunzinger KJ(3), Brett BL(4), Sandsmark DK(1), Jain S(5), 
+Sun X(5), Gardner RC(6), Manley GT(7), Diaz-Arrastia R(1), Nelson LD(4); 
+TRACK-TBI Study Investigators; Belton P(8), Eagle S(9), Gopinath S(10), Grandhi 
+R(11), Keene CD(12), Krishnamoorthy V(13), Mac Donald C(12), McCrea M(14), 
+Merchant R(15), Mukherjee P(16), Ngwenya LB(17), Okonkwo D(9), Robertson C(10), 
+Schnyer D(18), Taylor SR(16), Yue JK(16), Zafonte R(19).
+
+Author information:
+(1)Department of Neurology, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia.
+(2)Department of Biostatistics, Epidemiology, and Informatics, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia.
+(3)Department of Exercise Science, Thomas Jefferson University, Philadelphia, 
+Pennsylvania.
+(4)Departments of Neurosurgery and Neurology, Medical College of Wisconsin, 
+Wauwatosa.
+(5)Biostatistics Research Center, Herbert Wertheim School of Public Health and 
+Human Longevity Science at the University of California, San Diego.
+(6)Sagol Neuroscience Center, Sheba Medical Center, Ramat Gan, Israel.
+(7)Department of Neurosurgery, University of California, San Francisco, San 
+Francisco.
+(8)University of Wisconsin-Madison.
+(9)University of Pittsburgh, Pennsylvania.
+(10)Baylor College of Medicine, Houston, Texas.
+(11)University of Utah, Salt Lake City.
+(12)University of Washington, Seattle.
+(13)Duke University, Durham, North Carolina.
+(14)Medical College of Wisconsin, Milwaukee.
+(15)Virginia Commonwealth University, Richmond.
+(16)University of California, San Francisco.
+(17)University of Cincinnati, Ohio.
+(18)University of Texas, Austin.
+(19)Harvard Medical School, Boston, Massachusetts.
+
+IMPORTANCE: Traumatic brain injury (TBI) and vascular risk factors are 
+associated with cognitive impairment, but it is unknown if individuals with 
+vascular risk factors experience worse cognitive outcomes after TBI.
+OBJECTIVE: To evaluate cognitive function among patients with TBI with vs 
+without comorbid preinjury vascular risk factors.
+DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study examined 
+individuals with TBI enrolled in the Transforming Research and Clinical 
+Knowledge in TBI (TRACK-TBI) Study between February 26, 2014, and August 8, 
+2018, with a 1-year follow-up. Analyses were conducted February 26, 2024, to May 
+29, 2025.
+EXPOSURES: Vascular risk factors (ie, hypertension, diabetes, hyperlipidemia, 
+and smoking).
+MAIN OUTCOMES AND MEASURES: Participants underwent a 5-test cognitive assessment 
+at 2 weeks, 6 months, and 1 year postinjury; tests were combined into a global 
+cognitive factor score in primary analyses and examined individually in 
+secondary analyses. Inverse probability of attrition-weighted generalized 
+estimating equations adjusted for age, sex, race, ethnicity, education, TBI 
+severity, prior TBI, and psychiatric history were used to estimate the 
+associations.
+RESULTS: The 1313 participants were a mean (SD) age of 38.7 (16.4) years, 428 
+were female (32.6%), 885 were male (67.4%), 393 had never smoked (29.9%), 221 
+had hypertension (16.8%), 98 had diabetes (7.5%), and 116 had hyperlipidemia 
+(8.8%). Both participants with and without vascular risk factors had improvement 
+in cognition over the first year postinjury. Compared with individuals without 
+diabetes, participants with diabetes had lower global cognitive factor scores at 
+2 weeks postinjury (mean z-score difference, -0.25; 95% CI, -0.45 to -0.04), 
+worse executive functioning at 2 weeks postinjury, and less improvement on 
+processing speed over the first-year postinjury. There were no significant 
+differences in cognitive performance comparing participants with vs without 
+hypertension, hyperlipidemia, and smoking. Individuals with 2 or more vascular 
+risk factors (compared with no vascular risk factors) had lower global factor 
+score at 2 weeks postinjury (mean difference, -0.21; 95% CI, -0.19 to -0.07) and 
+worse verbal episodic memory immediate recall, executive functioning, and 
+processing speed at 2 weeks, but similar improvements in cognitive performance 
+over the first-year postinjury.
+CONCLUSIONS AND RELEVANCE: In this cohort study of individuals with TBI, those 
+with diabetes displayed poorer global cognitive function and executive 
+functioning 2 weeks after TBI and recovered less in processing speed over the 
+first-year postinjury. Given the modifiable nature of comorbid vascular risk 
+factors, future work interrogating postinjury changes in vascular risk factor 
+burden, over longer follow-up, is warranted.
+
+DOI: 10.1001/jamanetworkopen.2025.25719
+PMID: 40779268 [Indexed for MEDLINE]

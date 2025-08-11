@@ -1,0 +1,42 @@
+1. J Prev Med Public Health. 2025 Jul;58(4):348-359. doi: 10.3961/jpmph.24.651. 
+Epub 2025 Feb 17.
+
+Theory-Based Interventions to Improve Medication Adherence Among Patients With 
+Hypertension in Primary Healthcare and the Community: A Systematic Review.
+
+Yulianti T(1)(2), Widayanti AW(3), Kristina SA(3), Yasin NM(4).
+
+Author information:
+(1)Doctoral Program in Pharmacy, Faculty of Pharmacy, Universitas Gadjah Mada, 
+Yogyakarta, Indonesia.
+(2)Department of Pharmacology and Clinical Pharmacy, Faculty of Pharmacy, 
+Universitas Muhammadiyah Surakarta, Surakarta, Indonesia.
+(3)Department of Pharmaceutics, Faculty of Pharmacy, Universitas Gadjah Mada, 
+Yogyakarta, Indonesia.
+(4)Department of Pharmacology and Clinical Pharmacy, Faculty of Pharmacy, 
+Universitas Gadjah Mada, Yogyakarta, Indonesia.
+
+OBJECTIVES: Numerous interventions have been implemented to enhance adherence to 
+antihypertensive medications, yet only a few have utilized health behavioral 
+theories. The research quality and efficacy of these theory-based studies remain 
+undetermined. This systematic review aimed to provide a thorough description of 
+research that employed health behavior theories to improve medication adherence 
+in patients diagnosed with hypertension, particularly in primary healthcare and 
+community settings.
+METHODS: PubMed and Scopus were searched for randomized clinical trials that 
+employed health behavioral theories to improve medication adherence in patients 
+with hypertension, published in English between 2013 and 2023. Data were 
+extracted following the Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses (PRISMA) guidelines. The Joanna Briggs Institute critical 
+appraisal tool was used to evaluate the risk of bias.
+RESULTS: Of the 446 studies initially identified, only 10 met the inclusion 
+criteria and were included in this systematic review. Eight studies employed a 
+single theory, and 2 applied a combination of theories, with Social Cognitive 
+Theory and the Transtheoretical Model being the most predominant. Six trials 
+demonstrated a notable enhancement in medication adherence, while 5 studies were 
+assessed to have a high risk of bias.
+CONCLUSIONS: Although not all studies employed a complete theoretical framework, 
+the majority indicate that utilizing theory can enhance medication adherence.
+
+DOI: 10.3961/jpmph.24.651
+PMID: 40776536 [Indexed for MEDLINE]

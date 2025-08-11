@@ -1,0 +1,58 @@
+1. Pediatr Nephrol. 2025 Aug 8. doi: 10.1007/s00467-025-06921-z. Online ahead of 
+print.
+
+Long-term kidney side effects of allogeneic hematopoietic stem cell 
+transplantation in children.
+
+Kaçar D(1), Özlü SG(2), Arman Bilir Ö(3), Ok Bozkaya İ(4), Kanbur ŞM(4), Koca 
+Yozgat A(3), Aksoy ÖY(5), Bayrakçı US(2), Özbek NY(3).
+
+Author information:
+(1)Department of Pediatric Hematology Oncology & Bone Marrow Transplantation 
+Unit, Ankara Bilkent City Hospital, University of Health Sciences, Üniversiteler 
+Mah. Bilkent Cad. No:1 Çankaya, Ankara, Turkey. dilekbank@yahoo.com.
+(2)Department of Pediatric Nephrology, Ankara Bilkent City Hospital, Ankara 
+Yıldırım Beyazıt University, Ankara, Turkey.
+(3)Department of Pediatric Hematology Oncology & Bone Marrow Transplantation 
+Unit, Ankara Bilkent City Hospital, University of Health Sciences, Üniversiteler 
+Mah. Bilkent Cad. No:1 Çankaya, Ankara, Turkey.
+(4)Department of Pediatric Hematology Oncology & Bone Marrow Transplantation 
+Unit, Ankara Bilkent City Hospital, Ankara, Turkey.
+(5)Department of Pediatric Nephrology, Ankara Bilkent City Hospital, Ankara, 
+Turkey.
+
+BACKGROUND: Hematopoietic stem cell transplantation (HSCT) is an effective 
+treatment for various childhood diseases with long-term complications, including 
+kidney side effects.
+METHODS: We conducted a single-center retrospective study of 213 patients who 
+received allogeneic HSCT between February 2011 and December 2023. Patients were 
+followed for at least 3 months post-HSCT, with a median follow-up of 2.9 years. 
+We evaluated pre- and post-HSCT estimated glomerular filtration rate (eGFR) and 
+kidney complications.
+RESULTS: After HSCT, patients showed significantly higher rates of acute kidney 
+injury (21.6% vs. 4.1% pre-HSCT), hypertension (26.8% vs. 5.2% pre-HSCT), and 
+tubulopathy (20.2% vs. 5.2% pre-HSCT). The median final eGFR was 144 mL/min/1.73 
+m2, which was significantly lower than the pre-HSCT eGFR (155 mL/min/1.73 m2, 
+p < 0.0001) and negatively correlated with time after HSCT (Rs =  - 0.177, 
+p = 0.009). Eight patients (3.8%) progressed to chronic kidney disease (CKD). 
+Factors linked to CKD included inherited bone marrow failure syndromes, 
+anti-thymocyte globulin (ATG) conditioning, urinary tract infections (UTIs), and 
+high urinary BK virus loads. Although the rates of glomerular hyperfiltration 
+(GHF) did not change significantly between pre-HSCT (63.8%) and post-HSCT 
+(62.4%, p = 0.824), GHF was notable in patients with acute lymphoblastic 
+leukemia pre-HSCT and thalassemia post-HSCT. Seventeen patients (8.4%) needed 
+ongoing antihypertensive treatment.
+CONCLUSIONS: HSCT can cause various kidney complications. GHF is common both 
+before and after transplant, and eGFR often declines over time. UTIs, ATG 
+conditioning, and inherited bone marrow failure syndromes are important risk 
+factors for CKD. Individual factors and infection surveillance should be 
+considered in these patients to approach kidney health.
+
+© 2025. The Author(s), under exclusive licence to International Pediatric 
+Nephrology Association.
+
+DOI: 10.1007/s00467-025-06921-z
+PMID: 40779169
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests.

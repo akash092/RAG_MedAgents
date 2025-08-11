@@ -1,0 +1,38 @@
+1. medRxiv [Preprint]. 2025 Jul 23:2025.07.22.25330603. doi: 
+10.1101/2025.07.22.25330603.
+
+Comparing angiogenic biomarkers and clinical history of hypertensive disease of 
+pregnancy with the association of hypertension up to 15 years after delivery.
+
+Anwer T, Cantonwine DE, Seely EW, Gray K, McElrath TF.
+
+OBJECTIVE: We investigated the independent and comparative association of a 
+history of hypertensive disease of pregnancy and elevated serum soluble fms-like 
+tyrosine kinase 1 to placental growth factor (sFlt-1/PlGF) ratio during the 
+second half of pregnancy with the development of HTN up to 15 years after 
+delivery.Study Design: N=1,238 singleton pregnancies were part of a prospective 
+birth cohort study that enrolled patients from 2006-2008. Serum sFlt-1/PlGF was 
+collected at a median of 26.0 and 35.1 weeks gestation. Adjusted Cox 
+proportional hazard models estimated hazard ratios and 95%CI for the time to 
+diagnosis for Stage 1 and Stage 2 HTN within 15 years PP in association with 
+diagnoses of HDP and interquartile range of sFlt-1/PlGF. We adjusted for 
+confounders.
+RESULTS: Of the n=993 women, n=260 (29.18%) were diagnosed with stage 1 and 
+n=169 (17.0%) with Stage 2 HTN within 15 years of delivering.A history of PE or 
+a history of gestational hypertension were both significantly associated with 
+developing HTN later in life with adjusted hazard ratios of 2.17 (95% CI, 
+1.44-3.28) and 3.50 (95% CI, 2.21-5.54). There was no significant association 
+between the hazard of developing HTN and the sFlt/PlGF ratio. However, mean PlGF 
+levels during pregnancy in those who remained normotensive in the follow-up were 
+higher at 546.7 pg/mL (SD= 369.5) compared to 513.7 pg/mL (SD=389.9) in the 
+group with stage 1 and stage 2 HTN combined and 471.7 pg/mL (SD=471.7) in the 
+stage 2 only group (p=0.008 and p=0.001).
+CONCLUSION: In patients followed for up to 15 years after delivery, a clinical 
+history of hypertensive disease of pregnancy was significantly associated with 
+the hazard of developing HTN later in life, while elevated sFlt-1/PlGF biomarker 
+levels were not.However, mean PlGF levels in the latter half of pregnancy were 
+significantly lower in those who developed HTN later in life.
+
+DOI: 10.1101/2025.07.22.25330603
+PMCID: PMC12330459
+PMID: 40778131

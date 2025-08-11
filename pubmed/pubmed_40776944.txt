@@ -1,0 +1,58 @@
+1. Rev Cardiovasc Med. 2025 Jul 29;26(7):38690. doi: 10.31083/RCM38690.
+eCollection  2025 Jul.
+
+Cardiovascular-Kidney-Metabolic Effects: Steroidal and Nonsteroidal 
+Mineralocorticoid Receptor Antagonists.
+
+Bozkurt B(1), Januzzi JL(2)(3), Bansal S(4).
+
+Author information:
+(1)Winters Center for Heart Failure Research, Cardiovascular Research Institute, 
+Baylor College of Medicine, Houston, TX 77030, USA.
+(2)Cardiology Division, Massachusetts General Hospital and Harvard Medical 
+School, Boston, MA 02115, USA.
+(3)Baim Institute for Clinical Research, Boston, MA 02215, USA.
+(4)Division of Nephrology, Department of Medicine, University of Texas Health 
+San Antonio, San Antonio, TX 78229, USA.
+
+Cardiovascular (CV)-kidney-metabolic (CKM) syndrome is a complex disorder 
+characterized by the co-occurrence of CV risk factors, including chronic kidney 
+disease (CKD), hypertension, and metabolic dysfunction, which creates a vicious 
+cycle where one factor negatively impacts the others, ultimately leading to poor 
+overall CV and kidney outcomes. Overactivation of the mineralocorticoid 
+receptor, through binding with aldosterone and ligand-independent mechanisms, is 
+implicated in the pathogenesis of CKM; mineralocorticoid receptor antagonists 
+(MRAs) can block this interaction. Steroidal MRAs are currently recommended for 
+people with heart failure (HF) with reduced ejection fraction and hypertension; 
+however, the role of nonsteroidal MRAs in CKM is evolving. Indeed, steroidal 
+MRAs have demonstrated efficacy against composite CV-related mortality and 
+hospitalization, elevated systolic blood pressure, and hospitalizations for 
+worsening HF in clinical trials of individuals with HF, CKD, and 
+treatment-resistant hypertension. Moreover, the nonsteroidal MRA finerenone has 
+demonstrated risk reductions for composite CV-related outcomes and CKD 
+progression in patients with HF with mildly reduced or preserved ejection 
+fraction and people with CKD associated with type 2 diabetes. Ongoing phase 3 
+trials are evaluating the efficacy and safety of nonsteroidal MRAs in 
+individuals with HF and reduced ejection fraction, as well as those with mildly 
+reduced or preserved ejection fraction, potentially expanding their role in 
+managing CKM conditions. This review examines current clinical evidence for the 
+use of MRAs in people with CKM syndrome.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM38690
+PMCID: PMC12326440
+PMID: 40776944
+
+Conflict of interest statement: Biykem Bozkurt reports consultancy with Abbott, 
+Abiomed, American Regent, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, 
+Cardurion, Cytokinetics, Daiichi Sankyo, Johnson & Johnson, Lantheus, Liva Nova, 
+Merck, Regeneron, Renovacor, Respicardia/Zoll, Roche, Sanofi-Aventis, and Vifor. 
+James L. Januzzi has received consulting fees or advisory and funding grants 
+from Roche Diagnostics, Siemens Diagnostics, Abbott Diagnostics, and Merck. 
+Shweta Bansal has received research funding from the National Institutes of 
+Health, Bayer, Novo Nordisk, and Boehringer Ingelheim; royalties from UpToDate; 
+and she serves as faculty speaker for Home Dialysis University and in the 
+advisory boards for Calliditas Therapeutics, Novartis, Vera, and Travere 
+Therapeutics. However, these companies had no role in the handling or conduct of 
+the study.

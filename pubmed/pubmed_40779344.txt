@@ -1,0 +1,46 @@
+1. Kidney360. 2025 Aug 8. doi: 10.34067/KID.0000000872. Online ahead of print.
+
+Association Between Age of Onset of Hypertension and Risk of CKD: Cohort Study 
+Based on the UK Biobank.
+
+Lu X(1)(2)(3), Chen D(2), Kang L(1)(3), Sun L(1)(3), Xie X(1)(3), Tan X(1)(3), 
+Meng Y(1)(3), Lei F(4), Sun T(5), Chen J(2).
+
+Author information:
+(1)State Key Laboratory of New Drug Discovery and Development for Major 
+Diseases, Gannan Medical University, Ganzhou, China.
+(2)Department of Cardiology, Qichun Central Hospital, Huanggang, China.
+(3)Gannan Innovation and Translational Medicine Research Institute, Gannan 
+Medical University, Ganzhou, China.
+(4)Medical Science Research Center of Zhongnan Hospital of Wuhan University.
+(5)Department of Cardiology, Renmin Hospital of Wuhan University, Wuhan, China.
+
+BACKGROUND: The onset age of hypertension has decreased significantly due to 
+lifestyle changes over the years. However, the link between hypertension onset 
+age and subsequent incidence of chronic kidney disease (CKD) remains unclear.
+METHODS: Individual-level data were obtained from the UK Biobank. Information on 
+the diagnosis of hypertension and CKD was collected at baseline and follow-up. 
+The propensity score matching method and Cox proportional hazards models were 
+used to evaluate the relationship between different hypertension morbidity ages 
+and the incidence of CKD.
+RESULTS: A total of 485,101 participants without CKD at baseline were included 
+in this analysis (women, 265,343 [54.70%]). Among the 186,880 participants with 
+hypertension, the multivariable-adjusted hazard ratio (HR) for developing CKD 
+was 1.117 (95% CI: 1.102-1.132) for each 10-year decrease in age at the onset of 
+hypertension. After applying propensity score matching, the risk of CKD in 
+hypertensive patients was significantly higher compared to those without 
+hypertension across all age groups. Additionally, the hazard ratios tended to 
+increase with a decrease in age at the onset of hypertension. Subgroup analysis 
+showed that participants with cardiovascular disease (CVD) at baseline increased 
+the adverse effect of hypertension on CKD in younger participants.
+CONCLUSIONS: Our research indicated that the younger the age at hypertension 
+diagnosis, the greater the risk of developing CKD. Individuals who experience 
+the onset of hypertension before the age of 45 may constitute a high-risk CKD 
+subpopulation, highlighting the need for vigilant monitoring and early 
+intervention.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the American Society of Nephrology.
+
+DOI: 10.34067/KID.0000000872
+PMID: 40779344

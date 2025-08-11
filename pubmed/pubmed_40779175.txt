@@ -1,0 +1,63 @@
+1. Neurosurg Rev. 2025 Aug 8;48(1):593. doi: 10.1007/s10143-025-03753-1.
+
+Long-term outcomes of ventriculoperitoneal shunt in HIV-negative Cryptococcal 
+meningitis.
+
+Lin X(1), He G(1), Li Q(2)(3), Yang X(4), Zheng X(4), Wang L(5), Yan Y(6), Zhang 
+Y(7).
+
+Author information:
+(1)Department of Clinical Laboratory, Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, 510630, Guangdong, China.
+(2)Pathology Department, Guangdong Provincial Second Hospital of Traditional 
+Chinese Medicine, Guangzhou, 510095, Guangdong, China.
+(3)Pathology Department, Guangdong Provincial Engineering Technology Research 
+Institute of Traditional Chinese Medicine, Guangzhou, 510095, Guangdong, China.
+(4)Department of Infectious Diseases, Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, 510630, Guangdong, China.
+(5)Department of Diagnostics, Second School of Clinical Medicine, Binzhou 
+Medical University, Yantai, Shandong, China. wanglu@bzmc.edu.cn.
+(6)Department of Infectious Diseases, Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, 510630, Guangdong, China. yanying@mail.sysu.edu.cn.
+(7)Department of Infectious Diseases, Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, 510630, Guangdong, China. zhangyq53@mail.sysu.edu.cn.
+
+Cryptococcal meningitis (CM) is a life-threatening fungal infection of the 
+central nervous system, with intracranial hypertension being a major contributor 
+to mortality. Ventriculoperitoneal (VP) shunting has been established as a 
+crucial intervention for managing elevated intracranial pressure; however, 
+comprehensive long-term prognostic data for CM patients undergoing VP shunt 
+placement remain limited. This study aimed to evaluate the long-term outcomes of 
+VP shunting in patients with CM through a retrospective analysis. A 
+retrospective cohort study was conducted involving patients diagnosed with CM, 
+with a follow-up period of 48 weeks. Demographic characteristics, 
+disease-related parameters, and laboratory findings were collected and analyzed 
+at multiple time points. Of the 106 CM patients enrolled, 77 underwent VP 
+shunting, while 29 received conservative management. No significant differences 
+were observed between the two groups in terms of hospitalization duration, 
+cryptococcal clearance rate, time to cerebrospinal fluid (CSF) culture 
+negativity, or recurrence rate. The VP shunt group demonstrated a rapid 
+reduction in intracranial pressure (ICP), achieving normalization by week 4 and 
+maintaining a significantly lower level than the conservative group at week 12. 
+CSF cryptococcal counts were comparable between the groups throughout the 
+follow-up period. However, the VP shunt group exhibited persistently elevated 
+CSF white blood cell (WBC) counts and protein levels up to 48 weeks, along with 
+transiently lower glucose levels in the early stages, which normalized by week 
+24. VP shunting effectively controls intracranial hypertension and accelerates 
+cryptococcal clearance in patients with CM; however, it does not significantly 
+alter the long-term clinical prognosis, and the clinical significance of 
+postoperative CSF alterations may be limited.
+
+© 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s10143-025-03753-1
+PMID: 40779175 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Clinical trial number: Not 
+applicable. Competing interests: The authors declare no competing interests. 
+Human ethics and consent to participate: The study protocol conforms to the 
+ethical guidelines of the 1975 Declaration of Helsinki (6th revision, 2008). Not 
+applicable. Patient informed consent was not signed due to the retrospective 
+nature of this study and anonymized data analysis. All authors had access to the 
+study data and reviewed and approved the final manuscript.

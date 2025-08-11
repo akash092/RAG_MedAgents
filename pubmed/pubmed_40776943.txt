@@ -1,0 +1,42 @@
+1. Rev Cardiovasc Med. 2025 Jul 18;26(7):37252. doi: 10.31083/RCM37252.
+eCollection  2025 Jul.
+
+The Correlation Between Sleep and Coronary Heart Disease: A Review.
+
+Shi Q(1), Gao Y(1)(2), Shi Z(1), Li M(1)(2)(3).
+
+Author information:
+(1)Department of Cardiology, Central China Fuwai Hospital of Zhengzhou 
+University, Fuwai Central China Cardiovascular Hospital, 450000 Zhengzhou, 
+Henan, China.
+(2)Department of Cardiology, Zhengzhou University People's Hospital, Henan 
+Provincial People's Hospital, 450000 Zhengzhou, Henan, China.
+(3)Central China Subcenter of National Center for Cardiovascular Diseases, Henan 
+Cardiovascular Disease Center, 450000 Zhengzhou, Henan, China.
+
+Coronary heart disease (CHD), which is characterized by the coronary arteries 
+narrowing or becoming obstructed due to atherosclerosis, leads to myocardial 
+ischemia, hypoxia, or necrosis. Owing to an aging population and lifestyle 
+changes, the incidence of CHD and subsequent mortality rates continue to rise, 
+making CHD one of the leading causes of disability and death worldwide. 
+Hypertension, diabetes, hyperlipidemia, smoking, obesity, and genetic factors 
+are considered major risk factors for CHD; however, these factors do not fully 
+explain the complexity and diversity in the etiology of CHD. Sleep, an 
+indispensable part of human physiological processes, is crucial for maintaining 
+physical and mental health. In recent years, the rapid pace of modern life has 
+led to an increasing number of patients experiencing an insufficient amount of 
+sleep, declining sleep quality, and sleep disorders. Therefore, the correlation 
+between sleep and CHD has become a focal point in current research. This review 
+aims to address the relationship between sleep duration, quality, and sleep 
+disorder-related diseases with CHD and emphasizes potential underlying 
+mechanisms and possible clinical implications. Moreover, this review aimed to 
+provide a theoretical basis and clinical guidance for the prevention and 
+treatment of CHD.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM37252
+PMCID: PMC12326418
+PMID: 40776943
+
+Conflict of interest statement: The authors declare no conflict of interest.

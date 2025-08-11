@@ -1,0 +1,58 @@
+1. Front Nutr. 2025 Jul 22;12:1611227. doi: 10.3389/fnut.2025.1611227.
+eCollection  2025.
+
+Global burden and trends of high BMI-attributable chronic kidney disease: a 
+comprehensive analysis from 1990 to 2021 and projections to 2035.
+
+Tan H(#)(1), Liu Z(#)(2), Zhang Y(1), Yang K(2), Zeng Y(2), Li G(1), Xiao Z(1), 
+Li Y(2), Chen Y(1).
+
+Author information:
+(1)Department of Nephrology and Laboratory of Kidney Disease, Hunan Provincial 
+People's Hospital, The First Affiliated Hospital of Hunan Normal University, 
+Changsha, China.
+(2)Department of Urology, Hunan Provincial People's Hospital, The First 
+Affiliated Hospital of Hunan Normal University, Changsha, China.
+(#)Contributed equally
+
+BACKGROUND: High body mass index (BMI) is a major modifiable risk factor for 
+chronic kidney disease (CKD), significantly contributing to its global burden. 
+This study aimed to systematically evaluate the global burden of CKD 
+attributable to high BMI from 1990 to 2021, identify demographic and regional 
+variations, evaluate contributing risk factors, and project future trends 
+through 2035.
+METHODS: The population-based analysis utilized data from the Global Burden of 
+Diseases, Injuries, and Risk Factors Study (GBD) 2021, encompassing 204 
+countries and territories across 21 GBD regions. Age-standardized mortality rate 
+(ASMR) and age-standardized disability-adjusted life years rate (ASDR) were 
+assessed using percentage change (PC) and estimated annual percentage change 
+(EAPC). Decomposition analysis quantified drivers of mortality and DALYs 
+changes, while Bayesian age-period-cohort models projected future trends.
+FINDINGS: From 1990 and 2021, the ASMR of CKD attributable to high BMI increased 
+from 2.69 (95% UI: 1.37-4.14) to 5.06 (95% UI: 2.7-7.5) per 100,000, and the 
+ASDR rose from 69.13 (95% UI: 35.06-106) to 122.08 (95% UI: 66.25-180.18) per 
+100,000. Projections estimate continued to increase by 2035, with ASMR reaching 
+5.81 (95% UI: 3.55-8.07) and ASDR 149.42 (95% UI: 99.45-199.39) per 100,000. Sex 
+and age disparities were evident: males showed higher ASR increases and earlier 
+onset of disease burden, while older females experienced a higher overall 
+burden. Regionally, low- and low-middle SDI areas exhibited the most rapid 
+burden escalation, while some high-income countries achieved burden reduction. 
+Among the attributable etiologies, hypertension and type 2 diabetes mellitus 
+(T2DM) were predominant, with hypertension more common in males (42.05%) and 
+T2DM in females (43.71%).
+CONCLUSION: The global burden of CKD attributable to high BMI has risen markedly 
+over the past three decades, with widening disparities by geography, age, and 
+sex. The COVID-19 pandemic may have further complicated risk dynamics and data 
+quality. These findings highlight an urgent need for globally coordinated, 
+locally adapted prevention strategies, particularly targeting younger males and 
+populations in low-SDI regions.
+
+Copyright © 2025 Tan, Liu, Zhang, Yang, Zeng, Li, Xiao, Li and Chen.
+
+DOI: 10.3389/fnut.2025.1611227
+PMCID: PMC12330218
+PMID: 40777172
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,83 @@
+1. Front Nutr. 2025 Jul 24;12:1584692. doi: 10.3389/fnut.2025.1584692.
+eCollection  2025.
+
+The relationship between carotenoids and diabetic nephropathy: insights from 
+NHANES.
+
+Wang L(#)(1), Feng T(#)(1), Tan Y(#)(2), Zhang J(2), Zhang T(1), Huo J(1), Song 
+X(1), Lin X(1), Li M(1), Liang W(1), Ding Q(3).
+
+Author information:
+(1)Department of Clinical Laboratory, The Affiliated Lianyungang Hospital of 
+Xuzhou Medical University (The First People's Hospital of Lianyungang), 
+Lianyungang, China.
+(2)School of Basic Medical Sciences, Kangda College of Nanjing Medical 
+University, Lianyungang, China.
+(3)Department of Endocrinology, The Second People's Hospital of Lianyungang, 
+Lianyungang, China.
+(#)Contributed equally
+
+OBJECTIVE: Diabetic nephropathy (DN) poses significant health risks and imposes 
+a substantial global disease burden. The association between carotenoid intake 
+and DN remains unclear. Utilizing data from the 2007-2018 National Health and 
+Nutrition Examination Survey (NHANES), this study investigates the relationship 
+between multiple carotenoid subtypes and DN, aiming to inform exploratory 
+insights for potential preventive strategies.
+METHODS: This cross-sectional analysis utilized NHANES 2007-2018 data with a 
+multistage stratified sampling design. After a four-stage screening process, 
+baseline participants were selected by excluding individuals with lacking 
+diabetes-related data, pregnant women, and those with incomplete carotenoid 
+intake or DN diagnostic records. Model 1 included 25,483 participants, while 
+Model 2 comprised retained 13,271 participants after further adjustment for 
+covariates (demographic characteristics, lifestyle factors, clinical indicators, 
+and socioeconomic parameters). Dietary intake of six carotenoid subtypes 
+(α-carotene, β-carotene, β-cryptoxanthin, Lycopene, Lutein, Zeaxanthin) was 
+calculated using as the mean of two standardized 24-h dietary recalls. Type 2 
+diabetes mellitus (T2DM) was diagnosed based on fasting plasma glucose 
+(≥126 mg/dL), HbA1c (≥6.5%), hypoglycemic medication use, or clinical diagnosis. 
+DN was defined as a urinary albumin-to-creatinine ratio (UACR) ≥ 30 mg/g or 
+estimated glomerular filtration rate (eGFR) < 60 mL/min/1.73 m2 in T2DM 
+patients. Statistical analyses employed weighted multivariable logistic 
+regression using the R survey package, adjusting for sampling design and 
+covariates. Associations were quantified as odds ratios (ORs per 10 μg/d 
+carotenoid intake) with Benjamini-Hochberg correction for multiple comparisons. 
+The significance threshold was set at α = 0.05.
+RESULTS: This NHANES-based study revealed nonlinear associations between dietary 
+carotenoids and diabetic nephropathy (DN) risk, with notable gender-and 
+ethnicity-specific gender/ethnicity-specific effects. Univariate analysis 
+demonstrated elevated DN risk with higher β-cryptoxanthin intake (OR = 1.413, 
+95% CI), though significance was attenuated dissipated after multivariable 
+adjustment, suggesting confounding mediation by obesity and hypertension. 
+Multivariable models identified threshold effects: the low α-carotene intake 
+group exhibited a 75% reduced risk (OR = 0.25, 95% CI), while the high-intake 
+group showed a paradoxical risk elevation (OR = 2.24, 95% CI). β-Carotene 
+displayed gender-divergent effects, with the highest tertile significantly 
+reducing risk in males by 43% (OR = 0.57, 95% CI). Interaction models 
+highlighted intensified α-carotene protection in males and Non-Hispanic White 
+(OR = 0.27-0.29), whereas lycopene correlated with a fivefold increased DN risk 
+in Non-Hispanic Black (OR = 4.99, 95% CI). Cardinal risk factors included 
+advanced age (OR = 1.06/year), obesity (OR = 1.07/BMI unit), male sex 
+(OR = 3.05), and hypertension (OR = 4.7), while higher education (OR = 0.72) and 
+moderate alcohol consumption exerted inversely associated effects. These 
+findings underscore the necessity of integrating nutrient thresholds (e.g., 
+α-carotene optimization) and social determinants into DN prevention, though 
+racial subgroup analyses warrant validation through prospective cohorts due to 
+sample size constraints.
+CONCLUSION: Clinicians managing DN should: Prioritize Consider α-carotene's 
+biphasic dose-response relationship, prioritizing intake within the optimal 
+dosage window; Utilize Leverage β-carotene's gender-specific benefits for male 
+patients; Exercise caution in consider exploringing lycopene-rich dietary 
+interventions diets for African American populations. Public health initiatives 
+should incorporate nutrient-gender-ethnicity triadic assessments into DN 
+education programs to advance precision nutrition guidelines.
+
+Copyright © 2025 Wang, Feng, Tan, Zhang, Zhang, Huo, Song, Lin, Li, Liang and 
+Ding.
+
+DOI: 10.3389/fnut.2025.1584692
+PMCID: PMC12330217
+PMID: 40777169
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

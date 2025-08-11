@@ -1,0 +1,42 @@
+1. Acta Cardiol. 2025 Aug 8:1-6. doi: 10.1080/00015385.2025.2538386. Online ahead
+ of print.
+
+Empagliflozin in heart failure with preserved ejection fraction: from randomized 
+trials to real-world evidence.
+
+Dhont S(1)(2)(3), Singh A(1), Swinnen B(1), Vandebergen K(1), Smolders V(1), 
+Meekers E(1)(2)(3), Mullens W(1)(2)(3), Martens P(1)(2)(3), Bertrand 
+PB(1)(2)(3).
+
+Author information:
+(1)Faculty of Medicine and Life Sciences, Hasselt University, Diepenbeek, 
+Belgium.
+(2)Department of Cardiology, Ziekenhuis Oost-Limburg, Genk, Belgium.
+(3)Department of Future Health, Ziekenhuis Oost-Limburg, Genk, Belgium.
+
+BACKGROUND: The EMPEROR-Preserved clinical trial established empagliflozin as an 
+effective therapy in heart failure with preserved ejection fraction (HFpEF), yet 
+real-world validation in elderly, comorbid populations remain limited. We aimed 
+to evaluate the clinical profile, tolerability, and outcomes of empagliflozin in 
+a large Belgian HFpEF cohort.
+METHODS: This retrospective, single-centre observational study of consecutive 
+HFpEF patients (LVEF >50%) initiated on empagliflozin (10 mg daily) between 
+April 2023 and April 2024. Baseline characteristics, clinical parameters, 
+laboratory values, and outcomes were collected from electronic health records.
+RESULTS: Of 798 screened patients, 577 were included (median age 82 years, 58% 
+female). Atrial fibrillation (67%) and hypertension (78%) were highly prevalent. 
+Empagliflozin use was associated with significant improvements in NYHA 
+functional class (NYHA II: 56% to 77%, p < 0.001) and reduction in peripheral 
+oedema (26% to 9%, p < 0.001). Modest reductions were observed in systolic blood 
+pressure (131 to 130 mmHg, p = 0.017), heart rate (71 to 68 bpm, p = 0.004), 
+body weight (76 to 75 kg, p < 0.001), and BMI (27.7 to 27.2 kg/m2, p < 0.001). 
+Haemoglobin levels increased (p = 0.002), while renal function declined modestly 
+without clinical sequelae. Treatment discontinuation occurred in 2.8% of 
+patients, mainly due to genitourinary infections. During a median follow-up 
+period of 16 months, the all-cause mortality rate was 6.9%.
+CONCLUSION: In real-world elderly and comorbid HFpEF population, empagliflozin 
+was well tolerated and associated with improvements in congestion and functional 
+status, supporting the external validity of randomised trial findings.
+
+DOI: 10.1080/00015385.2025.2538386
+PMID: 40778782

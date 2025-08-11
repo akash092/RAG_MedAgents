@@ -1,0 +1,41 @@
+1. Int Neurourol J. 2025 Jul;29(Suppl 1):S44-S52. doi: 10.5213/inj.2550150.075. 
+Epub 2025 Jul 31.
+
+High-Intensity Aerobic Exercise Prevents Angiotensin II-Induced Muscle Atrophy.
+
+Won JH(1), Xiang YY(1), Baek KW(1)(2), Kang MJ(1), Kim JS(1)(2).
+
+Author information:
+(1)Department of Physical Education, Gyeongsang National University, Jinju, 
+Korea.
+(2)Research Institute of Pharmaceutical Sciences, Gyeongsang National 
+University, Jinju, Korea.
+
+PURPOSE: Angiotensin II (Ang II) is widely recognized as a primary factor in the 
+development of hypertension; however, recent research also implicates it in 
+skeletal muscle damage and atrophy. The precise mechanisms by which Ang II 
+impacts muscle morphology and the molecular pathways related to atrophy remain 
+unclear. Moreover, the potential protective effects of aerobic exercise against 
+Ang II-induced muscle alterations have not been fully elucidated. This study 
+aimed to investigate the effects of Ang II on skeletal muscle structure and 
+atrophy-related molecular markers and to assess whether aerobic exercise can 
+confer protective effects against these changes in an Ang II-induced animal 
+model.
+METHODS: Six-week-old mice (n =48) were divided into 4 groups: (1) control (CON, 
+n =12), (2) Ang II (n =12), (3) Ang II plus low-intensity exercise (Ang II+LIE, 
+n=12), and (4) Ang II plus high-intensity exercise (Ang II+HIE, n=12). Ang II 
+was administered subcutaneously once daily for 4 weeks (1.4 mg/kg/day in 
+phosphate-buffered saline, pH 7.2). The Ang II+LIE and Ang II+HIE groups 
+received daily Ang II injections along with their respective exercise protocols 
+for 4 weeks.
+RESULTS: The protein expression of inflammatory factors was significantly 
+reduced in the Ang II+HIE group compared to the Ang II group (P < 0.05). 
+Furthermore, the expression of muscle protein synthesis markers, including 
+insulin-like growth factor 1, AKT, mammalian target of rapamycin, and S6K1, was 
+significantly higher in the exercise groups than in the Ang II group (P<0.05). 
+Notably, the expression of autophagy-related factors was also significantly 
+elevated in the Ang II+HIE group compared to the Ang II group (P < 0.05).
+CONCLUSION: Ang II-induced muscle atrophy was attenuated by aerobic exercise.
+
+DOI: 10.5213/inj.2550150.075
+PMID: 40776597

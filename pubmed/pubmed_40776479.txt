@@ -1,0 +1,56 @@
+1. Orthop Surg. 2025 Aug 7. doi: 10.1111/os.70134. Online ahead of print.
+
+Risk Factors for Physiologic Radiolucent Lines Under the Tibial Base Plate After 
+Osteoarthritis With Primary Computer-Assisted Navigation TKA-A Nested 
+Case-Control Study.
+
+Tian H(1), Ma Y(1), Zhang J(1), Liu E(1), Zhang Z(1), Zuo J(1).
+
+Author information:
+(1)Department of Orthopedics, China-Japan Union Hospital of Jilin University, 
+Changchun, Jilin, China.
+
+BACKGROUND: Osteoarthritis (OA) is the most prevalent joint disease in the 
+elderly population, and primary computer-assisted navigation total knee 
+arthroplasty (CA-TKA) remains a critical therapeutic intervention for OA. The 
+presence of physiologic radiolucent lines (RLLs) beneath the tibial base plate 
+following CA-TKA carries significant long-term clinical implications and is 
+regarded as a potential indicator of prosthetic loosening. However, the specific 
+risk factors for RLL development in CA-TKA, despite its theoretical precision 
+advantages, remain poorly understood. This study aimed to characterize the 
+clinical features of physiologic RLLs and identify associated risk factors.
+METHODS: A retrospective nested case-control study was conducted using a cohort 
+of OA patients who underwent primary CA-TKA between January 2021 and September 
+2024. Physiologic RLLs were diagnosed according to the 1989 Knee Society Total 
+Knee Arthroplasty Roentgenographic Evaluation and Scoring System. Patients with 
+physiologic RLLs under the tibial base plate at follow-up were assigned to the 
+RLLs group, while controls were matched 1:1 from the cohort based on follow-up 
+time (±14 days). Covariates included age, gender, body mass index, smoking, 
+alcohol consumption, hypertension, diabetes, surgical side, hospital stay 
+duration, operative time, anesthesia type, continuous passive motion use, 
+periprosthetic joint infection, total perioperative blood loss, 
+preoperative/postoperative hip-knee-ankle angle (HKA), tibial cement mantle 
+quality, cement penetration, and perioperative medial proximal tibial angle. 
+Univariate and multivariate analyses were performed to identify risk factors.
+RESULTS: The cohort comprised 407 patients, of whom 113 developed physiologic 
+RLLs under the tibial base plate. Univariate analysis identified age, 
+preoperative HKA, tibial cement mantle defects, and cement penetration as 
+statistically significant risk factors (all p < 0.05). Multivariate logistic 
+regression analysis revealed that preoperative HKA (OR = 0.919, 95% 
+CI = 0.876-0.963, p < 0.001), tibial cement mantle defects (OR = 2.638, 95% 
+CI = 1.043-6.668, p = 0.040), and cement penetration (OR = 0.205, 95% 
+CI = 0.126-0.332, p < 0.001) were independent risk factors for physiologic RLLs 
+under the tibial base plate after primary CA-TKA in OA patients. Age was not an 
+independent risk factor.
+CONCLUSIONS: The overall incidence and clinical characteristics of physiologic 
+RLLs under the tibial base plate after primary CA-TKA were comparable to those 
+reported for conventional TKA techniques. This nested case-control study 
+identified preoperative HKA, tibial cement mantle defects, and cement 
+penetration as independent risk factors for physiologic RLLs, whereas age was 
+not.
+
+© 2025 The Author(s). Orthopaedic Surgery published by Tianjin Hospital and John 
+Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/os.70134
+PMID: 40776479

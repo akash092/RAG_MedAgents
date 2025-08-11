@@ -1,0 +1,45 @@
+1. Sci Adv. 2025 Aug 8;11(32):eady8566. doi: 10.1126/sciadv.ady8566. Epub 2025
+Aug  8.
+
+Heparan sulfate fine-tuned interleukin-1 (IL-1) signaling inhibits insulin 
+secretion of grafted pancreatic islets.
+
+Wrublewsky S(1), Rother S(2), Pohlemann F(1), Radanovic T(2), Junker F(2), Boewe 
+AS(1), Schunk S(3), Roma LP(4), Ruiz-Gómez G(5), Pisabarro MT(5), MacDonald 
+PE(6)(7), Menger MD(1), Laschke MW(1), Ampofo E(1).
+
+Author information:
+(1)Institute for Clinical and Experimental Surgery, Saarland University, 66421 
+Homburg/Saar, Germany.
+(2)Center for Molecular Signaling, Präklinisches Zentrum für Molekulare 
+Signalverarbeitung (PZMS), Saarland University, 66421 Homburg/Saar, Germany.
+(3)Department of Internal Medicine IV (Nephrology and Hypertension) and 
+Translational Cardio-Renal Medicine, Saarland University, 66421 Homburg/Saar, 
+Germany.
+(4)Biophysics Department, Center for Human and Molecular Biology, Saarland 
+University, 66421 Homburg/Saar, Germany.
+(5)Structural Bioinformatics, BIOTEC TU Dresden, Tatzberg 47-51, 01307 Dresden, 
+Germany.
+(6)Department of Pharmacology and Alberta Diabetes Institute, University of 
+Alberta, Edmonton, Alberta, Canada.
+(7)Division of Metabolism, Endocrinology and Diabetes, University of Michigan, 
+Ann Arbor, MI, USA.
+
+Islet-resident macrophages contribute to hypoxia-induced islet cell death during 
+pancreatic islet transplantation. However, their specific role during this 
+process remains elusive. Here, we report that interleukin-1α (IL-1α) and IL-1β 
+are released by islet-resident macrophages, resulting in the suppression of 
+insulin secretion. This may be due to a decreased inflammation-driven expression 
+of pancreatic and duodenal homeobox 1 (PDX-1) and MafA in β cells. 
+Islet-resident macrophages release significantly less IL-1α when compared to 
+IL-1β. However, both cytokines inhibit insulin expression and secretion to a 
+comparable extent. We identified heparan sulfate on the islet surface, which 
+acts as a "molecular glue" potentiating the inhibitory action of IL-1α on 
+insulin expression via specific binding to IL-1 receptor (IL-1R). In vivo 
+analyses revealed that the loss of IL-1 signaling in isolated islets accelerates 
+their revascularization and, thus, enhances their endocrine function. These 
+findings indicate that heparan sulfate fine-tuned IL-1 signaling crucially 
+determines the outcome of islet transplantation.
+
+DOI: 10.1126/sciadv.ady8566
+PMID: 40779638 [Indexed for MEDLINE]

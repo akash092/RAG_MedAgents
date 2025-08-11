@@ -1,0 +1,44 @@
+1. Cardiovasc J Afr. 2025 Jun 30;36(2):161-171. doi: 10.5830/CVJA-2025-025. Epub 
+2025 Jun 30.
+
+Cardiometabolic risk factors among public school teachers in Vhembe District: a 
+cross-sectional study.
+
+Ratshilivha ZL(1), Mahopo TC(2), Jacobs S(1), Muluvhu TC(3).
+
+Author information:
+(1)Department of Sport, Rehabilitation and Dental Sciences, Faculty of Science, 
+Tshwane University of Technology, Pretoria, South Africa.
+(2)Department of Nutrition, Faculty of Health Sciences, University of Venda, 
+Thohoyandou, South Africa.
+(3)Department of Sport, Rehabilitation and Dental Sciences, Faculty of Science, 
+Tshwane University of Technology, Pretoria, South Africa. Email: 
+muluvhutc@tut.ac.za.
+
+AIM: This study aimed to assess the prevalence of key cardiometabolic risk 
+factors, including hypertension, obesity, dyslipidaemia and diabetes, among 
+public school teachers in Vhembe district, Limpopo Province, South Africa.
+METHODS: A cross-sectional study design was employed, involving 201 public 
+school teachers. Stratified random sampling was used to select teachers on the 
+teachers' list obtained from the Department of Education. Anthropometric 
+measurement variables, which included including body mass index (BMI), waist 
+circumference (WC), and blood pressure (BP), were measured. Biochemical analyses 
+included fasting blood profiles, measuring total cholesterol, high-density 
+lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), 
+triglycerides (TGL) and glucose levels. Statistical analyses were conducted 
+using STATA 17, with a significance level set at p < 0.05.
+RESULTS: Obesity was observed in 43.7% of participants, with females 
+demonstrating a significantly (P = 0.000) higher prevalence (62.5%) than males 
+(20.2%). Additionally, 43.2% of participants presented with high-risk WC, with 
+males (50.5%) being more affected than females (37.5%). Stage 1 systolic blood 
+pressure hypertension was identified in 18.4% of participants, and 23.8% had 
+diabetes. Dyslipidaemia was marked by elevated LDL, low HDL and increased 
+triglyceride levels, with a higher prevalence in females.
+CONCLUSIONS: The findings indicate a substantial burden of cardiometabolic risk 
+factors among teachers in the Vhembe district. Urgent implementation of targeted 
+interventions, including health promotion, lifestyle modification, and routine 
+health screenings, is imperative. Further research is needed to validate these 
+findings across different regions in South Africa.
+
+DOI: 10.5830/CVJA-2025-025
+PMID: 40778882 [Indexed for MEDLINE]

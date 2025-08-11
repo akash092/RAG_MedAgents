@@ -1,0 +1,61 @@
+1. Portal Hypertens Cirrhosis. 2025 Mar;4(1):66-78. doi: 10.1002/poh2.100. Epub 
+2025 Jan 22.
+
+Resmetirom and thyroid hormone receptor-targeted treatment for metabolic 
+dysfunction-associated steatotic liver disease (MASLD).
+
+Liu CH(1), Zeng QM(2), Hu TY(2), Huang Y(3), Song Y(4), Guan H(5), Rockey DC(6), 
+Tang H(1), Li S(3).
+
+Author information:
+(1)Center of Infectious Diseases, West China Hospital, Sichuan University, 
+Chengdu, China. Laboratory of Infectious and Liver Diseases, Institute of 
+Infectious Diseases, West China Hospital, Sichuan University, Chengdu, China.
+(2)West China School of Medicine, West China Hospital, Sichuan University, 
+Chengdu, China. Laboratory of Infectious and Liver Diseases, Institute of 
+Infectious Diseases, West China Hospital, Sichuan University, Chengdu, China.
+(3)Department of Endocrinology and Metabolism and Department of Guideline and 
+Rapid Recommendation, Cochrane China Center, MAGIC China Center, Chinese 
+Evidence-Based Medicine Center, West China Hospital, Sichuan University, 
+Chengdu, China.
+(4)Department of Endocrinology, Central Hospital affiliated to Shandong First 
+Medical University, Jinan, Shandong, China.
+(5)Department of Endocrinology, Guangdong Provincial People's Hospital, 
+Guangdong Academy of Medical Sciences, Guangzhou, Guangdong Province, China.
+(6)Digestive Disease Research Center, Medical University of South Carolina, 
+Charleston, South Carolina, USA.
+
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is a rapidly 
+increasing chronic disease worldwide, particularly among patients with type 2 
+diabetes. Its severe form, metabolic dysfunction-associated steatohepatitis 
+(MASH), is also on the rise. The treatment of MASLD and MASH poses significant 
+challenges. Thyroid hormones and their receptors (TR) agonists, especially 
+resmetirom, have shown potential in improving metabolism and reducing liver 
+inflammation. Thyroid hormones play a crucial role in regulating metabolism and 
+maintaining physiological balance. However, in patients with MASLD, there is a 
+reduced conversion of 3,3',5,5'-tetraiodo-L-thyronine (T4) to biologically 
+active 3,5,3'-triiodo-L-thyronine (T3), resulting in decreased T3 levels and 
+impaired hepatic TR signaling. This hormonal imbalance is associated with 
+disrupted hepatic lipid metabolism. Resmetirom, an oral selective TR agonist 
+that specifically targets hepatocytes, was approved by the Food and Drug 
+Administration (FDA) in March 2024 for the treatment of moderate to severe liver 
+fibrosis in non-cirrhotic adults with MASH. This approval was based on the 
+results of the MAESTRO clinical program, which includes multiple-stage research 
+designs such as the MAESTRO-NASH, MAESTRO-NAFLD-1, MAESTRO-NAFLD-OLE, and 
+MAESTRO-NASH-OUTCOMES, aims to evaluate the efficacy and safety of resmetirom in 
+different populations of MASH patient. Although the approval of resmetirom 
+represents a significant milestone in the treatment of MAFLD and MASH, many 
+questions remain regarding its long-term effectiveness and impact on clinical 
+outcomes. Ongoing research, particularly through the MAESTRO program, holds 
+promise for providing additional insights into the long-term management of MASLD 
+using resmetirom and other similar medications.
+
+DOI: 10.1002/poh2.100
+PMCID: PMC12327538
+PMID: 40777891
+
+Conflict of interest statement: CONFLICT OF INTEREST STATEMENT Don C Rockey is 
+the Editor-in-Chief of Portal Hypertension & Cirrhosis. He is therefore excluded 
+from the peer-review process and all editorial decisions related to the 
+publication of this manuscript. The remaining authors declared that they have no 
+other conflict of interest with reference to this manuscript.

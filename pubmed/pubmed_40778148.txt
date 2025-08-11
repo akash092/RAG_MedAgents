@@ -1,0 +1,45 @@
+1. medRxiv [Preprint]. 2025 Jul 21:2025.07.18.25331742. doi: 
+10.1101/2025.07.18.25331742.
+
+A systematic review of behavioral interventions to improve maternal outcomes for 
+women in the United States at high risk for adverse pregnancy outcomes.
+
+Phipps JE, D'Souza I, Satish N, Ketchersid A, Whipps MDM, Van Noord M, Ebong I, 
+Khemet Taiwo T, Sudhof LS, Keeton V, Hedriana HL, Simmons LA.
+
+INTRODUCTION: Adverse pregnancy outcomes (APOs), including hypertensive 
+disorders, gestational diabetes, and preterm birth, affect 10-20% of U.S. 
+pregnancies and substantially increase long-term cardiovascular disease (CVD) 
+risk. While behavioral interventions during pregnancy may reduce risk factors 
+for APOs, evidence remains limited on which strategies are effective for 
+high-risk women. This systematic review addresses this gap by examining patterns 
+in intervention design, outcome reporting, and areas where research fails to 
+meet the needs of at-risk pregnant populations.
+METHODS: We searched PubMed and the Cochrane Central Register of Controlled 
+Trials for articles published from January 1, 2005, to June 30, 2024. Following 
+PRISMA guidelines, we included U.S.-based randomized controlled trials of 
+behavioral interventions: diet, physical activity, sleep, mindfulness, or 
+self-monitoring, delivered during pregnancy to women at high risk of APOs. See 
+Supplemental Figure S4 for the PRISMA Checklist. Two reviewers independently 
+performed screening, data extraction, and risk-of-bias assessment using the 
+Cochrane Risk of Bias Tool.
+RESULTS: Of 3,261 studies screened, 43 met inclusion criteria. Most 
+interventions focused on individuals with prepregnancy overweight or obesity, 
+often excluding those with other CVD risk factors. Thirty-six trials reported 
+improvements in outcomes such as gestational weight gain (GWG), postpartum 
+weight retention, blood pressure, or biomarkers. Interventions combining diet 
+and physical activity showed the greatest benefit. However, only four trials 
+demonstrated improvements in clinical outcomes like gestational diabetes, 
+hypertensive disorders, or lipid profiles. Outcome measures and timelines varied 
+widely, and few trials included postpartum follow-up or assessed outcomes beyond 
+GWG.
+DISCUSSION: Although behavioral interventions during pregnancy are growing in 
+number, trials are limited by heterogeneous designs, narrow inclusion criteria, 
+and inconsistent outcome reporting. The focus on GWG and exclusion of women with 
+complex risk profiles reduce generalizability. Inclusive research with 
+standardized outcomes is urgently needed to improve maternal health and reduce 
+long-term CVD risk.
+
+DOI: 10.1101/2025.07.18.25331742
+PMCID: PMC12330428
+PMID: 40778148

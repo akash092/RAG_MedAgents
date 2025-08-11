@@ -1,0 +1,48 @@
+1. Afr Health Sci. 2024 Sep;24(3):180-187. doi: 10.4314/ahs.v24i3.22.
+
+Correlation between abdominal visceral fat and the risk of endometrial cancer in 
+patients with polycystic ovary syndrome.
+
+Zhang J(1).
+
+Author information:
+(1)The first department of gynecology, Cangzhou central hospital, Hebei, China.
+
+OBJECTIVE: To explore the correlation between abdominal fat and the occurrence 
+risk of endometrial cancer (EC) in patients with polycystic ovary syndrome 
+(PCOS).
+METHODS: The clinical information of 120 PCOS patients receiving treatment in 
+our hospital from March 2019 to April 2022 were included in this study. Patients 
+were divided into two groups, endometrial cancer (EC, n=35) and normal group 
+(NM, n=85). Statistical analysis included t-test, c2-test, and Pearson's 
+correlation coefficient. We analysed the data using logistic regression. The 
+predictive accuracy and discriminative ability of the prediction model were 
+assessed by the area under the receiver operating characteristic (ROC) curve 
+(AUC) and calibration curves.
+RESULTS: The incidence rate of EC in women with PCOS is 10.91% (12/110). 
+Significant differences were found in waist circumference, hypertension, 
+diabetes, hyperlipidemia, body mass index (BMI), waist-hip ratio (WHR), insulin 
+resistance index (HOMA-IR), visceral fat area (VFA) oestrogen receptor, 
+progesterone receptor, human epidermal growth factor receptor-2 (HER2), 
+estradiol (E2), and luteinizing hormone (LH) between the two groups (P<0.05). No 
+statistical difference was found in age, hip circumference, menopause, use of 
+intrauterine device, progesterone (P) and follicle-stimulating hormone (FSH) 
+between the groups (P>0.05). Multivariate logistic regression analysis showed 
+that BMI, HOMA-IR, VFA and HER2 were independent influencing factors of EC in 
+PCOS patients (P<0.05). The AUC of BMI, HOMA-IR, VFA, HER2 were 0.878 (95%CI: 
+0.810~0.946), 0.831 (95%CI: 0.751~0.911), 0.816 (95%CI: 0.704~0.929) and 0.737 
+(95%CI: 0.634,0.840), respectively. The model had more diagnostic effectiveness 
+(AUC=0.973).
+CONCLUSIONS: In PCOS disease, high-level BMI, HOMA-IR, VFA, and positive HER2 
+show an increased risk in the incidence of EC. These findings suggest that BMI, 
+HOMA-IR, VFA, and HER2 are potential markers for Risk assessment of EC.HER2: 
+Human epidermal growth factor receptor-2, E2: estradiol, P: progesterone, LH: 
+Luteinizing hormone, FSH: Follicle-stimulating hormone.
+
+© 2024 Zhang J.
+
+DOI: 10.4314/ahs.v24i3.22
+PMCID: PMC12327140
+PMID: 40777932 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest.

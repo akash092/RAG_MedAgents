@@ -1,0 +1,53 @@
+1. Front Nutr. 2025 Jul 24;12:1593057. doi: 10.3389/fnut.2025.1593057.
+eCollection  2025.
+
+Global burden of chronic kidney disease due to hypertension attributable to 
+dietary risks in adults aged 25 years and older: findings from the global burden 
+of disease study 2021.
+
+Huang L(1), Qiu Y(1), Long Z(2), Ding C(1), Gong W(1), Liu A(1).
+
+Author information:
+(1)National Institute for Nutrition and Health, Chinese Center for Disease 
+Control and Prevention, Beijing, China.
+(2)Department of Medical Affairs, Xuanwu Hospital Capital Medical University, 
+Beijing, China.
+
+BACKGROUND: Suboptimal diet remains a major threat to chronic kidney diseases 
+(CKD) and hypertension, however, the burden of diet-attributable CKD due to 
+hypertension (HCKD) has been poorly quantified and reported. This study aimed to 
+provide a comprehensive and up-to-date view of global temporal and geographical 
+trends in diet-attributable HCKD burden.
+METHODS: Data on diet-attributable HCKD burden were extracted from the Global 
+Burden of Disease Study (GBD) 2021. Number and age-standardized rates (ASR) of 
+mortality and disability-adjusted life years (DALYs) with their average annual 
+percentage change (AAPC) were used to describe the diet-attributable HCKD 
+burden. Decomposition analysis was employed to assess the contributions of 
+aging, population, and epidemiological changes to HCKD burden.
+RESULTS: Globally, the ASR of mortality (ASMR) and DALYs (ASDR) of 
+diet-attributable HCKD among adults aged ≥25 years increased from 3.7 (95% 
+uncertainty interval [UI]: 2.0-5.6) and 91.7 (50.1-140.1) per 100,000 population 
+in 1990 to 4.3 (2.3-6.7) and 101.2 (56.0-154.5) per 100,000 population in 2021, 
+respectively. Both mortality and DALYs of diet-attributable HCKD burden in 2021 
+were higher among males than females. Low fruit and low vegetable intake 
+contributed the most to the diet-attributable HCKD burden. The highest ASMR and 
+ASDR of diet-attributable HCKD were observed in Central Sub-Saharan Africa, 
+whereas the lowest were observed in Eastern Europe. The older adult population 
+had higher mortality and DALYs than other age groups. Decomposition analysis 
+showed that population growth mainly contributed to HCKD burden, particularly in 
+low SDI regions.
+CONCLUSION: The diet-attributable HCKD burden is increasing at an alarming rate 
+globally, especially in low SDI countries and older adults. This study 
+emphasizes the urgent need for rigorous public health interventions to change 
+unhealthy dietary behaviors and decrease diet-attributable HCKD burden 
+worldwide.
+
+Copyright © 2025 Huang, Qiu, Long, Ding, Gong and Liu.
+
+DOI: 10.3389/fnut.2025.1593057
+PMCID: PMC12328163
+PMID: 40777173
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

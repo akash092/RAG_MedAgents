@@ -1,0 +1,26 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1964-1965. doi: 10.3233/SHTI251301.
+
+Hypertension Decoded: What 367,000 Real-World Cases Tell Us About Adolescents 
+and Young Adults.
+
+Sholokhova K(1), Yang HC(1), Li YC(1).
+
+Author information:
+(1)Graduate Institute of Biomedical Informatics, College of Medical Science and 
+Technology, Taipei Medical University, Taipei, Taiwan.
+
+While the evidence of damaging effects of hypertension is widely present in the 
+literature, the evidence of how the time of index event influences future health 
+burden of individuals is less prevalent. By using data from 367,809 patients in 
+the TriNetX global collaborative network, we compared the health burdens of 
+hypertension initiated during adolescence and young adulthood. Our analysis 
+revealed that adolescents face a 30.9% higher risk and a 17.6% greater hazard of 
+severe comorbidities, measured by CCI, within a five-year window compared to 
+young adults, highlighting the importance of earlier detection and intervention. 
+This work is a preliminary step toward a more comprehensive understanding of the 
+disease trajectories linked to early-onset hypertension, and by shedding light 
+on this issue, we hope to raise awareness among patients, caregivers, and 
+policymakers.
+
+DOI: 10.3233/SHTI251301
+PMID: 40776318 [Indexed for MEDLINE]

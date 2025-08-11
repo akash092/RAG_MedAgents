@@ -1,0 +1,42 @@
+1. Afr Health Sci. 2024 Sep;24(3):156-172. doi: 10.4314/ahs.v24i3.20.
+
+Prognostic impact of diagnostic and therapeutic time delays in breast cancer: an 
+exploratory data analysis for patients at Parirenyatwa Hospital, Zimbabwe.
+
+Saruchera B(1), Bodhlyera O(1), Mwambi H(1), Ndlovu N(2).
+
+Author information:
+(1)School of Mathematics, Statistics and Computer Science, University of 
+KwaZulu-Natal, Private Bag X01, Scottsville 3209, South Africa.
+(2)Department of Oncology, Faculty of Medicine and Health Sciences, University 
+of Zimbabwe, P.O.Box MP167. Mt Pleasant, Harare.
+
+OBJECTIVE: This paper seeks to investigate factors related to time delays for 
+diagnosis and treatment in breast cancer patients at Parirenyatwa Hospital in 
+Zimbabwe and subsequently evaluate the effects of presentation and diagnosis 
+delays on cancer stage.
+METHODS: The study was done for 379 patients with histologically diagnosed 
+invasive breast cancer, from 2015 through to 2019. The study sought to identify 
+factors associated with the time delays ( months)using parametric and 
+non-parametric methods, depending on whether underlying assumptions of such 
+tests are met. A multiple logistic regression model was also used to analyse the 
+association between factors, primary delay, secondary delay variables and cancer 
+stage.
+RESULTS: The median of the primary, secondary and treatment delay were found to 
+be 7.6, 1 and 0.4 months respectively. Rural residence, Karnofsky Performance 
+Score below 70%, hypertension comorbidity, tumor size (>5cm) and well 
+differentiated tumors (grade 1) were significant factors for delayed 
+presentation. Longer primary delay times and post-menopausal status were 
+associated with secondary delay. Advanced cancer stage at diagnosis and those on 
+medical aid were more likely to have a delay in treatment onset.
+CONCLUSION: Primary and secondary delay were predictive of advanced disease 
+using logistic regression.
+
+© 2024 Saruchera B et al.
+
+DOI: 10.4314/ahs.v24i3.20
+PMCID: PMC12327112
+PMID: 40777954 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

@@ -1,0 +1,36 @@
+1. bioRxiv [Preprint]. 2025 Jul 21:2025.07.18.664980. doi: 
+10.1101/2025.07.18.664980.
+
+Endothelial Nucleoporin93 (Nup93) Maintains Vascular Function via Sun1-Dependent 
+Regulation of RhoA-eNOS Signaling.
+
+Nguyen TD, Khan YZ, Hossen F, Makim R, Banks JM, Michalkiewicz J, Winek MA, de 
+Moraes LHO, Lee JC, Phillips SA, Lee MY.
+
+As the innermost lining of blood vessels, endothelial cells (ECs) regulate blood 
+flow, maintain vascular tone, and limit inflammation for vessel health. 
+EC-derived nitric oxide (NO), synthesized by endothelial nitric oxide synthase 
+(eNOS), is a vasodilator essential for improving blood flow and vascular 
+homeostasis. The RhoA/ROCK pathway regulates eNOS levels, where overactivation 
+decreases eNOS expression and downstream NO production. As such, RhoA/ROCK 
+hyperactivity and increased pMLC have been identified as major contributors to 
+age-associated vasoconstriction and hypertension. Intriguingly, recent studies 
+identify Sun1, a key component of the linker of nucleoskeleton and cytoskeleton 
+(LINC) complex, as a major regulator of RhoA/ROCK activity. Moreover, 
+endothelial aging deteriorates nuclear pore complexes (NPCs) ( i.e. nucleoporin 
+[Nup93]) and impairs nucleocytoplasmic transport, thereby insinuating a role for 
+nuclear envelope components in vessel homeostasis. Here, we show that targeted 
+loss of endothelial Nup93 in adult mice significantly reduces eNOS expression 
+and NO bioavailability for consequent defects in NO-dependent vasodilatory 
+responses. In vitro knockdown of Nup93 in primary human ECs also decreases both 
+eNOS expression and NO production. Mechanistically, we find that loss of Nup93 
+significantly reduces endothelial Sun1 levels for a concomitant increase in RhoA 
+activity. Indeed, restoring Sun1 protein levels in Nup93-deficient ECs mitigates 
+RhoA activity to rescue both eNOS expression and NO production. Taken together, 
+we demonstrate endothelial Nup93, through Sun1 stabilization, as a novel 
+regulator of eNOS-NO signaling and vessel reactivity, contributing to the 
+growing importance of nuclear membrane components in EC and vascular biology.
+
+DOI: 10.1101/2025.07.18.664980
+PMCID: PMC12330544
+PMID: 40777343

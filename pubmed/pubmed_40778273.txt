@@ -1,0 +1,49 @@
+1. Front Endocrinol (Lausanne). 2025 Jul 24;16:1628564. doi: 
+10.3389/fendo.2025.1628564. eCollection 2025.
+
+A predictive nomogram for incomplete clinical success after unilateral 
+adrenalectomy in patients with primary aldosteronism.
+
+Wang P(#)(1), Liu L(#)(1), Lu S(2), Zhu X(1), Zhu R(1), Yang Y(1), Zhou G(1), 
+Cao X(1).
+
+Author information:
+(1)Department of Endocrinology, Sichuan Provincial People's Hospital, School of 
+Medicine, University of Electronic Science and Technology of China, 
+Chengdu, China.
+(2)Department of Intensive Care Unit, Sichuan Provincial People's Hospital, 
+School of Medicine, University of Electronic Science and Technology of China, 
+Chengdu, China.
+(#)Contributed equally
+
+INTRODUCTION: Incomplete clinical success after unilateral adrenalectomy for 
+primary aldosteronism (PA) remains a significant challenge, often characterized 
+by persistent hypertension despite biochemical remission.
+OBJECTIVE: This study aimed to develop and validate a preoperative predictive 
+nomogram to estimate the probability of incomplete clinical success in PA 
+patients undergoing unilateral adrenalectomy.
+MATERIALS AND METHODS: A retrospective analysis was conducted on 58 PA patients 
+who underwent adrenalectomy. Independent predictors of non-complete clinical 
+success were identified using multivariate logistic regression. A nomogram was 
+developed based on age, highest systolic blood pressure (SBP), and 
+lateralization index (LI). Model performance was evaluated through the 
+concordance index (C-index), calibration plots, and decision curve analysis, 
+with internal validation performed via bootstrapping (1,000 resamples).
+RESULTS: Age (OR 1.117), highest SBP (OR 1.241), and LI (OR 1.044) were 
+independently associated with incomplete clinical success. The nomogram showed 
+strong discriminative ability (C-index: 0.829) and good calibration. Internal 
+validation confirmed its reliability (AUC: 0.844, sensitivity 84.2%, specificity 
+75.0%).
+CONCLUSION: This nomogram offers a reliable, easy-to-use tool for preoperative 
+risk stratification of PA patients, facilitating personalized postoperative 
+management. External validation in multicenter cohorts is warranted.
+
+Copyright © 2025 Wang, Liu, Lu, Zhu, Zhu, Yang, Zhou and Cao.
+
+DOI: 10.3389/fendo.2025.1628564
+PMCID: PMC12328156
+PMID: 40778273 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

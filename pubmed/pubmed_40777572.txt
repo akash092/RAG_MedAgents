@@ -1,0 +1,60 @@
+1. Explor Res Clin Soc Pharm. 2025 Jul 22;19:100636. doi: 
+10.1016/j.rcsop.2025.100636. eCollection 2025 Sep.
+
+Identification and follow up of cardiovascular disease risk factors among 
+participants at a pharmacy student-led screening program.
+
+Qureshi UB(1), Mpanya D(2), Khan R(1), Vally M(1), Orchard A(1).
+
+Author information:
+(1)Division of Clinical Pharmacy, Department of Pharmacy and Pharmacology, 
+School of Therapeutic Sciences, University of the Witwatersrand, Johannesburg, 
+South Africa.
+(2)Division of Cardiology, Department of Internal Medicine, School of Clinical 
+Medicine, Faculty of Health Sciences, University of the Witwatersrand, 
+Johannesburg, South Africa.
+
+BACKGROUND: The increased prevalence of cardiovascular disease (CVD) and 
+associated risk factors like hypertension, type 2 diabetes, dyslipideamia, and 
+obesity underscores the need for proactive screening. Given the insidious 
+progression of these conditions, early detection is paramount. The Screening and 
+Testing Programme for Pharmacy Students (STEPPS) is a pharmacy student-led, 
+work-based learning initiative at the University of the Witwatersrand that 
+provides preventive cardiovascular risk screening to university staff and 
+students.
+AIM: To identify the occurrence of underlying and uncontrolled risk factors for 
+cardiovascular disease from a convenience sample of participants who attended 
+the STEPPS screening events at the University of the Witwatersrand in year 2022. 
+The study further determined whether the referral of the identified participants 
+led to a diagnosis and intervention.
+METHODOLOGY: A cross-sectional study was conducted in a screening event called 
+STEPPS at the University of the Witwatersrand. A convenience sample of 
+university staff and students aged 18 years and older who voluntarily 
+participated was included. Fourth-year pharmacy students conducted screenings, 
+including blood pressure, blood glucose, cholesterol, and anthropometric 
+measurements. Participants with abnormal results were referred for further care, 
+and follow-up was conducted via telephone interviews several months later. 
+Quantitative data were analysed using descriptive and inferential statistics in 
+STATA® 18.0.
+RESULTS: There was a self-reported occurrence of hypertension (6.5 %), diabetes 
+(2.09 %), dyslipideamia (2.87 %), and obesity (3.91 %). Elevated readings were 
+observed among 136 (18.25 %) participants for blood pressure, 13 (2.83 %) 
+participants for blood glucose and, 50 (11.36 %) participants for blood 
+cholesterol. Among the CVD-related referrals based on abnormal screening results 
+(33 participants), 75 % complied. Of these, 35 % exhibited significant findings, 
+including newly diagnosed cases (43 %), disease escalation (29 %) and lifestyle 
+modifications (29 %). Among follow-up participants, 16 (80 %) participants 
+reported undergoing interventions post-screening.
+CONCLUSION: The student-led initiative effectively identified the occurrences of 
+undiagnosed and uncontrolled cases at the university with 80 % of referrals 
+leading to a medical intervention.
+
+© 2025 The Authors. Published by Elsevier Inc.
+
+DOI: 10.1016/j.rcsop.2025.100636
+PMCID: PMC12329120
+PMID: 40777572
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

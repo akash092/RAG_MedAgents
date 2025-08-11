@@ -1,0 +1,48 @@
+1. PLoS One. 2025 Aug 8;20(8):e0329412. doi: 10.1371/journal.pone.0329412. 
+eCollection 2025.
+
+Predictors of elevated carotid intima-media thickness as a surrogate marker for 
+cardiovascular disease in pediatric chronic kidney disease.
+
+Yulianti E(1), Palupi-Baroto R(1), Nugroho S(1), Noormanto N(1), Wilianto MG(2), 
+Putri DAD(3), Murni IK(1).
+
+Author information:
+(1)Department of Child Health, Faculty of Medicine, Public Health and Nursing, 
+Universitas Gadjah Mada/Dr Sardjito Hospital, Yogyakarta, Indonesia.
+(2)Faculty of Medicine, Universitas Kristen Duta Wacana, Yogyakarta, Indonesia.
+(3)Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada, 
+Yogyakarta, Indonesia.
+
+BACKGROUND: Chronic kidney disease (CKD), especially in its late stages, carries 
+significant morbidity and mortality, often due to cardiovascular problems. 
+Mortality rates for children with CKD and cardiovascular disorders remain high 
+even in high-income countries. Elevated carotid intima-media thickness (CIMT) is 
+considered a marker for vascular thickness and future cardiovascular events in 
+younger populations. This study aimed to determine predictors of cardiovascular 
+events in pediatric patients with CKD with CIMT as a surrogate marker.
+MATERIALS AND METHODS: A retrospective cohort study was conducted on children 
+aged 2-18 years with CKD at Dr. Sardjito Hospital, Yogyakarta, Indonesia, from 
+September 1st 2022-31st December 2023. We used multivariate logistic regression 
+to identify independent predictors at diagnosis (e.g., age, male sex, obesity, 
+CKD stage, and hypertension) associated with elevated CIMT (outcome), measured 
+at least three months post-diagnosis as a proxy for cardiovascular risk.
+RESULTS: A total of 71 patients were recruited, 35 (49.3%) of whom were male, 
+and the median age (range) was 14.67 years (4.6-18.8). Twenty-four children 
+(33.8%) had increased vascular thickness. In the multivariate analysis, male sex 
+was independently associated with increased vascular thickness with an adjusted 
+odds ratio (95% CI) of 2.911 (1.012-8.371, p = 0.047).
+CONCLUSION: Approximately one in three children with CKD experienced increased 
+vascular thickness. Male was an independent predictor for increased vascular 
+thickness in children with CKD.
+
+Copyright: © 2025 Yulianti et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0329412
+PMID: 40779532 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,44 @@
+1. Afr Health Sci. 2024 Sep;24(3):361-374. doi: 10.4314/ahs.v24i3.40.
+
+Prevalence and factors associated with depression and suicidal ideation among 
+people with diabetes mellitus and hypertension in Uganda.
+
+Nkola R(1)(2)(3), Kaggwa MM(1)(2), Muwanguzi M(4), Kule M(5), Rukundo GZ(1)(2), 
+Ashaba S(1).
+
+Author information:
+(1)Department of Psychiatry, Faculty of Medicine, Mbarara University of Science 
+and Technology, Uganda.
+(2)African Centre for Suicide Prevention and Research, Mbarara, Uganda.
+(3)Bugando medical centre, Mwanza Tanzania.
+(4)Faculty of Medicine, Mbarara University of Science and Technology, Uganda.
+(5)Department of Psychiatry, Mbarara Regional Referral Hospital, Mbarara, 
+Uganda.
+
+BACKGROUND: Depression and suicide ideation are more common among patients with 
+chronic physical illness including diabetes mellitus (DM) and hypertension 
+(HTN). Depression is often undetected, underdiagnosed, and undertreated during 
+routine care and may complicate into suicidal ideation in this population. This 
+study aimed to determine the prevalence of depression and suicidal ideation, and 
+associated factors among people living with DM and/or HTN in Uganda.
+METHODS: We enrolled 512 participants and assessed depression using PHQ-9, and 
+suicidal ideation using item 9 of PHQ-9. We run logistic regression models to 
+determine the factors associated with depression and suicidal ideation among 
+those with DM only, HTN only or both.
+RESULTS: The overall prevalence of depression and suicidal ideation was 22.07% 
+and 10%, respectively. Among participants with both DM&HTN the prevalence of 
+depression was 26.3% while 30.4% had comorbid suicidal ideation. Fear of 
+complications (AOR = 7.21; 95% CI =2.68-19.39; p = 0.01) was significantly 
+associated with depression. Adherence on antidiabetic medications (AOR = 0.10; 
+95% CI = 0.02-0.72; p = 0.02) was protective against depression.
+CONCLUSION: The prevalence of depression and suicidal ideation among patients 
+with DM and/or HTN in Uganda is high.
+
+© 2024 Nkola R et al.
+
+DOI: 10.4314/ahs.v24i3.40
+PMCID: PMC12327146
+PMID: 40777929 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

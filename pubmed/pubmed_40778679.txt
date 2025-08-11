@@ -1,0 +1,58 @@
+1. J Hypertens. 2025 Aug 7. doi: 10.1097/HJH.0000000000004113. Online ahead of 
+print.
+
+Long-term risk of adverse events in patients discharged alive after 
+hospitalization for hypertensive crisis.
+
+Bucci T(1)(2), Lam SHM(1), Argyris AA(1)(3), Beevers DG(4), Shantsila E(1)(5), 
+Shantsila A(1)(6), Lip GYH(1)(7).
+
+Author information:
+(1)Liverpool Centre for Cardiovascular Science at University of Liverpool, 
+Liverpool John Moores University and Liverpool and Heart and Chest Hospital, 
+Liverpool, UK.
+(2)Department of Clinical Internal, Anesthesiologic and Cardiovascular Sciences, 
+Sapienza University of Rome, Rome, Italy.
+(3)Cardiovascular Prevention and Research Unit, Clinic/Laboratory of 
+Pathophysiology, Laiko Hospital, Medical School, National and Kapodistrian 
+University of Athens, Greece.
+(4)University of Birmingham, Department of Medicine, City Hospital, Birmingham.
+(5)Department of Primary Care and Mental Health.
+(6)Department of Cardiovascular and Metabolic Medicine, University of Liverpool, 
+Liverpool, UK.
+(7)Department of Clinical Medicine, Aalborg University, Aalborg, Denmark.
+
+OBJECTIVE: To evaluate the long-term clinical course of patients presenting with 
+hypertensive crisis discharged alive from hospital.
+METHODS: Retrospective study utilizing TriNetX. Based on the ICD-10-CM codes 
+recorded between 2000 and 2022, patients with hypertensive crisis were 
+subdivided into hypertensive urgencies (HU) and hypertensive emergencies (HE). 
+In those with HE, the type of target organ damage was reported, i.e. central 
+nervous system (ischemic or haemorrhagic stroke and hypertensive 
+encephalopathy), cardiovascular (myocardial infarction (MI), heart failure (HF), 
+aorta dissection (AD)), or renal (acute kidney failure). Primary outcomes were 
+the one-year risks of all-cause death, and major cardiovascular events (MACE: 
+MI, stroke, cardiac arrest, AD, and HF). Secondary outcomes were the risks for 
+each type of MACE and the incident risk of Atrial Fibrillation (AF). Cox 
+regression analysis after propensity score matching (PSM) 1 : 1 was used to 
+produce hazard ratios (HRs) and 95% Confidence Intervals (95%CIs).
+RESULTS: Overall, we identified 27 721 patients with HE (age 62.4 ± 15.7, 46.3% 
+females) and 23 478 patients with HU (age 63.4 ± 17.3, 55.8% females). After 
+PSM, patients with HE showed a higher risk of all-cause death [hazard ratio 
+(HR), 1.33, 95% confidence internal (CI) 1.24-1.44] and MACE (HR 4.00, 95% CI 
+3.79-4.22), vs. those with HU. Of the secondary outcomes, patients with HE had 
+increased risks of MI, stroke, cardiac arrest, AD, acute HF, AD and incident AF. 
+All the different types of organ involvement were associated with similar 
+long-term risks of adverse events. During follow-up, 4% of patients with HU 
+progressed to HE. Young age, female sex, Black or Asian ethnicity, smoking, 
+secondary hypertension, diabetes and chronic kidney disease were identified as 
+the main risk factors.
+CONCLUSION: Patients with HE have a high long-term risk of all-cause death, MACE 
+and incident AF. Preventing the onset of target organ damage in patients with 
+hypertensive crisis is crucial to mitigate their long-term risk of adverse 
+events.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/HJH.0000000000004113
+PMID: 40778679

@@ -1,0 +1,29 @@
+1. Clin Lab. 2025 Aug 1;71(8). doi: 10.7754/Clin.Lab.2025.250218.
+
+A Case of Thrombocytopenia Caused by Gynostemma Pentaphyllum.
+
+Ding L, Lu T, Zhan L.
+
+BACKGROUND: The clinical harm of thrombocytopenia is significant, including 
+bleeding, anemia, thrombosis, and increased risk of infection. Gynostemma 
+pentaphyllum, a prominent traditional Chinese medicine, is clinically utilized 
+to treat various conditions such as diabetes mellitus, hepatic fibrosis, 
+hypertension, hyperlipidemia, and other disorders. This report details a case of 
+a cerebral infarction patient who developed significant thrombocytope-nia 
+following treatment with Gynostemma pentaphyllum. This case underscores the 
+importance of monitoring platelet counts in patients using Gynostemma 
+pentaphyllum.
+METHODS: The patient's platelet counts were measured using a fully automated 
+blood cell counter. Her whole blood cell concentrations were assessed before and 
+after discontinuation of Gynostemma pentaphyllum.
+RESULTS: Initial blood tests revealed leukocyte and platelet concentrations of 
+3.27 x 109/L and 6.0 x 109/L, respectively, after the patient had used 
+Gynostemma pentaphyllum continuously for over three months. 
+Post-discontinuation, two subsequent blood tests showed leukocyte counts of 5.26 
+x 109/L and 5.52 x 109/L, and platelet counts rebounded to 156 x 109/L.
+CONCLUSIONS: Gynostemma pentaphyllum may induce thrombocytopenia. Patients on 
+long-term therapy with this medication should have their platelet levels closely 
+monitored.
+
+DOI: 10.7754/Clin.Lab.2025.250218
+PMID: 40779472 [Indexed for MEDLINE]

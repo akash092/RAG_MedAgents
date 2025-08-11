@@ -1,0 +1,67 @@
+1. Rev Cardiovasc Med. 2025 Jul 25;26(7):37356. doi: 10.31083/RCM37356.
+eCollection  2025 Jul.
+
+Effect of Interactions Between Endothelial Lipase Gene Polymorphisms and 
+Traditional Cardiovascular Risk Factors on Coronary Heart Disease 
+Susceptibility.
+
+He C(1), Song X(2), He T(3), Tian Q(2), Zhang Y(4), Airikenjiang H(5), Abulaiti 
+D(5), Qiu H(5), Zhu M(5), Yang J(5), Zhang J(4)(6), Gao Y(5).
+
+Author information:
+(1)Department of Cardiology, Beijing Anzhen Hospital, Capital Medical 
+University, National Clinical Research Center for Cardiovascular Diseases, 
+100029 Beijing, China.
+(2)Department of Geriatric, Huangshi Central Hospital, Affiliated Hospital of 
+Hubei Polytechnic University, Edong Healthcare Group, 435000 Huangshi, Hubei, 
+China.
+(3)Beijing Key Laboratory of Preclinical Research and Evaluation for 
+Cardiovascular Implant Materials, Animal Experimental Centre, Fuwai Hospital, 
+National Centre for Cardiovascular Disease, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, 100037 Beijing, China.
+(4)Heart Failure Care Unit (HFCU), Heart Failure Center, Fuwai Hospital, 
+National Center for Cardiovascular Disease, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, 100037 Beijing, China.
+(5)Department of Comprehensive Internal Medicine, First Affiliated Hospital of 
+Xinjiang Medical University, 830011 Urumqi, Xinjiang, China.
+(6)Key Laboratory of Clinical Research for Cardiovascular Medications, National 
+Health Committee, 100037 Beijing, China.
+
+BACKGROUND: Coronary heart disease (CHD) arises from a complex interplay of 
+genetic and environmental factors. This study examines the influence of 
+endothelial lipase gene polymorphisms (rs2000813 and rs3813082) and their 
+interactions with traditional cardiovascular risk factors on CHD susceptibility.
+METHODS: This retrospective case-control study enrolled 900 CHD patients and 900 
+control subjects. We evaluated associations between conventional cardiovascular 
+risk factors and polymorphisms at the rs2000813 and rs3813082 loci in the 
+endothelial lipase gene. Multifactorial analysis was used to assess interactions 
+between traditional risk factors and these polymorphisms. Additionally, we 
+developed a predictive model integrating genetic variants and clinical variables 
+to estimate CHD risk.
+RESULTS: No significant differences were observed in the distribution of 
+rs2000813 genotypes (CC, CT, TT) and alleles (C, T), or rs3813082 genotypes (AA, 
+AC, CC) and alleles (A, C) between CHD and control groups, including among 
+males. However, in females with CHD, the rs2000813CT genotype was significantly 
+more frequent (49.30%) than in controls (37.80%), whereas the CC genotype was 
+less frequent in the CHD group (45.00%) than in controls (55.20%). Multivariate 
+logistic regression identified the rs2000813CT genotype, hypertension, ages ≥60 
+years, body mass index (BMI) values ≥28 kg/m2, total cholesterol (TC) ≥6.2 
+mmol/L, and apolipoprotein B (ApoB) ≥1.1 g/L as potential risk factors for CHD 
+in women (p < 0.05). Gene-environment interaction analysis revealed that BMI 
+exerted the greatest influence (12.62%). A predictive model incorporating 
+rs2000813 genotypes estimated CHD risk in women with an area under the curve 
+(AUC) of 0.804.
+CONCLUSIONS: The rs2000813CT endothelial lipase genotype is potentially 
+associated with an increased CHD risk in females, whereas the CC genotype may 
+confer a protective effect. Integrating endothelial lipase gene variants with 
+traditional cardiovascular risk factors enhances CHD risk prediction in women. 
+Synergistic interaction between endothelial lipase polymorphisms and 
+environmental factors appears to influence CHD occurrence in this population.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM37356
+PMCID: PMC12326425
+PMID: 40776945
+
+Conflict of interest statement: The authors declare no conflict of interest.

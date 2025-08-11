@@ -1,0 +1,89 @@
+1. Ter Arkh. 2025 Jul 31;97(7):538-544. doi: 10.26442/00403660.2025.07.203295.
+
+[Clinical portrait and features of antihypertensive therapy in comorbid patients 
+with arterial hypertension and chronic obstructive pulmonary disease according 
+to the national hypertension registry].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Aksenova AV(1), Serov IS(2), Belova OА(2), Rachkova SА(2), Chazova IE(1).
+
+Author information:
+(1)Chazov National Medical Research Center of Cardiology.
+(2)Cardiological Dispensary.
+
+BACKGROUND: Cardiovascular diseases (CVD) and chronic obstructive pulmonary 
+disease (COPD) are the two leading causes of death in the world. Studies show a 
+close mutually aggravating relationship between arterial hypertension (AH) and 
+COPD. Antihypertensive therapy in patients with AH and COPD has a number of 
+features, aiming to reduce the risk of developing cardiovascular complications 
+and mortality from CVD without worsening lung function.
+AIM: To analyze the data of patients with AH and COPD included in the national 
+registry to determine the burden of CVD risk factors, concomitant 
+cardiovascular, cerebrovascular diseases and chronic kidney disease, obesity, 
+diabetes mellitus, gout and characteristics of antihypertensive therapy.
+MATERIALS AND METHODS: A comparative analysis of patients of the hypertension 
+registry (conducted in outpatient clinics) was performed depending on the 
+presence (n=3323) or absence (n=54073) of chronic obstructive pulmonary disease. 
+Statistical analysis of the obtained data were performed using the R 4.3.3 
+statistical computing environment (R Foundation for Statistical Computing, 
+Vienna, Austria).
+RESULTS: The prevalence of COPD in patients with hypertension was 5.8% (3323 
+cases). The presence of COPD in patients with hypertension, regardless of gender 
+and age, was statistically significantly associated with higher odds of having 
+coronary artery disease [odds ratio (OR) 2.21, 95% confidence interval (CI) 
+2.06-2.38; p<0.001], a history of myocardial infarction (OR 1.73, 95% CI 
+1.59-1.87; p<0.001), chronic heart failure (OR 1.95, 95% CI 1.82-2.1; p<0.001), 
+a history of acute cerebrovascular accident (OR 1.25, 95% CI 1.07-1.46; 
+p=0.004), transient ischemic attack (OR 2.9, 95% CI 2.31-3.59; p<0.001), atrial 
+fibrillation (OR 1.68, 95% CI 1.45-1.93; p<0.001). Patients with hypertension 
+and COPD more often received drugs from the group of angiotensin-II receptor 
+antagonists than patients with hypertension without COPD (22.7% vs 17.7%). The 
+prescription of drugs from the group of beta-blockers in patients with 
+hypertension and COPD was lower by 4%. Cardiovascular risk factors, 
+comorbidities such as diabetes mellitus, gout, obstructive sleep apnea in 
+patients with hypertension and COPD are more common.
+CONCLUSION: Patients with COPD and hypertension have a higher incidence of risk 
+factors, CVD and comorbid pathologies. They require closer attention during 
+examination and during the selection of antihypertensive therapy. In patients 
+with hypertension and COPD, angiotensin-converting-enzyme inhibitors and 
+beta-blockers are prescribed less frequently than in patients with hypertension 
+without COPD due to possible side effects and contraindications.
+
+Publisher: Актуальность. Сердечно-сосудистые заболевания (ССЗ) и хроническая 
+обструктивная болезнь легких (ХОБЛ) – две основные причины смерти в мире. 
+Исследования показывают тесную взаимоотягчающую связь артериальной гипертонии 
+(АГ) и ХОБЛ. Антигипертензивная терапия (АГТ) у больных АГ и ХОБЛ имеет ряд 
+особенностей, ее цель – снижение риска развития сердечно-сосудистых осложнений и 
+смертности от ССЗ без ухудшения функции легких. Цель. Проанализировать данные 
+больных АГ и ХОБЛ, включенных в национальный регистр, для определения 
+отягощенности факторами сердечно-сосудистого риска (ССР), сопутствующими ССЗ, 
+цереброваскулярными заболеваниями и хронической болезнью почек, ожирением, 
+сахарным диабетом, подагрой, а также особенностей АГТ. Материалы и методы. 
+Выполнен сравнительный анализ пациентов регистра АГ (проводился в 
+амбулаторно-поликлинических учреждениях) в зависимости от наличия (n=3323) или 
+отсутствия (n=54 073) ХОБЛ. Статистический анализ полученных данных проводили с 
+использованием среды для статистических вычислений R 4.3.3 (R Foundation for 
+Statistical Computing, Вена, Австрия). Результаты. Распространенность ХОБЛ у 
+пациентов с АГ составила 5,8% (3323 случая). Наличие ХОБЛ у пациентов с АГ вне 
+зависимости от пола и возраста было статистически значимо ассоциировано с более 
+высокими шансами ишемической болезни сердца [отношение шансов (ОШ) 2,21, 95% 
+доверительный интервал (ДИ) 2,06–2,38; p<0,001], инфаркта миокарда в анамнезе 
+(ОШ 1,73, 95% ДИ 1,59–1,87; p<0,001), хронической сердечной недостаточности (ОШ 
+1,95, 95% ДИ 1,82–2,1; p<0,001), острого нарушения мозгового кровообращения в 
+анамнезе (ОШ 1,25, 95% ДИ 1,07–1,46; p=0,004), транзиторной ишемической атаки 
+(ОШ 2,9, 95% ДИ 2,31–3,59; p<0,001), фибрилляции предсердий (ОШ 1,68, 95% ДИ 
+1,45–1,93; p<0,001). Больные АГ и ХОБЛ по сравнению с больными АГ без 
+сопутствующей ХОБЛ чаще получали препараты из группы антагонистов рецепторов к 
+ангиотензину II (22,7% vs 17,7%). Препараты из группы b-адреноблокаторов больным 
+АГ и ХОБЛ назначали реже на 4%, чем больным АГ без ХОБЛ. Факторы ССР, 
+сопутствующие заболевания, такие как сахарный диабет, подагра, обструктивное 
+апноэ сна, у больных АГ и ХОБЛ встречались чаще. Заключение. Пациенты с ХОБЛ и 
+АГ имеют большую частоту факторов риска ССЗ и коморбидных патологий. Они требуют 
+более пристального внимания при обследовании и во время подбора АГТ. Пациентам с 
+АГ и ХОБЛ ингибиторы ангиотензинпревращающего фермента и b-адреноблокаторы 
+назначают реже, чем пациентам с АГ без ХОБЛ, из-за возможных побочных эффектов и 
+противопоказаний.
+
+DOI: 10.26442/00403660.2025.07.203295
+PMID: 40778913 [Indexed for MEDLINE]

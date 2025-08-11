@@ -1,0 +1,41 @@
+1. Ann Med. 2025 Dec;57(1):2530692. doi: 10.1080/07853890.2025.2530692. Epub 2025
+ Aug 7.
+
+Complications of Median arcuate ligament syndrome: age-independent but linked to 
+celiac axis narrowing severity.
+
+Wang Y(1), Hao X(1), Xiong Z(1), Jiang Y(1), Hu D(1), Li Z(1), Shen Y(1).
+
+Author information:
+(1)Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, China.
+
+PURPOSE: Median Arcuate Ligament Syndrome (MALS) is often underdiagnosed due to 
+nonspecific symptoms. This study proposes a CT-based grading system that 
+evaluate the association between grade and the incidence of celiac or superior 
+mesenteric artery aneurysms.
+METHODS: From January 2021 to July 2023, patients exhibiting the characteristic 
+hooked appearance on sagittal contrast-enhanced CT, indicative of MALS, were 
+included in the study. An age- and sex-matched hypertension screening cohort was 
+also recruited as a control group for comparison. They were classified into 
+mild-to-moderate and severe stenosis groups based on a 50% stenosis threshold. 
+Clinical data (biochemical markers, etc), and imaging parameters (SMA and CA 
+diameters) were analyzed to assess their association with MALS severity and 
+related complications.
+RESULTS: A total of 427 MALS patients and 427 age- and sex-matched controls were 
+included (69.1% male; median age 59 years). Radiological assessments showed 
+increased abdominal aorta and distal SMA diameters in the MALS group. Higher age 
+(p = 0.002), alcohol consumption (p = 0.022), lower triglycerides (p = 0.004), 
+and larger SMA diameter (p = 0.001) were associated with MALS severity. Our 
+study revealed that while the incidence of severe complications in MALS patients 
+does not correlate significantly with age(p = 0.064), it peaks in those aged 
+60-69 years(50.8%).
+CONCLUSION: Contrast-enhanced CT serves as a valuable tool for classifying the 
+severity of MALS and assessing associated complications. MALS severity 
+correlates with older age, alcohol consumption, lower triglyceride levels, and 
+larger SMA diameter. These findings underscore the importance of integrated 
+clinical, biochemical, and imaging assessment in improving diagnostic accuracy, 
+risk stratification, and management of MALS.
+
+DOI: 10.1080/07853890.2025.2530692
+PMID: 40776404 [Indexed for MEDLINE]

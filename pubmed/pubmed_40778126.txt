@@ -1,0 +1,63 @@
+1. medRxiv [Preprint]. 2025 Jul 21:2025.07.21.25331933. doi: 
+10.1101/2025.07.21.25331933.
+
+Risk factors for West Nile neuroinvasive disease and mortality in the United 
+States, 2013-2024.
+
+Judson SD, Dowdy D.
+
+IMPORTANCE: West Nile virus (WNV) is the leading mosquito-borne infection in the 
+United States and can cause West Nile fever (WNF) or West Nile neuroinvasive 
+disease (WNND), resulting in substantial morbidity and mortality. Contemporary 
+risk factor analyses are needed to identify populations at increased risk for 
+severe outcomes and target interventions accordingly.
+OBJECTIVE: To assess risk factors for WNND and mortality among adults with WNV 
+infection using a large national cohort from federated real-world data.
+DESIGN: A retrospective cohort analysis from 2013-2024, consisting of 
+de-identified electronic health record data from the TriNetX Research Network, 
+including adult patients with an ICD-10 diagnosis consistent with WNV infection. 
+Data were accessed from March 28 th to April 30 th , 2025.
+SETTING: The retrospective cohort included patients from 65 healthcare 
+organizations from across the United States, using the TriNetX Research Network.
+PARTICIPANTS: The overall initial cohort included 3,064 adult patients with an 
+ICD-10 diagnosis consistent with WNV infection, including 1,328 with WNF and 
+1,206 with WNND.
+EXPOSURES: Demographic characteristics (age, sex, race, ethnicity), 
+comorbidities (hematologic malignancy, ischemic heart disease, other forms of 
+heart disease, diabetes, HIV, chronic kidney disease (CKD), liver disease, 
+hypertension, alcohol related disorders, cerebrovascular disease (CEVD), chronic 
+obstructive pulmonary disease, asthma, multiple sclerosis, dementia, rheumatoid 
+arthritis, organ transplant), and medications (immune suppressants, 
+antineoplastics).
+MAIN OUTCOMES AND MEASURES: The primary outcomes were the development of WNND 
+and all-cause mortality (30-day, 90-day, and overall mortality).
+RESULTS: Among all patients diagnosed with WNV infection, those with WNND were 
+older (mean age 59 vs 55, p-value <0.0001) and more often male (61% vs 48%, 
+p-value <0.0001). Significant risk factors for WNND included age (adjusted 
+hazard ratio [aHR] 1.11 per decade, 95% confidence interval [CI] 1.06-1.49), 
+male sex (aHR 1.29, 1.15-1.45), CKD (aHR 1.21, 1.002-1.45), CEVD (aHR 1.22, 
+1.03-1.45), hematologic malignancy (aHR 1.38, 1.09-1.76), immune suppressant use 
+(aHR 1.43, 1.11-1.83), hypertension (aHR 1.18, 1.04-1.34), alcohol related 
+disorders (aHR 1.54, 1.20-1.97), and multiple sclerosis (aHR 2.3, 1.62-3.37). 
+Significant risk factors for mortality were WNND (aHR 2.49 for 30-day mortality, 
+95% CI 1.37-4.52), age (aHR 1.32 per decade, 95% CI 1.07-1.60), CKD (aHR 2.08, 
+95% CI 1.01-3.93), and CEVD (aHR 2.00, 95% CI 1.14-3.50).
+CONCLUSIONS AND RELEVANCE: Risk factors for WNND broadly reflect impaired immune 
+response and/or central nervous system vulnerability. Patients who developed 
+WNND were at substantially increased risk of death. Targeted prevention 
+strategies and countermeasures for those at greatest risk for WNND could 
+substantially reduce morbidity and mortality.
+KEY POINTS: Question: What are risk factors for West Nile virus neuroinvasive 
+disease and mortality in the United States between 2013 and 2024?Findings: In 
+this retrospective cohort analysis, we found that increased age, chronic kidney 
+disease, and cerebrovascular disease are significantly associated with both West 
+Nile neuroinvasive disease and mortality. Additionally, male sex, hematologic 
+malignancy, immune suppressants, hypertension, alcohol related disorders, and 
+multiple sclerosis were significant risk factors for West Nile neuroinvasive 
+disease.Meaning: An aging population in the United States with increasing rates 
+of comorbidities and immunosuppression faces an increased risk for severe 
+disease from West Nile virus infection.
+
+DOI: 10.1101/2025.07.21.25331933
+PMCID: PMC12330448
+PMID: 40778126

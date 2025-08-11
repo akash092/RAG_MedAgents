@@ -1,0 +1,31 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1190-1194. doi: 10.3233/SHTI251027.
+
+Early Identification of Vitamin D Deficiency Risk Through Public Health 
+Screening Data.
+
+Hsu SL(1)(2), Li YJ(1)(2), Yang HC(1).
+
+Author information:
+(1)Graduate Institute of Biomedical Informatics, College of Medical Science and 
+Technology, Taipei Medical University, Taipei, Taiwan.
+(2)Department of Family Medicine, Wanfang Hospital, Taipei Medical University, 
+Taipei, Taiwan.
+
+Metabolic syndrome, characterized by central obesity, hypertension, 
+hyperglycemia, dyslipidemia, and reduced high-density lipoprotein levels, 
+significantly increases the risk of cardiovascular diseases. Vitamin D, 
+essential for calcium regulation and immune modulation, has been linked to 
+reduced inflammation and metabolic syndrome. This study aimed to develop machine 
+learning models to predict vitamin D deficiency using data from publicly funded 
+health check-ups in Taiwan. A total of 6,046 adults aged 30 years and older were 
+included, with data on demographics, anthropometric measures, and biochemical 
+indicators. Six algorithms, including logistic regression, random forest, SVM, 
+XGBoost, LightGBM, and MLP, were evaluated. Models were trained and tuned using 
+stratified sampling and K-fold cross-validation. XGBoost demonstrated the best 
+overall performance, with high accuracy, F1-Score, and balanced precision and 
+recall, supporting its applicability for predicting vitamin D deficiency. Future 
+research should address feature quality, class imbalance, and dataset diversity 
+to enhance predictive frameworks for vitamin D deficiency.
+
+DOI: 10.3233/SHTI251027
+PMID: 40776045 [Indexed for MEDLINE]

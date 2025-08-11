@@ -1,0 +1,51 @@
+1. Rev Cardiovasc Med. 2025 Jul 30;26(7):38696. doi: 10.31083/RCM38696.
+eCollection  2025 Jul.
+
+Epigenetic Mechanisms in Heart Diseases.
+
+Yildiz M(1).
+
+Author information:
+(1)Medical Faculty, Department of Biophysics, Trakya University, 22030 Edirne, 
+Türkiye.
+
+Heart diseases (HDs) continue to be among the major diseases that adversely 
+affect human health worldwide, with complex interactions between genetic, 
+environmental, and biochemical factors contributing to their progression. These 
+include coronary heart disease, hypertension, heart failure, vascular 
+calcification, etc. Cardiovascular diseases have been extensively studied in the 
+Framingham Heart Study since 1948, spanning three generations over the past 70 
+years, and are highly correlated with various factors, including biochemical, 
+environmental, behavioral, and genetic factors. In recent years, epigenetic 
+mechanisms have emerged as crucial regulators of cardiovascular pathology, 
+influencing gene expression without altering the underlying DNA sequence. 
+Moreover, early detection and diagnosis of heart diseases are crucial for 
+improving treatment and prognosis. Recent studies on heart disease have found 
+that the expression of potential candidate genes related to the disease is 
+associated with epigenetic mechanisms. Indeed, abnormal methylation states have 
+been detected in candidate genes that can serve as biomarkers to assess the 
+progression of heart disease. Recent advances in next-generation sequencing 
+techniques have contributed significantly to our understanding of heart 
+diseases, including the role of DNA methylation, adenosine triphosphate 
+(ATP)-dependent chromatin conformation and remodeling, post-translational 
+modifications of histones and non-coding RNAs. Lastly, this review examines the 
+latest discoveries in the epigenetic regulation of heart diseases, highlighting 
+the roles of DNA methyltransferases (DNMTs), histone deacetylases (HDACs), 
+sirtuins (SIRTs), and ten-eleven translocation proteins (TETs). Additionally, 
+this review highlights preclinical therapeutic strategies targeting epigenetic 
+modifiers, offering new avenues for precision medicine in cardiology. 
+Understanding these epigenetic pathways is crucial for developing novel 
+biomarkers and epigenetic-based therapies that aim to reverse maladaptive 
+cardiac remodeling and enhance clinical outcomes.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM38696
+PMCID: PMC12326461
+PMID: 40776938
+
+Conflict of interest statement: The author declares no conflict of interest. 
+Mustafa Yildiz is serving as Guest Editor of this journal. We declare that 
+Mustafa Yildiz had no involvement in the peer review of this article and has no 
+access to information regarding its peer review. Full responsibility for the 
+editorial process for this article was delegated to John Lynn Jefferies.

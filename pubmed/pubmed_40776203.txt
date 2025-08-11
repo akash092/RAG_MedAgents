@@ -1,0 +1,25 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1730-1731. doi: 10.3233/SHTI251186.
+
+Investigating Facilitators and Barriers Related to the Use of Smart Health 
+Devices Among Minority Older Adults.
+
+Sun J(1), Dong Y(2), Boliboun J(3), Koo K(3), Cui M(3), Rizzo V(2), Rowe J(4).
+
+Author information:
+(1)Rush Medical College, Chicago, IL, USA.
+(2)School of Social Welfare, University at Albany, SUNY, Albany, NY, USA.
+(3)Department of Internal Medicine, Rush University Medical Center, Chicago, IL, 
+USA.
+(4)Department of Social Work, University of Wisconsin-Whitewater, Whitewater, 
+WI, USA.
+
+Smart health devices are increasingly used among older adults to monitor their 
+health conditions. But less than 4% of users are African American and Latinx 
+older adults. We identify facilitators and barriers that impact the use of smart 
+health devices among minority older adults through conducting an exploratory 
+interview study. The results highlight the need for accessible, supportive, and 
+equitable approaches to adopt smart health devices to fulfill its promising in 
+meeting the needs of minority older adults.
+
+DOI: 10.3233/SHTI251186
+PMID: 40776203 [Indexed for MEDLINE]

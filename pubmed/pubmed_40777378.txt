@@ -1,0 +1,34 @@
+1. bioRxiv [Preprint]. 2025 Jul 27:2025.07.23.666477. doi: 
+10.1101/2025.07.23.666477.
+
+Adaptive Immunity Governs Regional Aortic Remodeling in Hypertension via 
+Perivascular Adipose Tissue Plasticity.
+
+Xu Y, Snider JC, Bersi MR.
+
+Hypertension drives heterogeneous aortic remodeling, but the mechanisms 
+underlying regional disparities remain unclear. Here, we demonstrate that 
+adaptive immunity orchestrates spatial differences in vascular dysfunction by 
+modulating perivascular adipose tissue (PVAT) phenotype and immune-metabolic 
+crosstalk. Using angiotensin II (AngII)-infused wild-type (WT) and Rag1 -/- mice 
+lacking T and B cells, we integrated biaxial mechanical testing, bulk 
+transcriptomics, and PVAT analyses. In WT mice, AngII induced pronounced 
+descending thoracic aorta (DTA) remodeling, marked by wall thickening, reduced 
+circumferential stiffness and inflammatory gene upregulation ( Il6 , Ccl2 ). 
+These changes were attenuated in Rag1 -/- mice, implicating T cells in thoracic 
+maladaptation. Conversely, the infrarenal abdominal aorta (IAA) exhibited 
+hypertensive resilience in WT mice but unmasked PPARγ-associated metabolic 
+reprogramming ( Pparg , Adipoq ) in Rag1 -/- mice, suggesting T cells suppress 
+protective abdominal adaptations. PVAT heterogeneity emerged as a key regulator 
+wherein thoracic PVAT (T-PVAT) adopted a pro-inflammatory phenotype (CCL5, 
+TIMP-1) in WT mice, exacerbating DTA damage, while Rag1 -/- mice showed 
+thermogenic plasticity ( Ucp1 upregulation) in abdominal PVAT (A-PVAT). T cell 
+reconstitution restored maladaptive remodeling in Rag1 -/- mice, confirming 
+adaptive immunity's dual role in promoting thoracic injury and restraining 
+metabolic resilience. This work identifies PVAT as an immune-metabolic switch 
+governing regional susceptibility to vascular remodeling, offering spatially 
+resolved strategies to preserve aortic compliance in hypertensive disease.
+
+DOI: 10.1101/2025.07.23.666477
+PMCID: PMC12330511
+PMID: 40777378

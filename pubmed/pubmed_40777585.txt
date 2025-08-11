@@ -1,0 +1,58 @@
+1. Int J Cardiol Heart Vasc. 2025 Jul 28;60:101761. doi: 
+10.1016/j.ijcha.2025.101761. eCollection 2025 Oct.
+
+Relationship between ankle brachial index and carotid-femoral pulse wave 
+velocity in hypertension patients with diabetes mellitus.
+
+Liu J(1)(2)(3), Cui X(1), Jiang S(1), Wang J(1), Wen H(1), Xiong K(1), Zhao 
+H(1), Zhao N(1), Wang H(1)(2)(3)(4)(5).
+
+Author information:
+(1)Department of Vascular Medicine, Peking University Shougang Hospital, 
+Jinyuanzhuang Road 9, Shijingshan District, Beijing 100144, PR China.
+(2)Beijing Shijingshan District Key Clinical Specialty of Vascular Medicine, 
+Beijing 100144, PR China.
+(3)Vascular Health Research Center of Peking University Health Science Center 
+(VHRC-PKUHSC), Beijing 100144, PR China.
+(4)Key Laboratory of Molecular Cardiovascular Sciences (Peking University), 
+Ministry of Education, Beijing 100191, PR China.
+(5)Heart and Vascular Health Research Center of Peking University Clinical 
+Research Institute (HVHRC-PUCRI), Beijing 100191, PR China.
+
+BACKGROUND: Ankle-brachial index (ABI) is used to diagnose peripheral artery 
+disease. Arterial stiffness could be measured by carotid-femoral pulse wave 
+velocity (CF-PWV). The study was to investigate relationship between ABI and 
+CF-PWV in patients with hypertension and diabetes mellitus.
+METHODS: 1577 patients (M/F 812/765) from Department of Vascular Medicine were 
+enrolled. ABI was recorded by VaseraVS-1000 vascular screening system (Fukuda 
+Denshi, Tokyo, Japan). CF-PWV was recorded by Complior apparatus.
+RESULTS: CF-PWV was significantly higher in hypertension patients with diabetes 
+mellitus than hypertension patients without diabetes mellitus (13.77 ± 3.91 vs 
+11.83 ± 3.26 m/s, p < 0.05). Right ABI was significantly lower in hypertension 
+patients with diabetes mellitus than hypertension patients without diabetes 
+mellitus (1.062 ± 0.163 vs 1.102 ± 0.105, p < 0.05). Right ABI was negatively 
+correlated with age, systolic blood pressure, CF-PWV and creatinine in entire 
+study group (r = -0.081, p = 0.001; r = -0.069,p < 0.001; r = -0.178, p < 0.001; 
+r = -0.124, p < 0.001, respectively). Multiple linear regressions found that 
+CF-PWV, body mass index (BMI), gender, creatinine, total cholesterol, uric acid 
+and diabetes mellitus were independent associating factors of RABI in all 
+patients (β = -0.168, p < 0.001; β = 0.180, p < 0.001; β = -0.189, p < 0.001; 
+β = -0.102, p = 0.008; β = 0.088, p = 0.004; β = -0.100, p = 0.009;β = -0.062, 
+p = 0.043; respectively). CF-PWV, BMI, gender and HDL-C were independent 
+associating factors of left ABI in all patients (β = -0.170, p < 0.001; 
+β = 0.172, p < 0.001; β = -0.104, p = 0.001; β = 0.074, p = 0.023; 
+respectively).
+CONCLUSIONS: ABI was significantly lower in hypertension patients with diabetes 
+mellitus, with higher level of CF-PWV. CF-PWV was an independent associating 
+factor of ABI, indicating the greater the elasticity of the large arteries, the 
+higher the probability of lower limb artery occlusion.
+
+© 2025 The Author(s).
+
+DOI: 10.1016/j.ijcha.2025.101761
+PMCID: PMC12329251
+PMID: 40777585
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

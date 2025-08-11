@@ -1,0 +1,68 @@
+1. Pan Afr Med J. 2025 Jun 9;51:38. doi: 10.11604/pamj.2025.51.38.46334. 
+eCollection 2025.
+
+Risk factors for hypertension in patients with type 2 diabetes mellitus in the 
+Casablanca-Settat region, Morocco: a cross-sectional study.
+
+El Alami H(1), Bouqdayr M(2), Errafii K(3), Lkhider M(4), Al Idrissi N(5), 
+Ghazal H(6), Wakrim L(7), Abidi O(8), Khlil N(9), Naamane A(9), Maaroufi A(10), 
+Hamdi S(1).
+
+Author information:
+(1)Research and Teaching Department, Virology and Public Health Laboratory, 
+Institut Pasteur du Maroc, Casablanca, Morocco.
+(2)Laboratory of Biology and Health, Faculty of Sciences Ben M´sick, Hassan II 
+University of Casablanca, Casablanca, Morocco.
+(3)African Genome Center, Mohammed VI Polytechnic University, Bengurir, Morocco.
+(4)Faculty of Sciences and Techniques of Mohammedia, Hassan II University of 
+Casablanca, Casablanca, Morocco.
+(5)Department of Surgery, School of Medicine, Mohammed VI University of Health 
+Sciences, Casablanca, Morocco.
+(6)Department of Sports Sciences, Laboratory of Sports Sciences and Performance 
+Optimization, Royal Institute of Executive Management for Youth and Sport, 
+Rabat, Morocco.
+(7)Laboratory of Virology Unit, Immunovirology, Institut Pasteur du Maroc, 
+Casablanca, Morocco.
+(8)Laboratory of Human Molecular Genetics and Medical Genomics, Institut 
+Supérieur des Professions Infirmières et Techniques de Santé (ISPITS), 
+Casablanca, Morocco.
+(9)Laboratory of Chemistry, Biochemistry, Nutrition and Environment, Faculty of 
+Medicine and Pharmacy, University Hassan II of Casablanca, Casablanca, Morocco.
+(10)Institut Pasteur du Maroc, Casablanca, Morocco.
+
+INTRODUCTION: hypertension in patients with type 2 diabetes mellitus (T2DM) is a 
+major problem that increases the risk of morbidity and mortality. Although the 
+prevalence of this disease is high in the T2DM population, the risk factors for 
+it remain understudied. The objective of this study is to identify the risk 
+factors combined with hypertension in Moroccan patients with T2DM.
+METHODS: this cross-sectional study was conducted between January 2017 and July 
+2018 in primary healthcare centers. A total of 503 T2DM patients were included. 
+Inclusion criteria: adults (≥18 years) with T2DM for ≥1 year. Exclusion 
+criteria: type 1 diabetes, gestational diabetes, cognitive impairment, or 
+missing data. Data on demographics, clinical history, and biochemical markers 
+were analyzed using SPSS. Logistic regression identified independent risk 
+factors, reported as adjusted OR with 95% CI. A p-value <0.05 was considered 
+statistically significant.
+RESULTS: a total of 503 patients with T2DM were included (71% female, 29% male), 
+with a mean age of 58.4 ± 10.2 years. The prevalence of hypertension was 70.2%. 
+Patients with hypertension were significantly older (mean age: 61.2 ± 9.8 years 
+vs. 52.6 ± 10.5 years, p ≤ 0.001). The most common cardiovascular risk factors 
+were dyslipidemia (54.1%), obesity (mean BMI: 30.8 ± 5.6 kg/m2), and a sedentary 
+lifestyle (50.6%). Multivariable logistic regression identified older age (OR: 
+4.74, 95% CI: 2.47-9.10; p ≤ 0.001), longer diabetes duration (OR: 2.28, 95% CI: 
+1.14-4.53; p = 0.018), BMI levels (OR: 1.05, 95% CI: 1.00-1.10; p = 0.019), 
+dyslipidemia (OR: 2.07, 95% CI: 1.28-3.33; p = 0.003), and therapeutic 
+modifications (OR: 1.98, 95% CI: 1.11-3.53; p = 0.020) as significant risk 
+factors.
+CONCLUSION: in this study, we found that hypertension is highly prevalent among 
+patients with T2DM. Our findings indicate that older age, longer diabetes 
+duration, therapeutic modifications, dyslipidemia, and higher BMI levels are 
+significant risk factors for diabetes.
+
+Copyright: Houda El Alami et al.
+
+DOI: 10.11604/pamj.2025.51.38.46334
+PMCID: PMC12329463
+PMID: 40776990 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

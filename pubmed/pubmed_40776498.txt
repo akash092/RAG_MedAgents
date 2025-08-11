@@ -1,0 +1,46 @@
+1. J Nepal Health Res Counc. 2025 Jun 29;23(1):158-164. doi: 
+10.33314/jnhrc.v23i01.5600.
+
+Antihypertensive Medication Adherence and Associated Factors among Hypertensive 
+Patients.
+
+Baral P(1), Poudel L(2), Bista B(3), Mali S(2), Baral N(4), Shrestha A(3).
+
+Author information:
+(1)National Academy of Medical Sciences, Bir Hospital, Kathmandu, Nepal.
+(2)Institute for Implementation Science and Health, Nepal.
+(3)Department of Public Health, Kathmandu University School of Medical Sciences, 
+Nepal.
+(4)Nepalgunj Medical College, Kohalpur Banke.
+
+BACKGROUND: Hypertension is a significant public health concern in Nepal, 
+particularly in rural areas with limited healthcare access. Adherence to 
+antihypertensive medication is critical for adequate blood pressure control and 
+reducing cardiovascular complications. This study aims to assess medication 
+adherence among hypertensive patients and identify associated factors.
+METHODS: A descriptive cross-sectional study was conducted in Namobuddha 
+Municipality, Nepal. A total of 2,024 individuals aged 30 years and older were 
+screened, of which 1,008 were identified as hypertensive. After applying the 
+eligibility criteria, 478 participants were included in the final analysis. 
+Medication adherence was assessed using the Hill-Bone Compliance to High Blood 
+Pressure Therapy (HBCHBPT) Scale. Data were collected through face-to-face 
+interviews using standardized questionnaires and analyzed using STATA version 
+17. Multivariate linear regression was performed to determine factors 
+influencing adherence.
+RESULTS: Among 478 participants, the mean age was 62.12 years, with 55.86% being 
+female. Most participants (91.63%) were on a single antihypertensive medication, 
+and 57.11% had uncontrolled hypertension. The mean medication adherence score 
+was 34.57 ± 1.90. In multivariate analysis, higher hypertension knowledge scores 
+were significantly associated with better medication adherence (? = 0.07, 95% 
+CI: 0.01, 0.13, p = 0.03). Other factors, including age, gender, education, 
+ethnicity, marital status, smoking, alcohol use, physical activity, and social 
+support, were not significantly associated with adherence.
+CONCLUSIONS: The study found that medication adherence among hypertensive 
+patients was suboptimal, with a significant proportion having uncontrolled blood 
+pressure. Higher hypertension knowledge was associated with better adherence, 
+highlighting the importance of patient education. Strengthening educational 
+interventions and counseling strategies may improve adherence and, consequently, 
+hypertension control.
+
+DOI: 10.33314/jnhrc.v23i01.5600
+PMID: 40776498 [Indexed for MEDLINE]

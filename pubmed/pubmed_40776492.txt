@@ -1,0 +1,46 @@
+1. Hemoglobin. 2025 Aug 7:1-7. doi: 10.1080/03630269.2025.2543328. Online ahead
+of  print.
+
+The Risk of Rapid Deterioration of Sepsis in the Patient with 
+Non-Transfusion-Dependent Thalassemia: A Case Report.
+
+Gan H(1), Yu H(2), Hara H(1), Li T(1), Chen Y(1), Wang Y(1).
+
+Author information:
+(1)The Transplantation Institute of the Second Affiliated Hospital, Hainan 
+Medical University, Hainan, China.
+(2)Department of Cardiovascular and Vascular Surgery Intensive Care Unit, The 
+Second Affiliated Hospital, Hainan Medical University, Hainan, China.
+
+Non-transfusion-dependent thalassemias (NTDT), including thalassemia intermedia 
+(TI), are often perceived as less severe than their transfusion-dependent 
+counterparts. However, they impose a significant health burden, manifesting in 
+complications such as splenomegaly, iron overload, skeletal deformities, and 
+cardiopulmonary diseases. This case report aims to enhance understanding of the 
+complexities associated with NTDT, particularly regarding the rapid progression 
+of infection and the associated challenges in management. We report the case of 
+a 62-year-old male farmer from a high-incidence region of thalassemia in China. 
+He was diagnosed with αNTDT during a medical evaluation. His baseline hemoglobin 
+levels were 7 g/dL at the time of genetic testing for thalassemia and 7.2 g/dL 
+upon hospital admission prior to infection. His clinical phenotype was 
+classified as thalassemia intermedia. The patient presented with significant 
+comorbidities, including chronic anemia, iron overload, and pulmonary 
+hypertension, which contributed to his rapid clinical deterioration. Within two 
+months of his definitive diagnosis, the patient developed sepsis that rapidly 
+progressed to multiple organ dysfunction syndrome, leading to death 43 h after 
+admission. Sepsis in patients with NTDT progresses rapidly and is associated 
+with a high mortality rate, primarily due to the compounded burden of chronic 
+anemia, iron overload, and immune dysfunction. This case highlights the need for 
+increased clinical awareness to facilitate early diagnosis and prompt 
+management, even in αNTDT, which is generally considered a milder disorder 
+compared to βNTDT. Enhancing community awareness and implementing proactive 
+healthcare strategies, particularly in high-incidence areas, may significantly 
+reduce adverse health outcomes in patients with NTDT.
+
+Plain Language Summary: Rapid infection progression and high mortality in NTDT 
+due to immune dysfunction.Need for better awareness and early diagnosis in 
+underserved areas.Proactive care needed to manage NTDT comorbidities and improve 
+outcomes.
+
+DOI: 10.1080/03630269.2025.2543328
+PMID: 40776492

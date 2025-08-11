@@ -1,0 +1,24 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1740-1741. doi: 10.3233/SHTI251191.
+
+Factors Influencing the Skin Sensation of the Index Finger in Older People: 
+Impact of Antihypertensive Medications.
+
+Suga S(1), Yoshimura S(2), Ohno Y(3).
+
+Author information:
+(1)Graduate School of Health Sciences, Kobe University, Kobe, Hyogo, Japan.
+(2)Asuka Electric, Osaka, Osaka, Japan.
+(3)Graduate School of Medicine, Osaka University, Suita, Osaka, Japan.
+
+To investigate factors affecting the skin sensation of the index finger, we 
+analyzed the relationships between body mass index, grip strength, blood 
+pressure, and antihypertensive medication use and skin sensation thresholds 
+using multiple regression analysis. The results showed that only 
+antihypertensive medication use significantly decreased skin sensation 
+thresholds. This suggests that antihypertensive medication directly affects skin 
+sensation, possibly by increasing sensitivity through its effect on blood flow. 
+Future research should examine the effects of medication and changes in blood 
+flow on skin sensation thresholds.
+
+DOI: 10.3233/SHTI251191
+PMID: 40776208 [Indexed for MEDLINE]

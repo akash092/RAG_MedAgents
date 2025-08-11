@@ -1,0 +1,26 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1734-1735. doi: 10.3233/SHTI251188.
+
+Development of a Prediction Algorithm for Chronic Disease Using MyData.
+
+Oh SW(1)(2), Kim K(1)(2), Park S(1)(2), Im YS(1)(2), Jung S(1), Choi W(1)(3), 
+Choi IY(1).
+
+Author information:
+(1)Department of Medical Informatics, College of Medicine, The Catholic 
+University of Korea, Seoul, Republic of Korea.
+(2)Department of Biomedicine &Health Sciences, The Catholic University of Korea, 
+Seoul, Republic of Korea.
+(3)Department of Nursing, Graduate School, The Catholic University of Korea, 
+Seoul 06591, Republic of Korea.
+
+This study aims to develop predictive models for diabetes and hypertension onset 
+using personal health records and deep learning to analyze time-series data 
+patterns. By leveraging the MyData initiative, the model enhances early 
+detection and prevention strategies through personalized prediction. Results 
+focus on evaluating performance using AUROC, F1-score, and Recall, highlighting 
+its potential for accurate chronic disease prediction. Despite requiring further 
+generalization, this framework lays the foundation for real-world applications 
+to improve preventive care and advance personalized healthcare.
+
+DOI: 10.3233/SHTI251188
+PMID: 40776205 [Indexed for MEDLINE]

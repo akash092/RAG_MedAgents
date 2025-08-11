@@ -1,0 +1,44 @@
+1. Arch Esp Urol. 2025 Jul;78(6):671-676. doi: 
+10.56434/j.arch.esp.urol.20257806.90.
+
+Clinical and Surgical Predictors of Erectile Dysfunction after Bilateral 
+Nerve-Sparing Laparoscopic Radical Prostatectomy.
+
+Tekinaslan H(1), Köse O(2), Özcan S(2), Görgel SN(2), Akın Y(2).
+
+Author information:
+(1)Department of Urology, Menderes State Hospital, 35470 Izmir, Turkey.
+(2)Department of Urology, İzmir Kâtip Çelebi University, 35620 Izmir, Turkey.
+
+OBJECTIVE: To investigate the predictors of postoperative erectile dysfunction 
+(ED) in patients who underwent bilateral nerve-sparing laparoscopic radical 
+prostatectomy (BNLRP).
+MATERIALS AND METHODS: Patients with preoperative ED were excluded. 
+Postoperative erectile function was assessed using the International Index of 
+Erectile Function-5 (IIEF-5) at 6 months postoperatively, with a cutoff score of 
+≤12 to define ED. The diagnostic value of associated factors was assessed using 
+odds ratios (ORs) with 95% confidence intervals (CIs) based on univariate and 
+multivariate logistic regression analyses. Only variables with p < 0.05 in 
+univariate analysis were included in the multivariate model to avoid 
+multicollinearity and overfitting.
+RESULTS: A retrospective review was conducted on 79 patients who underwent BNLRP 
+for localised prostate cancer between April 2020 and March 2023. Postoperative 
+ED was observed in 37 (46.8%) patients. Univariate analysis revealed significant 
+associations between ED and age (p < 0.001), diabetes mellitus (p < 0.001), 
+coronary artery disease (p < 0.001), hypertension (p < 0.001), Gleason score (p 
+< 0.001), operative time (p < 0.001) and intraoperative blood loss (p < 0.001). 
+Multivariate logistic regression identified age (OR: 1.136, p = 0.046), diabetes 
+mellitus (OR: 32.706, p = 0.003), Gleason score (OR: 4.749, p = 0.015), 
+operative time (OR: 1.200, p = 0.001) and blood loss (OR: 1.010, p = 0.039) as 
+independent predictors.
+CONCLUSIONS: ED after BNLRP is associated with patient-related and surgical 
+factors. Identifying these predictors may improve preoperative counselling and 
+support early postoperative rehabilitation strategies. Prospective multicentre 
+studies are necessary to externally validate these findings.
+
+© 2025 The Author(s).
+
+DOI: 10.56434/j.arch.esp.urol.20257806.90
+PMID: 40776865 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

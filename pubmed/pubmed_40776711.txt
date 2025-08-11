@@ -1,0 +1,41 @@
+1. Afr J Prim Health Care Fam Med. 2025 Jul 22;17(1):e1-e7. doi: 
+10.4102/phcfm.v17i1.4813.
+
+Prevalence of hypertension and associated factors in people living with HIV at 
+Senkatana Clinic Maseru.
+
+Selebalo MSM(1), Bryden BJ, Thompson DM, Sanders JE.
+
+Author information:
+(1)Department of Family Medicine, Family Medicine Specialty Training program, 
+Lesotho Boston Health Alliance, Maseru, Lesotho; and General Practice, Ministry 
+of Health, Maseru. mosa.selebalo@gov.ls.
+
+BACKGROUND:  Cardiovascular diseases (CVDs), including hypertension (HTN), have 
+emerged among people living with HIV (PLHIV) as the most important prevalent 
+contributors of non-AIDS-related mortality. Moreover, HTN itself is a modifiable 
+risk factor for other CVDs. Data are limited regarding the prevalence of HTN and 
+associated factors among PLHIV in Lesotho.
+AIM:  To determine the prevalence of HTN and associated factors among PLHIV 
+attending Senkatana ART Clinic.
+SETTING:  The study was carried out at Senkatana ART Clinic in urban Maseru, 
+Lesotho.
+METHODS:  A cross-sectional study was conducted from February to July 2022. Data 
+were analysed using SAS statistical software (v9.4) and Microsoft Excel. To 
+determine HTN prevalence, blood pressure (BP) was measured, and a questionnaire 
+was administered to participants who were randomly selected using the lottery 
+method from the clinic's daily attendance list. Multiple logistic regression was 
+used to assess factors associated with HTN in PLHIV while controlling for 
+potentially confounding factors.
+RESULTS:  The prevalence of HTN was 57% (exact 95% CI: 51.2%, 62.7%). Of those 
+with HTN, 33.3% were newly diagnosed during this study (exact 95% CI: 26.3%, 
+40.9%), while 69% of those previously diagnosed with HTN had uncontrolled HTN at 
+enrollment (exact 95% CI: 60.0%, 77.6%). Age older than 50 years (p  0.0001) and 
+a body mass index (BMI) of 25.0 kg/m2 or higher (p  0.0002) were independently 
+associated with HTN.
+CONCLUSION:  Hypertension was highly prevalent and poorly controlled. Factors 
+associated with HTN in PLHIV were older age and higher BMI. The study's findings 
+support models of comprehensive healthcare delivery.
+
+DOI: 10.4102/phcfm.v17i1.4813
+PMID: 40776711 [Indexed for MEDLINE]

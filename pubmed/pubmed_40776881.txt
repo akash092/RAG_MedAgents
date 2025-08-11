@@ -1,0 +1,56 @@
+1. Hypertension. 2025 Aug 8. doi: 10.1161/HYPERTENSIONAHA.124.24517. Online ahead
+ of print.
+
+Lower Prepregnancy Cardiovascular Health is Associated With Hypertensive 
+Disorders of Pregnancy: The CARDIA Study.
+
+Dodds LV(1), Feaster DJ(1)(2), Kiefe CI(3), Gunderson EP(4), Bello NA(5), Rundek 
+T(6), Paidas M(7), Kulandavelu S(8), Elfassy T(9).
+
+Author information:
+(1)Department of Public Health Sciences, University of Miami Miller School of 
+Medicine, FL. (L.V.D., D.J.F.).
+(2)Department of Biostatistics, University of Miami Miller School of Medicine, 
+FL. (D.J.F.).
+(3)Department of Population and Quantitative Health Sciences, University of 
+Massachusetts Chan Medical School, Worcester (C.I.K.).
+(4)Bernard J Tyson Kaiser Permanente School of Medicine, Pasadena, CA (E.P.G.).
+(5)Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA (N.A.B.).
+(6)Department of Neurology, Evelyn F. McKnight Brain Institute, University of 
+Miami Miller School of Medicine, FL. (T.R.).
+(7)Department of Obstetrics, Gynecology, and Reproductive Sciences, University 
+of Miami Miller School of Medicine, FL. (M.P.).
+(8)Department of Pediatrics and Interdisciplinary Stem Cell Institute, 
+University of Miami Miller School of Medicine, FL. (S.K.).
+(9)Katz Family Division of Nephrology and Hypertension, University of Miami 
+Miller School of Medicine, FL. (T.E.).
+
+BACKGROUND: Hypertensive disorders of pregnancy (HDP), including gestational 
+hypertension, preeclampsia, and eclampsia, contribute to increased maternal 
+morbidity and mortality and long-term cardiovascular disease risk. It is unclear 
+whether HDP arises from pregnancy-specific complications or preexisting maternal 
+cardiovascular traits unmasked during pregnancy. This article evaluates whether 
+cardiovascular health before pregnancy, assessed by the American Heart 
+Association's Life's Essential 8 (LE8) score, is associated with HDP risk.
+METHODS: The CARDIA (Coronary Artery Risk Development in Young Adults) is a 
+longitudinal cohort study of 5115 Black and White men and women, aged 18 to 30 
+years at baseline (1985-1986), and followed for over 30 years (nBlackWomen=1480; 
+nWhiteWomen=1307). The LE8 score (range, 0-100) was calculated using health 
+behaviors (diet, smoking, physical activity, sleep) and clinical metrics (body 
+mass index, blood pressure, cholesterol, glucose). Cardiovascular health was 
+categorized as low (LE8 <50), moderate (LE8 50-79), or high (LE8 ≥80). HDP was 
+self-reported as gestational hypertension, preeclampsia, or eclampsia in 
+pregnancies lasting ≥23 weeks. Generalized mixed models assessed the association 
+between LE8 and HDP among 2036 pregnancies from 1227 women, adjusting for age, 
+time-varying parity, education, income, follow-up time, cumulative births, and 
+multiple gestation.
+RESULTS: Mean baseline age was 24.1 years, 48.7% were Black women, and 19.9% 
+reported HDP. Women with HDP had lower baseline LE8 scores (77.0 versus 79.5; 
+P<0.01). Compared with high cardiovascular health, moderate (odds ratio, 1.78 
+[95% CI, 1.13-2.81]) and low cardiovascular health (odds ratio, 3.95 [95% CI, 
+1.05-14.88]) were associated with increased HDP risk.
+CONCLUSIONS: Lower prepregnancy cardiovascular health is an independent risk 
+factor for HDP. Improving cardiovascular health may reduce HDP risk.
+
+DOI: 10.1161/HYPERTENSIONAHA.124.24517
+PMID: 40776881

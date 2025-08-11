@@ -1,0 +1,48 @@
+1. bioRxiv [Preprint]. 2025 Jul 27:2025.07.23.666314. doi: 
+10.1101/2025.07.23.666314.
+
+Bidirectional Crosstalk Between Sleep and Pulmonary Arterial Hypertension.
+
+Imani S, Halouani A, Dahlka J, Burgess N, Antar S, Zhao YY, Chan SY, West JD, 
+Weston M, Sassi Y.
+
+BACKGROUND: Pulmonary Arterial Hypertension (PAH) is a devastating 
+cardiopulmonary disease characterized by pulmonary vascular remodeling due to 
+vascular cells dysfunction. Among other clinical signs, emerging data suggest 
+poor sleep quality in patients with PAH; however, how poor sleep impacts 
+hemodynamic burden, symptom severity, and pulmonary vascular remodeling during 
+PAH progression remains unknown.
+METHODS: We used two models of sleep disturbances (sleep fragmentation and 
+chronic jet lag) and different mouse models of PAH to determine the effects of 
+poor sleep on PAH. We carried out timepoint quantitative RT-PCR analyses to 
+define the clock gene oscillations in human pulmonary artery smooth muscle cells 
+(PASMCs) isolated from non-PAH and PAH patients. Bulk RNA-sequencing analysis, 
+immunostaining, and proliferation assays were used to explore the mechanisms by 
+which poor sleep impacts PAH. Electroencephalogram and Electromyogram recordings 
+(EEG/EMG) were used to determine whether PAH affects sleep in mice.
+RESULTS: Poor sleep exacerbated right ventricular dysfunction, pulmonary 
+vascular remodeling, and PAH. RNA-seq and immunostaining analyses showed that 
+poor sleep induces lung inflammation. Inflammation affected the pulmonary 
+vascular molecular clock to drive PASMC hyperproliferation and increased 
+migration. SMC-specific deletion of Bmal1 protected mice from RV dysfunction, 
+pulmonary vascular remodeling, and PAH. EEG/EMG measurements demonstrated that 
+PAH causes poor sleep quality in mice. Lastly, we showed that improving sleep 
+via melatonin delivery and blunting inflammation with clodronate inhibited 
+pulmonary vascular remodeling and PAH.
+CONCLUSIONS: Our study demonstrates that PAH causes poor sleep which in turn 
+induces inflammation, increases PASMC proliferation, and exacerbates PAH. This 
+suggests that the relationship between PAH and poor sleep is a self-amplifying 
+cycle, and that a combination of hypnotic and anti-inflammatory drugs may give 
+PAH patients better clinical outcomes.
+CLINICAL PERSPECTIVE: What is New?: PAH causes poor sleep quality which in turn 
+induces lung inflammation, PASMC proliferation, and exacerbated PAH.Bmal1 
+rhythmicity is disrupted, and its expression is increased in lungs of patients 
+with PAH.SMC-specific deletion of Bmal1 protects from PAH.Improving sleep 
+quality and blunting inflammation attenuates PAH.What Are the Clinical 
+Implications?: Bmal1 represents a promising disease-modifying agent with 
+potential for clinical translation in the treatment of PAH.A combination of 
+hypnotic and anti-inflammatory drugs has therapeutic potential to treat PAH.
+
+DOI: 10.1101/2025.07.23.666314
+PMCID: PMC12330576
+PMID: 40777305

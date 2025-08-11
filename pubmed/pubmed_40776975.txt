@@ -1,0 +1,40 @@
+1. Rev Cardiovasc Med. 2025 Jul 30;26(7):37460. doi: 10.31083/RCM37460.
+eCollection  2025 Jul.
+
+Metabolic Alterations Associated With Right Ventricular Dysfunction in Pulmonary 
+Arterial Hypertension: The Modulatory Effects and Improvement Mechanisms of 
+Exercise.
+
+Chen S(1), Liang G(1), Cheang L(1), Qu Q(1), Li X(1).
+
+Author information:
+(1)State Key Laboratory for Innovation and Transformation of Luobing Theory, 
+Department of Cardiology, The First Affiliated Hospital With Nanjing Medical 
+University, 210029 Nanjing, Jiansgu, China.
+
+Pulmonary arterial hypertension (PAH) is characterized by a significant increase 
+in pulmonary arterial pressure, leading to right ventricular failure (RVF), 
+limited exercise capacity, and increased mortality risk. Right ventricular 
+function is a critical determinant of exercise capacity and prognosis in 
+patients with PAH. Meanwhile, alterations in cellular metabolism and bioenergy 
+are common features in PAH, with the differential regulation of metabolic 
+pathways playing a significant role in right ventricular dysfunction (RVD). 
+Mitochondria, essential organelles responsible for energy production, 
+biosynthetic pathways, and signal transduction, are particularly implicated in 
+differential regulation. Exercise is increasingly recognized as a beneficial 
+adjunct therapy; however, specific recommendations are often lacking in official 
+guidelines. This review examines the changes in metabolic pathways associated 
+with RVD in PAH, including glycolysis, glucose oxidation, fatty acid oxidation, 
+glutamine metabolism, and arginine metabolism. Furthermore, this article 
+discusses how exercise can modulate the aforementioned metabolic pathways to 
+improve metabolic disturbances in the right ventricle and enhance right heart 
+function. These are essential for developing effective rehabilitation 
+strategies.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM37460
+PMCID: PMC12326408
+PMID: 40776975
+
+Conflict of interest statement: The authors declare no conflict of interest.

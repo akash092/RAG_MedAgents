@@ -1,0 +1,49 @@
+1. Clin Chem Lab Med. 2025 Aug 8. doi: 10.1515/cclm-2025-0644. Online ahead of 
+print.
+
+Oral salt loading combined with postural stimulation tests for confirming and 
+subtyping primary aldosteronism.
+
+Cheng JYK(1)(2), Lo WSC(1)(2), Tsui TKC(1)(2), Chow WKE(3), Cheung KKT(3), Ma 
+RCW(3)(4)(5), Ozaki R(3), Ho CS(2).
+
+Author information:
+(1)Department of Chemical Pathology, 13621 Prince of Wales Hospital , Hong Kong, 
+Hong Kong.
+(2)Department of Chemical Pathology, The Chinese University of Hong Kong, Hong 
+Kong, Hong Kong.
+(3)Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 
+Prince of Wales Hospital, Hong Kong, Hong Kong.
+(4)Hong Kong Institute of Diabetes and Obesity, The Chinese University of Hong 
+Kong, Hong Kong, Hong Kong.
+(5)Li Ka Shing Institute of Health Sciences, The Chinese University of Hong 
+Kong, Hong Kong, Hong Kong.
+
+OBJECTIVES: Primary aldosteronism (PA) is an underdiagnosed yet important 
+condition. This study aimed to evaluate the diagnostic performance of a combined 
+protocol using oral salt loading and postural stimulation tests (PST), named the 
+balance study, to confirm and subtype PA.
+METHODS: We retrospectively analyzed the data of 402 patients with either 
+confirmed PA or essential hypertension who underwent the balance study. 
+Biochemical markers were measured using liquid chromatography-tandem mass 
+spectrometry. Receiver operating characteristic curves were used to assess the 
+diagnostic performance. The cut-off values for biochemical markers were 
+determined by Youden J's statistics.
+RESULTS: For PA confirmation, urinary aldosterone (UALD; area under the curve 
+[AUC] 0.894), urinary tetrahydroaldosterone (UTHA; AUC 0.875), the sum of UALD 
+and UTHA (SUM; AUC 0.884), and supine plasma aldosterone (PALD; AUC 0.902) 
+showed comparable performance. Corresponding cut-offs were: UALD>38 nmol/day, 
+UTHA>160 nmol/day, SUM>259 nmol/day, and supine PALD>273 pmol/L. For PA 
+subtyping, the difference or ratio between erect and supine PALD in PST achieved 
+an AUC of 0.90. An increase of less than 19 pmol/L or less than 5 % from a 
+supine to an erect position suggested an aldosterone-producing adenoma.
+CONCLUSIONS: This combined protocol using oral salt loading and PST could help 
+confirm a diagnosis of PA and predict the subtype. UTHA and supine PALD may add 
+value to UALD for PA confirmation, whereas the erect/supine PALD ratio from PST 
+could assist in PA subtyping. Further studies are required to validate these 
+findings.
+
+© 2025 the author(s), published by De Gruyter, Berlin/Boston.
+
+DOI: 10.1515/cclm-2025-0644
+PMID: 40776793

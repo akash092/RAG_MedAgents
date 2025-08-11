@@ -1,0 +1,66 @@
+1. Cell Mol Life Sci. 2025 Aug 8;82(1):302. doi: 10.1007/s00018-025-05809-3.
+
+SETD2 drives METTL14-mediated m(6)A to suppress Piezo1 Attenuation and activate 
+TGM2 to promote pulmonary hypertension.
+
+Zhao SS(#)(1), Yuan C(#)(1), Liu JL(2), Wu QC(3), Zhou XL(4).
+
+Author information:
+(1)Department of Cardiovascular Surgery, the First Affiliated Hospital, Jiangxi 
+Medical College, Nanchang University, Nanchang, 330006, Jiangxi, China.
+(2)Institute of Translational Medicine, Shanghai University, Shanghai, 200444, 
+China.
+(3)Department of Cardiovascular Surgery, the First Affiliated Hospital, Jiangxi 
+Medical College, Nanchang University, Nanchang, 330006, Jiangxi, China. 
+ndyfy00619@ncu.edu.cn.
+(4)Department of Cardiovascular Surgery, the First Affiliated Hospital, Jiangxi 
+Medical College, Nanchang University, Nanchang, 330006, Jiangxi, China. 
+zhouxliang@ncu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Pulmonary arterial hypertension (PAH) is characterized by 
+pathological vascular remodeling driven by pulmonary artery smooth muscle cell 
+(PASMC) proliferation. While METTL14-mediated N6-methyladenosine (m6A) RNA 
+modification has been implicated in PAH, the upstream regulators and downstream 
+effectors linking m6A to PASMC dysregulation remain unclear. This study 
+investigates the role of SETD2, a histone methyltransferase, in driving 
+METTL14-dependent m6A modifications to promote PAH via Piezo1 and 
+transglutaminase 2 (TGM2).
+METHODS: C57BL/6 mice were subjected to hypoxia, and pulmonary artery smooth 
+muscle cells (PASMCs) were periodically stretched to establish PAH models in 
+vivo and in vitro. The epigenetic regulation of METTL14 by SETD2-mediated 
+H3K36me3 was investigated by chromatin immunoprecipitation (ChIP). Methylated 
+RNA immunoprecipitation sequence (MeRIP-seq), RNA-seq, and dual-luciferase 
+reporter gene data were used to determine whether METTL14 enhances the 
+expression of Piezo1 in an m6A-dependent manner. To analyze comparisons between 
+multiple datasets, one-way ANOVA was used.
+RESULTS: METTL14 overexpression increased PASMC proliferation by 1.45-fold (vs. 
+controls) and elevated global m6A levels by 1.73-fold in total RNA and 1.43-fold 
+in poly A + RNA. SETD2-driven H3K36me3 histone modification upregulated METTL14 
+expression by 1.76-fold, amplifying m6A deposition. In hypoxia-induced PAH mice, 
+METTL14 overexpression exacerbated hemodynamic severity, increasing right 
+ventricular systolic pressure (RVSP) by 29% and mean pulmonary arterial pressure 
+(mPAP) by 33% (vs. hypoxia alone). SETD2 knockout in PASMCs reduced RVSP by 24%, 
+mPAP by 28%, and pulmonary artery media thickness (PAMT) by 29%, while 
+decreasing m6A levels by 48%. Piezo1 mRNA stability increased by 2.36-fold via 
+METTL14-mediated m6A modification at adenosine 1080, elevating Piezo1 protein 
+expression by 3.58-fold in PASMCs. Piezo1 overexpression increased intracellular 
+Ca²⁺ influx, driving TGM2 activity by 1.79-fold and restoring PASMC 
+proliferation despite SETD2 deficiency.
+CONCLUSIONS: This study identifies a novel SETD2/H3K36me3/METTL14/m6A axis that 
+stabilizes Piezo1 mRNA, promoting Ca²⁺-dependent TGM2 activation and PASMC 
+proliferation in PAH. Targeting this pathway-via SETD2, METTL14, or Piezo1 
+inhibition-may offer therapeutic potential to ameliorate vascular remodeling in 
+PAH.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00018-025-05809-3
+PMID: 40778995 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: All the animal experiments adhered to the NIH guidelines. The 
+Animal Care and Use Committee of Nanchang University approved the protocols 
+(Approval No. CDYFYIACUC-202412QR005). Consent for publication: Not applicable. 
+Competing interests: All the authors declare that they have no conflicts of 
+interest.

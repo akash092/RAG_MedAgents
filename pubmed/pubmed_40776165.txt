@@ -1,0 +1,25 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1654-1655. doi: 10.3233/SHTI251148.
+
+Expert System for Assistance in Diagnosing High Blood Pressure.
+
+Veiga F(1), Ierache J(1), La Rosa F(1)(2), Mandirola H(2), Bhuiyan Masud 
+JH(3)(4), Veiga F(5).
+
+Author information:
+(1)Universidad de Moron.
+(2)HL7 Argentina.
+(3)Public Health Informatics Foundation, Dhaka, Bangladesh.
+(4)University of Alabama, USA.
+(5)Universidad de Buenos Aires.
+
+High Blood Pressure (HBP) is a disorder characterized by elevated levels of 
+pressure in blood vessels and constituted one of the risk factors for 
+cardiovascular diseases and mortality. This work proposed the development of the 
+Expert System for the Diagnosis of Secondary HBP, an innovative tool capable of 
+providing accurate and personalized diagnoses by considering multiple factors. 
+The system evaluated blood pressure levels to classify the degree of HBP and 
+analyzed various clinical parameters to identify possible grounds of secondary 
+hypertension.
+
+DOI: 10.3233/SHTI251148
+PMID: 40776165 [Indexed for MEDLINE]

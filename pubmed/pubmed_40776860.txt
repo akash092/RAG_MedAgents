@@ -1,0 +1,59 @@
+1. Hypertension. 2025 Aug 8. doi: 10.1161/HYPERTENSIONAHA.124.24441. Online ahead
+ of print.
+
+Redefining AT1 Receptor PET Imaging: Introducing the Radiotracer [(18)F]DR29.
+
+Chen X(1), Kimura H(2), Sasaki T(3), Klimek K(4), Mühlig S(5), Arias-Loza AP(5), 
+Nose N(3), Yagi Y(3)(6), Rowe SP(7), Lapa C(1), Werner RA(#)(8)(9), Higuchi 
+T(#)(3)(5).
+
+Author information:
+(1)Nuclear Medicine, Faculty of Medicine, University of Augsburg, Germany (X.C., 
+C.L.).
+(2)Agency for Health, Safety and Environment, Kyoto University, Japan (H.K.).
+(3)Faculty of Medicine, Dentistry and Pharmaceutical Sciences, Okayama 
+University, Japan (T.S., N.N., Y.Y., T.H.).
+(4)Goethe University Frankfurt, University Hospital, Clinic for Radiology and 
+Nuclear Medicine, Department of Nuclear Medicine, Germany (K.K.).
+(5)Department of Nuclear Medicine and Comprehensive Heart Failure Center (DZHI), 
+University Hospital Würzburg, Germany (S.M., A.P.A.-L., T.H.).
+(6)Department of Radiological Technology, Faculty of Medical Science, Kyoto 
+College of Medical Science, Japan (Y.Y.).
+(7)Molecular Imaging and Therapeutics, Department of Radiology, School of 
+Medicine, University of North Carolina, Chapel Hill, NC (S.P.R.).
+(8)Department of Nuclear Medicine, LMU Hospital, Ludwig-Maximilians-University 
+of Munich, Germany (R.A.W.).
+(9)Division of Nuclear Medicine and Molecular Imaging, The Russell H Morgan 
+Department of Radiology and Radiological Science, Johns Hopkins University 
+School of Medicine, MD (R.A.W.).
+(#)Contributed equally
+
+BACKGROUND: AT1R (angiotensin II type 1 receptors) are central to the 
+renin-angiotensin system and are involved in regulating blood pressure and renal 
+physiology. This study introduces [18F]DR29, a fluorine-18-labeled radiotracer 
+for positron emission tomography imaging, to enable noninvasive visualization of 
+AT1R expression. Its potential applications in understanding AT1R-associated 
+renal processes are explored in healthy and hypertensive rat models.
+METHODS: Radiolabeling was established, and biodistribution studies were 
+conducted on healthy Wistar rats with and without the AT1R antagonist 
+candesartan and transporter inhibitors. Dynamic positron emission tomography 
+imaging assessed tracer specificity, and feasibility for renal AT1R 
+quantification was explored using a hypertensive rat model.
+RESULTS: [18F]DR29 was radiolabeled with a yield of 36±6%. High kidney uptake 
+was observed, significantly reduced by candesartan (kidney-to-blood ratio, 
+0.43±0.01 versus 4.54±1.59 in vehicle, where vehicle refers to saline without 
+any treatment). Transporter inhibition protocols targeting organic anion 
+transporting polypeptides (liver) and organic anion transporters (kidneys) 
+successfully reduced radiotracer clearance, increasing the specific accumulation 
+of [18F]DR29 in the kidneys and improving renal imaging contrast. Positron 
+emission tomography imaging revealed rapid kidney uptake and stable retention 
+over 2 hours. In hypertensive rats, kidney uptake was higher, aligning with AT1R 
+expression levels.
+CONCLUSIONS: These results support [18F]DR29 as a promising tool for the 
+noninvasive evaluation of renal AT1R expression in healthy and diseased states. 
+The findings lay the groundwork for clinical translation, offering potential 
+applications in diagnosing and managing kidney-related diseases, including 
+hypertension and other conditions involving AT1R dysregulation.
+
+DOI: 10.1161/HYPERTENSIONAHA.124.24441
+PMID: 40776860

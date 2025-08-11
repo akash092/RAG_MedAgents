@@ -1,0 +1,73 @@
+1. Kidney360. 2025 Aug 8. doi: 10.34067/KID.0000000951. Online ahead of print.
+
+Proceedings of the UAB CRRT Academy (2023-2024): Managing De-Escalation of Acute 
+RRT and Optimizing Drug Dosing During RRT Transitions.
+
+Beaubien-Souligny W(1), Bastin MT(2), Teixeira JP(3), Cerda J(4), Connor MJ 
+Jr(5), Zeidman AD(6), Garimella PS(7), Juncos L(8), Lopez-Ruiz A(9), Mehta 
+R(10), Reis T(11), Rizo-Topete L(12), Silver SA(13), Da Silva JR(14), Speer 
+R(15), Vijayan A(16), Wells C(17), Wille K(18), Yessayan L(19), Tolwani A(15), 
+Neyra JA(15).
+
+Author information:
+(1)Division of Nephrology, Centre Hospitalier de l'Université de Montréal, 
+Montreal, Canada.
+(2)Department of Pharmacy Practice and Science, University of Kentucky College 
+of Pharmacy.
+(3)Divisions of (1) Nephrology and (2) Pulmonary, Critical Care, and Sleep 
+Medicine, Department of Internal Medicine, University of New Mexico, 
+Albuquerque, NM, USA.
+(4)Division of Nephrology, Department of Medicine, Albany Medical College, 
+Albany, New York, United States of America.
+(5)Divisions of (1) Pulmonary, Allergy, Critical Care, & Sleep Medicine & 
+(2)Renal Medicine, Department of Medicine, Emory University School of Medicine, 
+Atlanta, GA, USA.
+(6)Institute for Critical Care Medicine at Mount Sinai Hospital, Mount Sinai 
+Hospital Department of Medicine Nephrology Division, New York, NY. Electronic 
+address: amanda.dijanic@mssm.edu.
+(7)Division of Nephrology and Hypertension, Department of Medicine, University 
+of California San Diego, San Diego, California, USA.
+(8)Division of Nephrology, Central Arkansas Veterans Healthcare System, Little 
+Rock, AR, 72205, USA. jhholthoff@uams.edu.
+(9)Department of Critical Care, AdventHealth Orlando FL.
+(10)Department of Medicine, University of California San Diego (UCSD), San 
+Diego, CA, USA.
+(11)Division of Nephrology, University of São Paulo Medical School, São Paulo, 
+Brazil.
+(12)Division of Nephrology, Hospital Universitario "Dr. Jose Eleuterio González, 
+UANL, Monterrey, Mexico.
+(13)Division of Nephrology, Queen's University, Kingston, Ontario, Canada.
+(14)Baxter Healthcare.
+(15)Department of Medicine, Division of Nephrology, University of Alabama at 
+Birmingham, Birmingham, AL, USA.
+(16)Intermountain Kidney Services, Intermountain Health, Salt Lake City, UT.
+(17)Department of Medicine, Division of Nephrology, University of Mississippi 
+Medical Center.
+(18)Department of Internal Medicine, Division of Pulmonary, Allergy, and 
+Critical Care Medicine, University of Alabama at Birmingham, Birmingham, AL, 
+USA.
+(19)Division of Nephrology, University of Michigan, Ann Arbor, Michigan.
+
+In this second installment of the proceedings of the University of Alabama at 
+Birmingham Continuous Renal Replacement Therapy (CRRT) Academy, we focus on the 
+topic of transitions of care in acute RRT. Though we have accumulated data from 
+thousands of critically ill patients with acute kidney injury (AKI) randomized 
+to different strategies for RRT initiation, no trial data exist to guide 
+de-escalation of RRT in the intensive care unit. However, for survivors of 
+severe AKI whose kidney function does not recovery rapidly enough to allow for 
+liberation directly from CRRT, successful de-escalation of care requires the 
+transition from CRRT to intermittent RRT modalities. These transition periods 
+must be carefully navigated since they can be a source of complications, such as 
+failure to transition or intra-dialytic hypotension, which are in turn 
+associated with an increased risk of mortality and reduced odds of kidney 
+recovery. In this review, we focus on the critical factors to consider during 
+de-escalation of RRT care, with a focus on modality transition, the role of 
+volume status in guiding the approach to de-escalation of RRT, and the vital 
+importance of careful dosing of drugs, especially antimicrobial agents, during 
+this transitional period.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the American Society of Nephrology.
+
+DOI: 10.34067/KID.0000000951
+PMID: 40779331

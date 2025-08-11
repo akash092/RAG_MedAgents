@@ -1,0 +1,40 @@
+1. Stud Health Technol Inform. 2025 Aug 7;329:1160-1164. doi: 10.3233/SHTI251021.
+
+CARE-Former: Enhancing Prediction of Comorbidities in Rheumatoid Arthritis via 
+Asymmetric Complication Associations.
+
+Yu H(1), Tian Y(1), Ouyang S(1), Li D(1), Tong D(2), Zhou T(2), Jiang N(3), Wang 
+Q(3), Tian X(3), Li J(1)(2).
+
+Author information:
+(1)College of Biomedical Engineering and Instrument Science, Zhejiang 
+University, Engineering Research Center of EMR and Intelligent Expert System, 
+Ministry of Education, Hangzhou 310027, China.
+(2)Research Center for Data Hub and Security, Zhejiang Lab, Hangzhou 311121, 
+China.
+(3)Department of Rheumatology and Clinical Immunology, Peking Union Medical 
+College Hospital (PUMCH), Chinese Academy of Medical Sciences and Peking Union 
+Medical College, National Clinical Research Center for Dermatologic and 
+Immunologic Diseases (NCRC-DID), Ministry of Science and Technology, State Key 
+Laboratory of Complex Severe and Rare Diseases, Key Laboratory of Rheumatology 
+and Clinical Immunology, Ministry of Education, Beijing 100730, China.
+
+A significant proportion of rheumatoid arthritis patients experience multiple 
+organ-related complications, severely affecting their quality of life. 
+Establishing a dynamic prediction model that adequately considers the 
+associative relationships of complications can contribute to the health 
+management of patients. In this study, we propose to introduce a complication 
+association enhancement module into the dynamic time-series prediction model to 
+improve its performance. This method captures the triggering and dependency 
+relationships between complications, reveals comorbidity interactions, and 
+identifies high-risk complication combinations through clustering. We identified 
+a cluster of comorbidities consisting of interstitial lung lesions, pulmonary 
+hypertension, and cardiovascular disease and achieved better predictive 
+performance than previously proposed methods on the CREDIT dataset (Macro 
+accuracy=0.978 Micro F1=0.755 Micro AUC=0.910). To the best of our knowledge, 
+this is the first study to introduce disease associations in dynamic medical 
+time-series data to enhance early warning of complications in rheumatoid 
+arthritis.
+
+DOI: 10.3233/SHTI251021
+PMID: 40776039 [Indexed for MEDLINE]

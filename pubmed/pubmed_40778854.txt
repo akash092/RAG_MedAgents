@@ -1,0 +1,44 @@
+1. J Endourol. 2025 Aug 8. doi: 10.1177/08927790251364272. Online ahead of print.
+
+Comparative Analysis of 30- and 90-Day Outcomes of Aquablation vs Other Surgical 
+Treatments for Benign Prostatic Hyperplasia.
+
+Florissi IS(1), Kohn T(1), Pupo DG(1), Nugent L(1), Alshak MN(1), Agrawal P(1), 
+Nimmagadda N(1).
+
+Author information:
+(1)The James Buchanan Brady Urological Institute, Johns Hopkins University 
+School of Medicine, Baltimore, Maryland, USA.
+
+Background: Short-term outcomes of Aquablation as the treatment for benign 
+prostatic hyperplasia (BPH) have not been well characterized. The aim of this 
+analysis was to compare rates of 30- and 90-day complications following 
+Aquablation with those after transurethral resection of prostate (TURP), 
+UroLift, holmium laser enucleation of the prostate (HoLEP), and laparoscopic 
+simple prostatectomy (SP). Methods: Using the TriNetX Research database, a 
+collaborative claims and electronic medical record research network of 79 large 
+health care organizations, we conducted a propensity-matched retrospective 
+cohort study of all patients who underwent Aquablation (Current Procedural 
+Terminology [CPT] 0421T or Healthcare Common Procedure Coding System ((HCPCS) 
+C2596), TURP (CPT 52601), UroLift (CPT 52441), HoLEP (CPT 52649), or 
+laparoscopic SP (CPT 55866, 55867) between the dates of January 1, 2017, and 
+December 31, 2023. We performed a propensity score matching for age at time of 
+operation, diabetes, hypertension, obesity, and Prostate Specific Antigen (PSA) 
+range to determine the relative risk of developing the following outcomes at 30- 
+and 90-days postoperatively: visit to the emergency department, hospital 
+readmission, catheter re-insertion, and urinary tract infection. Results: Prior 
+to matching, data were available for 1054 Aquablation, 18,945 TURP, 3966 
+UroLift, 5200 HoLEP, and 5369 laparoscopic SP patients; 53% of Aquablation cases 
+were performed in 2023. After matching Aquablation to each other procedure, the 
+cohorts ranged in size from 1048 to 1054. At 30 and 90 days postoperatively, 
+patients who underwent Aquablation were more likely to be readmitted to the 
+hospital and require catheter re-insertion than most operative cohorts. When 
+eliminating from the analysis patients who underwent Aquablation in 2023, the 
+association between Aquablation and readmission did not persist. Conclusions: 
+Patients undergoing Aquablation may experience higher rates of hospital 
+readmission at 30 and 90 days postoperatively than most other surgical BPH 
+cohorts, which may be because of the learning curve associated with the 
+procedure or applying the procedure to larger prostate volumes.
+
+DOI: 10.1177/08927790251364272
+PMID: 40778854

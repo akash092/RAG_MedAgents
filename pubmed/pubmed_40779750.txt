@@ -1,0 +1,53 @@
+1. Traffic Inj Prev. 2025 Aug 8:1-9. doi: 10.1080/15389588.2025.2531410. Online 
+ahead of print.
+
+The prevalence and risk factors of posttraumatic stress disorder following road 
+traffic accidents in China: A meta-analysis.
+
+Zhou Y(1)(2)(3), Haagsma JA(4), Busschbach J(4), Zeng R(1)(2), Yang Z(5), Ding 
+Petersen J(6)(7)(8), Shi X(1)(2).
+
+Author information:
+(1)Department of Epidemiology and Health Statistics, School of Public Health, 
+Zunyi Medical University, Zunyi, Guizhou, China.
+(2)Key Laboratory of Maternal & Child Health and Exposure Science of Guizhou 
+Higher Education Institutes, Zunyi, Guizhou, China.
+(3)Department of Psychiatry, Section Medical Psychology, Erasmus University 
+Medical Center, Erasmus MC, Rotterdam, The Netherlands.
+(4)Department of Public Health, Erasmus University Medical Center, Erasmus MC, 
+Rotterdam, The Netherlands.
+(5)Health Services Management Department, Guizhou Medical University, Guiyang, 
+Guizhou, China.
+(6)School of Public health, Hainan Medical University, Haikou, Hainan, China.
+(7)Research Unit for General Practice, Department of Public Health, University 
+of Copenhagen, Copenhagen, Denmark.
+(8)Research Unit for General Practice, Department of Public Health, University 
+of Southern Denmark, Odense, Denmark.
+
+OBJECTIVES: While the prevalence of posttraumatic stress disorder (PTSD) after 
+road traffic accidents (RTA) has been widely studied, there is a gap in research 
+in the context of China. Therefore, this study aimed to provide a pooled 
+estimation of PTSD prevalence after RTA based on Chinese data and compare it to 
+existing international prevalence.
+METHODS: A systematic literature search of English and Chinese databases was 
+performed from their inception dates to December 31, 2024. Chinese patients 
+admitted to a hospital or emergency department after RTA, and without traumatic 
+brain injury following RTA or without PTSD before RTA were included, regardless 
+of type of RTA and whether fracture was sustained. Subgroup analyses were 
+performed on the basis on demographics, assessment methods, income, and 
+comorbidity.
+RESULTS: The inclusion criteria were met by 21 studies. The pooled prevalence of 
+acute stress disorder (ASD) and PTSD was 30% (95% CI, 22%-37%) and 27% (95% 
+CI,22%-32%), respectively, which is higher than the global prevalence of 16% ASD 
+and 22% PTSD. The transition rate of ASD to PTSD was 77% (95% CI, 63%-91%). 
+Females, older adults, and those with lower income had a higher prevalence of 
+PTSD. In addition, the prevalence of PTSD increased with age. Older survivors 
+with comorbidities including anxiety, depression, complication (such as pain, 
+hemorrhagic shock, hypoxemia), diabetes, and hypertension were more likely to 
+suffer from PTSD than older survivors without those comorbidities.
+CONCLUSIONS: PTSD after RTA is common, with more than one in four RTA survivors 
+reporting PTSD. Pooled prevalence was higher than that of meta-analysis that had 
+no restrictions on world region.
+
+DOI: 10.1080/15389588.2025.2531410
+PMID: 40779750

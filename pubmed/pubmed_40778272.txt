@@ -1,0 +1,65 @@
+1. Front Endocrinol (Lausanne). 2025 Jul 24;16:1595097. doi: 
+10.3389/fendo.2025.1595097. eCollection 2025.
+
+Associations of triglyceride-glucose index and metabolic score for insulin 
+resistance with various hypertension phenotypes in children and adolescents: 
+results from the 2017 China nutrition and health surveillance.
+
+Zhu H(#)(1), Yu L(#)(2), Wu Q(1), Zhang R(1), Zhang Z(1), Feng Y(1), Liu T(1), 
+Liu D(3), Peng J(4), Chen X(5), Dong X(1).
+
+Author information:
+(1)Department of Public Health and Preventive Medicine, School of Medicine, 
+Jinan University, Guangzhou, China.
+(2)Health Management Institute, Shandong Center for Disease Control and 
+Prevention, Jinan, China.
+(3)Department of Epidemiology, School of Public Health, Southern Medical 
+University, Guangzhou, China.
+(4)Guangdong Provincial Institute of Public Health, Guangdong Center for Disease 
+Control and Prevention, Guangzhou, China.
+(5)Department of Primary Public Health, Guangzhou Center for Disease Control and 
+Prevention, Guangzhou, China.
+(#)Contributed equally
+
+BACKGROUND: The prevalence of hypertension in children is rising globally, with 
+early-onset high blood pressure linked to future cardiovascular risk. 
+Identifying early risk markers beyond obesity and high salt intake is necessary. 
+Although cost-effective indicators of insulin resistance (IR), such as TyG and 
+METS-IR, have been associated with new-onset hypertension in adults, their links 
+with pediatric hypertension, particularly specific phenotypes of hypertension 
+remain unclear.
+METHODS: 12,087 individuals aged 7-17 years from the 2017 China National 
+Nutrition and Health Surveillance of Children and Lactating Women were included. 
+Hypertension was defined as systolic blood pressure (SBP) and/or diastolic blood 
+pressure (DBP) ≥95th percentile for sex, age, and height. Isolated systolic 
+hypertension (ISH), defined as SBP ≥95th and DBP <95th percentile. Isolated 
+diastolic hypertension (IDH), defined as DBP ≥95th and SBP <95th percentile. 
+Systolic-diastolic hypertension (SDH), defined as both SBP and DBP ≥95th 
+percentile. The associations of TyG and METS-IR with hypertension phenotypes 
+were investigated using multivariable logistic regression and restricted cubic 
+spline regression.
+RESULTS: TyG and METS-IR were positively associated with hypertension and all 
+its phenotypes after multivariable adjustment. Treated as continuous variables, 
+each 1-unit rise in TyG corresponds to 44%, 47%, and 61% higher chance of ISH, 
+IDH, and SDH, respectively (odds ratio [OR]: 1.44, 95% confidence interval [CI]: 
+1.31-1.59; OR: 1.47, 95%CI: 1.21-1.79; OR: 1.61, 95%CI: 1.35-1.91); each 1-unit 
+rise in METS-IR corresponds to 10%, 6%, and 12% higher chance of ISH, IDH, and 
+SDH, respectively (OR: 1.10, 95%CI: 1.09-1.12; OR: 1.06, 95%CI: 1.03-1.08; OR: 
+1.12, 95%CI: 1.10-1.14). Consistent positive associations were observed across 
+different subgroups for ISH and SDH, whereas this association for IDH was not 
+statistically significant in several subgroups (e.g., age ≥12 years, sufficient 
+sleep, daily exercise). TyG and METS-IR exhibited linear dose-response 
+relationships with all hypertension phenotypes (p-nonlinear >0.10).
+CONCLUSION: TyG and METS-IR show strong relationships with three kinds of 
+hypertension phenotypes. They are promising markers that may contribute to the 
+primary prevention of hypertension in pediatric populations.
+
+Copyright © 2025 Zhu, Yu, Wu, Zhang, Zhang, Feng, Liu, Liu, Peng, Chen and Dong.
+
+DOI: 10.3389/fendo.2025.1595097
+PMCID: PMC12328147
+PMID: 40778272 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

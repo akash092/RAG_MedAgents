@@ -1,0 +1,39 @@
+1. J Nepal Health Res Counc. 2025 Jun 29;23(1):65-72. doi: 
+10.33314/jnhrc.v23i01.5223.
+
+Prevalence and Risk Factors of High Blood Pressure among Elderly People.
+
+Parajuli K(1), Sharma MP(2), Ghimire R(1), Karki K(1).
+
+Author information:
+(1)Department of Public Health, Asian College for Advance Studies, Purbanchal 
+University, Nepal.
+(2)Central Department of Population Studies, Tribhuvan University Kritipur, 
+Nepal.
+
+BACKGROUND: High Blood Pressure, a prevalent condition exacerbated by population 
+growth, disproportionately affects the elderly, with over two-thirds of 
+individuals aged 65 and above affected. This study aimed to evaluate the 
+prevalence and risk factors of high blood pressure among elderly residents of 
+Chandragiri Municipality in Kathmandu.
+METHODOLOGY: A cross-sectional was applied, and the respondents were selected 
+from randomly chosen wards of Chandragiri Municipality. Elderly individuals aged 
+over 60 years residing in the area, regardless of permanency, were included. 
+Data analysis was conducted using SPSS software, with the Chi-square test 
+employed to assess associations between high blood pressure and various risk 
+factors at a significance level of 5%.
+RESULTS: The study included 418 individuals, of whom 48.8% were currently 
+suffering from high blood pressure. The majority was male 55.5% and married 
+73.7%, with Chhetri 45.2% and Brahmin 40.7% being the most prevalent ethnic 
+groups. Most respondents were illiterate 44.3% and resided in joint families 
+68.4%. Reported risk factors for high blood pressure included tobacco smoking 
+37.3%, alcohol consumption 36.1%, and non-vegetarian diets 85.9%.
+CONCLUSION: Significant relationships were observed between blood pressure and 
+age, sex, marital status, tobacco smoking, and alcohol consumption. Conversely, 
+religion, ethnicity, education level, family type, BMI, diet type, and physical 
+activity did not exhibit noteworthy associations with high blood pressure in 
+this sample. These findings underscore the multifactorial nature of high blood 
+pressure and its diverse risk factors.
+
+DOI: 10.33314/jnhrc.v23i01.5223
+PMID: 40776520 [Indexed for MEDLINE]

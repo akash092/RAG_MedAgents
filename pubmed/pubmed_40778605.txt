@@ -1,0 +1,49 @@
+1. Int J Stroke. 2025 Aug 8:17474930251368895. doi: 10.1177/17474930251368895. 
+Online ahead of print.
+
+Clinical features, including atypical symptoms, associated with acute cerebral 
+ischaemia on DWI-MRI in suspected TIA and minor stroke.
+
+Gallogly PC(1), Hassan J(2), Lee C(2), Cousins J(1), Best J(3), Jager R(4)(5), 
+Werring D(3), Chandratheva A(6).
+
+Author information:
+(1)Comprehensive Stroke Service, National Hospital for Neurology and 
+Neurosurgery.
+(2)University College London Faculty of Medical Sciences.
+(3)Stroke Research Centre, UCL Queen Square Institute of Neurology.
+(4)Neuroradiological Academic Unit, Department of Brain Repair and 
+Rehabilitation, UCL Queen Square Institute of Neurology, London, UK.
+(5)Lysholm Department of Neuroradiology, The National Hospital of Neurology and 
+Neurosurgery, Queen Square London, UK.
+(6)Comprehensive Stroke Service, National Hospital for Neurology and 
+Neurosurgery.
+
+Background and aimsThe diagnosis of transient ischaemic attack (TIA) and minor 
+stroke can be challenging. Current diagnostic criteria for TIA disqualify 
+atypical clinical presentations which may nevertheless be associated with 
+objective cerebral ischaemia on DWI-MRI. We aimed to: (1) ascertain the 
+proportion of DWI-positive patients with atypical clinical presentations; and 
+(2) identify clinical factors predicting DWI positivity.MethodsWe 
+retrospectively reviewed case notes of consecutive patients with suspected TIA 
+or minor stroke undergoing MRI at our comprehensive stroke centre. We identified 
+clinical factors predicting DWI positivity using multivariable logistic 
+regression.ResultsWe included 1615 patients. Of 442 (27.4%) who were 
+DWI-positive, 38.5% had atypical presentations; common symptoms included 
+headache (present in 17%), unsteadiness (15%), positive sensory symptoms (11%), 
+presyncope (10%), confusion (9%) and vertigo (8%). Symptoms independently 
+associated with DWI-positivity included weakness (OR 1.30 95% CI 1.01-1.67), 
+dysarthria (OR 2.05 CI 1.56-2.70), and ataxia (OR 3.76 CI 2.27-6.21). 
+Fluctuating symptoms (present in 21.5%) predicted DWI positivity (OR 1.37 CI 
+1.04-1.81), but sudden onset (80.1%) did not (OR 1.05, CI 0.80-1.38). Risk 
+factors associated with DWI positivity included increasing age (OR 1.02/year CI 
+1.01-1.02), hypertension (OR 1.61 CI 1.23-2.11), diabetes (OR 1.40 CI 
+1.04-1.90), and smoking (OR 1.67 CI 1.17-2.37). DWI-positive patients had 
+significantly more risk factors (mean 2.65 vs 1.95 p=<0.001).ConclusionsOver 
+one-third of people with MRI DWI-confirmed TIA or minor stroke present with 
+atypical symptoms. MRI-DWI is essential to diagnose cerebral ischaemia in 
+patients with atypical symptoms, particularly in those with vascular risk 
+factors.
+
+DOI: 10.1177/17474930251368895
+PMID: 40778605

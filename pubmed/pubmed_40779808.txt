@@ -1,0 +1,53 @@
+1. Poult Sci. 2025 May 8;104(10):105265. doi: 10.1016/j.psj.2025.105265. Online 
+ahead of print.
+
+Effect of phloretin on antioxidant status, inflammatory cytokines, blood and 
+biochemical indices, cecal microbial load, and growth performance in broiler 
+chickens subjected to pulmonary arterial hypertension.
+
+Fathi M(1), Zarrinkavyani K(2), Biranvand Z(3), Abd MAA(4).
+
+Author information:
+(1)Department of Animal Science, Payame Noor University, Tehran, Iran.
+(2)Department of Animal Science, Faculty of Agriculture, Ilam University, Ilam, 
+Iran. Electronic address: k.zarrinkavyani@ilam.ac.ir.
+(3)Researcher, Department of Animal Science, Ilam Agricultural and Natural 
+Resources Research and Education Center, AREEO, Ilam, Iran.
+(4)Department of Animal Science, Faculty of Agriculture, Ilam University, Ilam, 
+Iran.
+
+This experiment was conducted to investigate the effects of dietary phloretin on 
+broiler chickens under pulmonary arterial hypertension (PAH) conditions. A total 
+of 500 one-day-old male broiler chickens were randomly allocated into five 
+treatments with five replicate pens containing 20 birds per pen. The negative 
+control group was reared at normal temperature and fed with basal diet while the 
+PAH-treatments (positive control, F-200, F-400, and F-600) were exposed to low 
+temperatures and received drinking water supplemented with excess salt to induce 
+PAH and fed with basal diet containing 0, 200, 400, and 600 mg of phloretin per 
+kilogram, respectively. Blood samples were collected from broilers at 42 days of 
+age. Results showed that PAH decreased body weight gain (BWG), antioxidant 
+capacity, immunoglobulin G (IgG), hematological indices, and cecal lactic acid 
+bacteria population (CLBP), but increased feed intake (FI), PAH-related 
+mortality, feed conversion ratio (FCR), PAH index, and pro-inflammatory 
+cytokines, alanine transaminase (ALT), aspartate transaminase (AST), 
+triglyceride (TG), and total cholesterol (TC) contents in serum (P<0.001). Among 
+the PAH treatments, supplementary phloretin improved growth performance indices 
+and reduced PAH index, and PAH-related mortality (P < 0.01). The activities of 
+superoxide dismutase, catalase, and glutathione peroxidase, and IgG, and IgM in 
+serum were increased, and malondialdehyde was reduced by phloretin 
+supplementation (P <0.01). The PAH-induced effect on contents of 
+pro-inflammatory cytokines were reduced by dietary phloretin supplementation (P 
+<0.01). Moreover, supplementation of diets with phloretin alleviated the adverse 
+effect of PAH as reflected by a reduction in ALT, AST, TG, and TC (P <0.01). The 
+red blood cell count, hemoglobin, hematocrit, and heterophil levels reduced by 
+phloretin supplementation. Phloretin increased the population of CLBP. In 
+conclusion, phloretin supplementation during PAH may mitigate PAH-associated 
+physiological and biochemical alterations in broiler chickens.
+
+Copyright © 2025. Published by Elsevier Inc.
+
+DOI: 10.1016/j.psj.2025.105265
+PMID: 40779808
+
+Conflict of interest statement: Disclosures Authors declare no conflict of 
+interest.

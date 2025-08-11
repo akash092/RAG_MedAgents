@@ -1,0 +1,52 @@
+1. Clin Exp Metastasis. 2025 Aug 8;42(5):47. doi: 10.1007/s10585-025-10368-9.
+
+Targeting metabolic and epigenetic reprogramming in metastatic fumarate 
+hydratase-deficient renal cell carcinoma.
+
+Kührer N(#)(1), Huebner-Resch I(#)(2), Mayr R(3), Agaimy A(4), Kronbichler 
+A(5)(6), Hartmann A(4), Schmidinger M(#)(2), Pichler R(#)(7).
+
+Author information:
+(1)Department of Urology, Comprehensive Cancer Center Innsbruck, Medical 
+University of Innsbruck, Innsbruck, Austria.
+(2)Department of Urology, Comprehensive Cancer Center, Medical University of 
+Vienna, Vienna, Austria.
+(3)Department of Urology, Caritas St. Josef Hospital, University of Regensburg, 
+Regensburg, Germany.
+(4)Institute of Pathology, University Hospital Erlangen, 
+Friedrich-Alexander-University Erlangen-Nürnberg and Comprehensive Cancer Center 
+Erlangen-EMN (CCC ER-EMN), Erlangen, Germany.
+(5)Department of Internal Medicine IV, Nephrology and Hypertension, Medical 
+University of Innsbruck, Innsbruck, Austria.
+(6)Department of Health, Medicine and Caring Sciences, Linköping University, 
+Linköping, Sweden.
+(7)Department of Urology, Comprehensive Cancer Center Innsbruck, Medical 
+University of Innsbruck, Innsbruck, Austria. Renate.Pichler@i-med.ac.at.
+(#)Contributed equally
+
+Fumarate hydratase-deficient renal cell carcinoma (FHdRCC) has been classified 
+under the new category of molecularly defined RCCs according to the WHO 
+classification 2022. Although rare, FHdRCC is an aggressive malignancy with a 
+high metastatic potential and poor prognosis, even at early stages. Due to its 
+low incidence, no standard therapeutic regimen has been established to date. 
+Several phase 2 clinical trials are evaluating combinations of targeted 
+therapies in patients with advanced/metastatic disease. These include immune 
+checkpoint inhibitors (nivolumab, tislelizumab, sintilimab, avelumab), 
+multi-tyrosine kinase inhibitors (cabozantinib, erlotinib, lenvatinib, axitinib, 
+vandetanib), and PARP inhibitors (talazoparib). The most promising combinations 
+are nivolumab/cabozantinib (N = 5, objective response rate (ORR): 100%), 
+lenvatinib/tislelizumab (N = 14, ORR: 93.3%), bevacizumab/erlotinib (N = 43, 
+ORR: 72%), and sintilimab/axitinib (N = 19, ORR: 63.1%). In this review, we will 
+provide a detailed overview of ongoing clinical trials, highlighting the roles 
+of metabolic and epigenetic reprogramming, as well as pro- oncogenic signaling, 
+which together form the backbone for emerging novel targeted treatment 
+strategies. Targeting these specific signaling pathways will shift the 
+therapeutic landscape toward personalized medicine in metastatic FHdRCC.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s10585-025-10368-9
+PMID: 40779213 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests.

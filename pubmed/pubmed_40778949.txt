@@ -1,0 +1,46 @@
+1. Eur J Trauma Emerg Surg. 2025 Aug 8;51(1):264. doi:
+10.1007/s00068-025-02942-3.
+
+Primary versus secondary decompressive craniectomy in traumatic brain injury: 
+analysis of the indications and outcomes.
+
+Ortuño-Andériz F(1), Castaño-Montoya JP(2), de Miguel-Martín S(3), 
+Zlatkov-Aleksandrov VY(3), Alonso-Martínez P(3), Pérez-Alfayate R(2).
+
+Author information:
+(1)Neurocritical Care Unit, University Hospital Clínico, Calle Martín Lagos s.n, 
+Madrid, 28040, Spain. portunoa@yahoo.es.
+(2)Department of Neurosurgery, University Hospital Clínico San Carlos, Calle 
+Martín Lagos s.n. 28040, Madrid, Spain.
+(3)Neurocritical Care Unit, University Hospital Clínico, Calle Martín Lagos s.n, 
+Madrid, 28040, Spain.
+
+PURPOSE: Decompressive craniectomy (DC) reduces mortality in traumatic brain 
+injury (TBI), but its impact on functional outcomes remains debated. DC is 
+classified as primary or secondary; however, most studies analyze both together. 
+This study aims to compare clinical and epidemiological differences between 
+primary and secondary DC.
+METHODS: A retrospective cohort study analyzed severe TBI patients requiring 
+primary vs. secondary DC admitted to our Intensive Care Unit (ICU) (2014-2024). 
+Epidemiological, clinical, and radiological variables were evaluated.
+RESULTS: Among 312 ICU-admitted TBI patients, 72 underwent DC (45 primary, 33 
+secondary). Primary DC was performed intraoperatively during mass evacuation 
+without prior intracranial pressure (ICP) assessment, while secondary DC was 
+performed for refractory intracranial hypertension (ICH). Patients who underwent 
+primary DC showed signs of more severe injury at admission, which was associated 
+with higher mortality.
+CONCLUSION: Secondary DC patients had a better initial prognosis and ICU course, 
+likely due to the selection of less severe cases. Higher mortality in the 
+primary DC group may reflect the greater severity of the initial injury rather 
+than the negative impact of early intervention. A predictive model incorporating 
+clinical (hemodynamic instability) and radiological (perimesencephalic cistern 
+collapse, midline shift) criteria effectively differentiates primary DC 
+candidates (AUC = 0.821, p < 0.0001).
+
+© 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany.
+
+DOI: 10.1007/s00068-025-02942-3
+PMID: 40778949 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.

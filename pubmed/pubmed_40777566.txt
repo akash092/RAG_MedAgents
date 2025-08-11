@@ -1,0 +1,57 @@
+1. Front Cardiovasc Med. 2025 Jul 24;12:1596575. doi: 10.3389/fcvm.2025.1596575. 
+eCollection 2025.
+
+Prognostic stratification in myocardial infarction using the modified CONUT 
+score: a multidimensional biomarker from the MIMIC-IV cohort.
+
+Yu W(#)(1)(2), Luo Y(#)(2), Cai Q(#)(1), Yang J(2), Deng W(2), Dong R(2), Xie 
+X(2).
+
+Author information:
+(1)Department of Cardiology, Zhongshan Hospital Xiamen University, Xiamen, 
+China.
+(2)Department of Cardiology, Third Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+(#)Contributed equally
+
+BACKGROUND: Malnutrition is increasingly recognized as a modifiable prognostic 
+factor in myocardial infarction (MI), yet traditional nutritional assessment 
+methods often fail to adequately capture lipid-related atherogenic risk. We 
+introduced an innovative modified Controlling Nutritional Status (mCONUT) score, 
+which replaces total cholesterol with non-HDL cholesterol, aiming to improve the 
+stratification of atherosclerotic risk and to assess its prognostic utility in 
+predicting MI outcomes.
+METHODS: In this retrospective cohort study, we analyzed a total of 3,730 
+patients diagnosed with MI, extracted from the MIMIC-IV database, and stratified 
+them into Normal, Mild, and Worse groups based on the mCONUT score. After 
+performing 1:1:1 propensity score matching, we selected 993 patients for 
+comparative analysis. Multivariable Cox proportional hazards models, adjusted 
+for clinical and demographic confounders, were employed to evaluate all-cause 
+mortality at 180 days and 1 year.
+RESULTS: Among 993 MI patients, the median age was 75 years (IQR 68-82) with 
+58.4% males (n = 580). Malnutrition severity (mCONUT ≥6) stratified prognostic 
+risk: Worse group demonstrated progressive mortality increases (180-day: 13.9% 
+vs. Normal 7.85%, p = 0.037; 1-year: 31.4% vs. 21.2%, p = 0.011), alongside 
+lower BMI, extended hospitalization, reduced hypertension, higher CKD incidence, 
+and diminished revascularization (all p < 0.05). Multivariable analyses 
+confirmed graded mortality risk: 180-day (Model 1: adjusted HR 1.58, p = 0.009; 
+Model 2: HR 1.46, p = 0.031) and 1-year (Model 1: HR 1.61, p = 0.002; Model 2: 
+HR 1.52, p = 0.008). Consistency across subgroups was observed, with heightened 
+vulnerability in males, hypertensives (interaction p = 0.004), diabetes and 
+non-white individuals.
+CONCLUSIONS: The mCONUT score has emerged as a robust multidimensional biomarker 
+for predicting MI prognosis, with worse malnutrition (mCONUT ≥ 6) being 
+significantly associated with a 46%-61% elevation in mortality risk, 
+demonstrating a clear linear dose-response relationship. Routine screening and 
+tailored nutritional interventions should be prioritized in modern MI management 
+practices.
+
+© 2025 Yu, Luo, Cai, Yang, Deng, Dong and Xie.
+
+DOI: 10.3389/fcvm.2025.1596575
+PMCID: PMC12328424
+PMID: 40777566
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

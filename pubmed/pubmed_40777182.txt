@@ -1,0 +1,59 @@
+1. Front Nutr. 2025 Jul 24;12:1568427. doi: 10.3389/fnut.2025.1568427.
+eCollection  2025.
+
+The advanced lung cancer inflammation index as a predictor of kidney stone risk 
+in men: a cross-sectional analysis.
+
+Zhou Y(#)(1)(2), Li X(#)(3), He Q(1)(2), Feng Q(1)(2), Liu Y(1)(2), Liao B(4).
+
+Author information:
+(1)Department of Urology, Institute of Urology, West China Hospital, Sichuan 
+University, Chengdu, China.
+(2)West China School of Nursing, Sichuan University, Chengdu, China.
+(3)Institute of Transfusion Medicine and Immunology, Medical Faculty Mannheim, 
+Heidelberg University, Heidelberg, Germany.
+(4)Department of Urology and Institute of Urology (Laboratory of Reconstructive 
+Urology), West China Hospital, Sichuan University, Chengdu, Sichuan, China.
+(#)Contributed equally
+
+BACKGROUND: Kidney stone incidence and recurrence are increasing, which poses 
+significant health problems. The Advanced Lung Cancer Inflammation Index (ALI) 
+combines body mass index (BMI), albumin, and neutrophil-to-lymphocyte ratio 
+(NLR). It was first created to predict outcomes for cancer patients. Recently, 
+it has been studied as an indicator of overall inflammation and nutrition in 
+other diseases, such as chronic kidney disease, heart failure, acute myocardial 
+infarction, and asthma. This study aimed to evaluate the association between ALI 
+scores and kidney stone risk in adult men, and to assess the potential utility 
+of ALI as an indicative biomarker.
+METHODS: We analyzed data from 5,429 male participants in the National Health 
+and Nutrition Examination Survey (NHANES, 2007-2018). Weighted logistic 
+regression models were used to examine the relationship between ALI scores and 
+the risk of kidney stones. Non-linear associations were further explored with 
+smoothed curve fitting. The predictive value of ALI was assessed using receiver 
+operating characteristic (ROC) curve analysis. Subgroup analyses were conducted 
+to evaluate the consistency of findings across different demographic and 
+clinical characteristics.
+RESULTS: Out of all participants, 572 (10.5%) had a history of kidney stones. 
+For every one-unit increase in ALI score, the risk of having kidney stones 
+decreased by 22.7% (odds ratio = 0.773, 95% CI: 0.675-0.885, P < 0.001). The 
+smooth curve analysis showed a non-linear inverse relationship. The protective 
+effect was stronger when ALI scores were low. Subgroup analyses showed stronger 
+relationships for men aged 60-80, overweight men, former smokers, and men 
+without hypertension, diabetes, or cardiovascular disease. ROC analysis showed 
+ALI had moderate accuracy in predicting kidney stones (AUC = 0.770).
+CONCLUSION: ALI scores were independently linked to a lower risk of kidney 
+stones, especially in men without metabolic diseases. As a simple inflammation 
+and nutrition marker, ALI could help identify people who have a higher risk. 
+However, due to the cross-sectional design of this study, a causal relationship 
+between ALI and kidney stone risk cannot be established. Further prospective 
+studies are needed to validate these findings.
+
+Copyright © 2025 Zhou, Li, He, Feng, Liu and Liao.
+
+DOI: 10.3389/fnut.2025.1568427
+PMCID: PMC12329308
+PMID: 40777182
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

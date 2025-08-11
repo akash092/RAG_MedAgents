@@ -1,0 +1,36 @@
+1. Future Cardiol. 2025 Aug 8:1-12. doi: 10.1080/14796678.2025.2545133. Online 
+ahead of print.
+
+Tricuspid valve edge to edge repair vs replacement - a comparative analysis and 
+future directions.
+
+Hajj J(1), Kassab J(2), Zalaquett Z(1), Harb SC(1), Kapadia SR(1).
+
+Author information:
+(1)Heart and Vascular Institute, Department of Cardiovascular Medicine, 
+Cleveland Clinic, Cleveland, OH, USA.
+(2)Department of Internal Medicine, UT Southwestern Medical Center, Dallas, TX, 
+USA.
+
+Tricuspid regurgitation (TR) is a common yet underrecognized valvular disease 
+associated with significant morbidity and mortality. Recent advances in 
+transcatheter therapies, namely transcatheter edge-to-edge repair (T-TEER) with 
+the TriClip device (Abbott) and transcatheter tricuspid valve replacement (TTVR) 
+with the EVOQUE device (Edwards Lifesciences), offer promising alternatives to 
+surgery for severe symptomatic TR. This review compares both approaches with a 
+focus on safety, procedural considerations, and clinical outcomes. Treating TR 
+remains uniquely challenging due to the anatomical complexity of the valve, 
+frequent lead interference, and common coexistence of RV dysfunction, atrial 
+fibrillation, and pulmonary hypertension. Many affected patients are elderly and 
+frail, rendering them poor surgical candidates. Optimal treatment requires 
+individualized decision-making guided by detailed imaging and assessment of RV 
+function and valvular anatomy. Both therapies achieve significant TR reduction, 
+yet each carries distinct risks: TTVR is associated with higher rates of 
+pacemaker implantation, bleeding, and RV failure, while T-TEER may lead to 
+single leaflet device attachment (SLDA), leaflet injury, or residual TR. Careful 
+patient selection is essential. Despite encouraging short-term outcomes, 
+long-term data are needed to determine survival benefit and durability. Further 
+studies are warranted to refine technique and optimize candidate selection.
+
+DOI: 10.1080/14796678.2025.2545133
+PMID: 40779241

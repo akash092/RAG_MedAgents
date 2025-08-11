@@ -1,0 +1,65 @@
+1. Sleep Breath. 2025 Aug 8;29(4):268. doi: 10.1007/s11325-025-03434-9.
+
+Osa in women: When does cpap increase blood pressure?
+
+Oscullo G(1)(2), Bekki A(1)(2), Beaperthuy T(3), Gómez-Olivas JD(1)(2), Anglés 
+M(1)(2), Mompeán S(1)(2), Martínez R(1)(2), Ponce S(4), Pengo MF(5)(6), 
+Martinez-Garcia MA(7)(8)(9).
+
+Author information:
+(1)Respiratory Department, Hospital Universitario y Politécnico La Fe, Valencia, 
+Spain.
+(2)Instituto de Investigación Sanitaria la Fe. Valencia, Valencia, Spain.
+(3)Respiratory Unit, Requena General Hospital, Valencia, Spain.
+(4)Respiratory Department, Hospital Peset Aleixandre. Valencia, Valencia, Spain.
+(5)Department of Cardiovascular, Neural and Metabolic Sciences, IRCCS Istituto 
+Auxologico Italiano, Milan, Italy.
+(6)Department of Medicine and Surgery, University of Milano-Bicocca, Milan, 
+Italy.
+(7)Respiratory Department, Hospital Universitario y Politécnico La Fe, Valencia, 
+Spain. mianmartinezgarcia@gmail.com.
+(8)Instituto de Investigación Sanitaria la Fe. Valencia, Valencia, Spain. 
+mianmartinezgarcia@gmail.com.
+(9)Centro de Investigación Biomédica en Red (CIBERES), Instituto de Salud Carlos 
+III, Madrid, Spain. mianmartinezgarcia@gmail.com.
+
+BACKGROUND: There has been only one randomised clinical trial (RCT) on the 
+effect of CPAP on women at three months. It showed that, overall, this treatment 
+had no effect on blood pressure levels, even though some of the women presented 
+increased blood pressure while under CPAP. Identifying this group of women could 
+therefore be of clinical interest.
+OBJECTIVE: To identify the risk factors for an increase (of at least 2 mmHg of 
+BP) by analysing the CPAP arm of this RCT in those patients with inadequate and 
+good adherence to CPAP.
+METHODS: 151 women from the CPAP arm of the RCT were included. They all followed 
+a complete sleep protocol that included CPAP pressure titration and office BP 
+measures at baseline and one and three months after beginning CPAP treatment.
+RESULTS: After exclusion, 137 women began the study. 69.3% showed good adherence 
+to CPAP at 3 months and 77 patients (56.2%) increased their BP. In the overall 
+group of women (independently of their adherence to CPAP), age, the presence of 
+depression, baseline AHI and baseline SBP were associated with an increased BP 
+(at least 2 mmHg) at 1 and 3 months. However, the BP increase was observed 
+during the first month and tended to stabilize towards the third month.
+CONCLUSION: Greater age, the presence of depression and higher baseline AHI and 
+SBP were independently associated with a clinical significant increase in BP 
+after CPAP, regardless of their adherence. These changes in BP appeared mainly 
+during the first month of treatment.
+
+© 2025. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s11325-025-03434-9
+PMID: 40779000 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Use of artificial intelligence: 
+No. Conflict of interest: No Conflicts of Interest. All authors certify that 
+they have no affiliations with or involvement in any organization or entity with 
+any financial interest (such as honoraria; educational grants; participation in 
+speakers’ bureaus; membership, employment, consultancies, stock ownership, or 
+other equity interest; and expert testimony or patent-licensing arrangements), 
+or non-financial interest (such as personal or professional relationships, 
+affiliations, knowledge or beliefs) in the subject matter or materials discussed 
+in this manuscript. Ethics approval and consent to participate: This article 
+does not contain any studies with human participants or animals performed by any 
+of the authors. Ethical Committee: Hospital Universitario de Valme, Ctra Cadiz 
+S/N, 41014 Sevilla.

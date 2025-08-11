@@ -1,0 +1,40 @@
+1. Afr Health Sci. 2024 Sep;24(3):375-381. doi: 10.4314/ahs.v24i3.41.
+
+Application effect of task-oriented multi-dimensional nursing intervention in 
+patients with coronary atherosclerotic heart disease and concurrent 
+hypertension.
+
+Li W(1).
+
+Author information:
+(1)Department of Nursing of Cardiology, The First Affiliated Hospital of Harbin 
+Medical University, Harbin, China.
+
+BACKGROUND: The purpose of this study was to explore the application effect of 
+task-oriented multi-dimensional nursing intervention in patients with coronary 
+atherosclerotic heart disease (CAD) and concurrent hypertension.
+METHODOLOGY: The clinical data of 196 patients with CAD and concurrent 
+hypertension in our hospital between January 2019 and January 2022 were 
+retrospectively analysed. The patients receiving task-oriented multi-dimensional 
+nursing were set as study group (n=98), while those given routine nursing as 
+control group (n=98). The two groups were compared in the Hamilton Anxiety Scale 
+(HAMA) scores, left ventricular end-diastolic diameter (LVEDD), 36-Item Short 
+Form Health Survey (SF-36) scores, left ventricular ejection fraction (LVEF), 
+Hamilton Depression Scale (HAMD) scores, systolic blood pressure (SBP), 
+treatment compliance and incidence rates of adverse events.
+RESULTS: After intervention, study group showed lower HAMA and HAMD scores, SBP 
+and LVEDD, but higher SF-36 scores and LVEF than control group (P<0.05). The 
+treatment compliance rate was higher in control group than that in study group 
+(92.86% vs. 80.61%), while an opposite result was detected in the total 
+incidence rate 5.10% vs. 13.27%, P<0.05).
+CONCLUSION: Multidimensional nursing benefits CAD patients with hypertension, 
+improving emotions, compliance, and quality of life, reducing adverse events, 
+and promoting recovery. Recommended for clinical use.
+
+© 2024 Li W.
+
+DOI: 10.4314/ahs.v24i3.41
+PMCID: PMC12327131
+PMID: 40777944 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared no conflict of interest.

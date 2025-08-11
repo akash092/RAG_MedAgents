@@ -1,0 +1,54 @@
+1. Expert Rev Gastroenterol Hepatol. 2025 Aug 8. doi: 
+10.1080/17474124.2025.2545812. Online ahead of print.
+
+Food insecurity is an emerging risk factor for liver disease: a scoping review.
+
+Lonardo A(1), Zheng MH(2), Weiskirchen R(3).
+
+Author information:
+(1)Department of Internal Medicine, Azienda Ospedaliero-Universitaria di Modena 
+(-2023), Modena, Italy.
+(2)MAFLD Research Center, Department of Hepatology, The First Affiliated 
+Hospital of Wenzhou Medical University, Wenzhou, China.
+(3)Institute of Molecular Pathobiochemistry, Experimental Gene Therapy and 
+Clinical Chemistry (IFMPEGKC), RWTH University Hospital Aachen, Aachen, Germany.
+
+INTRODUCTION: Food insecurity, the household-level socio-economic condition of 
+having limited or uncertain ability to acquire adequate and safe food, has 
+affected 13.8 million households in the United States in 2020 and is a cofactor 
+in the onset and worsening of metabolic dysfunction-associated steatotic liver 
+disease (MASLD).
+AREAS COVERED: To illustrate the epidemiological evidence linking MASLD with 
+food insecurity, and the potential pathobiological mechanisms underlying their 
+association we searched the PubMed, Web of Science, and Scopus database from 
+inception to April 2025 for relevant keywords pertaining to the topic. Finally, 
+we will discuss promising areas of future research in this field.
+EXPERT OPINION: Research on food insecurity contributes to the establishment of 
+the biopsychosocial disease model in the MASLD field. Understanding the broader 
+sociocultural factors influencing food choices, which may disproportionately 
+affect certain vulnerable populations, can help shift the focus from individual 
+responsibility to a more comprehensive approach to addressing obesity-related 
+metabolic dysfunction. Future studies should focus on quantifying descriptors of 
+food insecurity more effectively. Additionally, further research is necessary to 
+determine whether and to what extent global cultural advancements and specific 
+education in food security can prevent and reverse the negative outcomes of food 
+insecurity-associated MASLD.
+
+Plain Language Summary: Metabolic dysfunction-associated steatotic liver disease 
+(MASLD) is a condition characterized by the accumulation of fat in the liver due 
+to obesity, diabetes, hypertension or dyslipidemia collectively known as the 
+metabolic syndrome (MetS). It is one of the most common liver diseases globally, 
+making it crucial to identify modifiable risk factors that contribute to its 
+development and progression to more severe conditions such as fibrosis, 
+cirrhosis, liver failure and liver cancer. In recent years, food insecurity has 
+become a prevalent issue in the United States, defined as a household-level 
+socio economic condition where there is limited or uncertain access to adequate 
+and safe food. This has significant implications for the risk of chronic liver 
+disease associated with MASLD, as it disrupts normal liver function and 
+increases the likelihood of developing MetS. The interplay between social 
+wellbeing and medical health in relation to these mechanisms is explored in 
+depth in our article, along with a detailed analysis of potential research 
+avenues and interventions to address food insecurity.
+
+DOI: 10.1080/17474124.2025.2545812
+PMID: 40778541

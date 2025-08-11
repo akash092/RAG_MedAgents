@@ -1,0 +1,61 @@
+1. BJOG. 2025 Aug 8. doi: 10.1111/1471-0528.18325. Online ahead of print.
+
+Anxiety and Arterial Stiffness in High-Risk Pregnancies: A Secondary Analysis of 
+a Prospective Cohort Study.
+
+Forrest M(1)(2), Matossian M(1), Papacostas Quintanilla H(1)(2), Malhamé 
+I(3)(4), Montreuil T(2)(5)(6), Daskalopoulou SS(1)(3).
+
+Author information:
+(1)Vascular Health Unit, Research Institute of McGill University Health Centre, 
+Montreal, Quebec, Canada.
+(2)Department of Medicine, McGill University, Montreal, Quebec, Canada.
+(3)Division of General Internal Medicine, Department of Medicine, McGill 
+University Health Centre, Montreal, Quebec, Canada.
+(4)Centre for Outcomes Research and Evaluation, Research Institute of the McGill 
+University Health Centre, Montreal, Quebec, Canada.
+(5)Department of Educational and Counselling Psychology, Faculty of Education, 
+McGill University, Montreal, Quebec, Canada.
+(6)Psychiatry Department, Research Institute of McGill University Health Centre, 
+Montreal, Quebec, Canada.
+
+OBJECTIVES: In a high-risk pregnant population with singleton pregnancies, the 
+primary objective was to evaluate the association between anxiety and arterial 
+stiffness (AS) and the secondary objective was to investigate whether anxiety is 
+associated with the incidence of preeclampsia.
+DESIGN: Secondary analysis of a prospective cohort study (2012-2016).
+SETTING: Two tertiary care antenatal clinics in Montreal, Canada.
+PARTICIPANTS: High-risk pregnant individuals with pre-existing hypertension, 
+diabetes, renal dysfunction, previous preeclampsia, or age ≥ 35 years were 
+included. Exclusion criteria were excessive alcohol or drug use and 
+cardiovascular disease. People with pregnancy loss, incomplete questionnaires 
+and loss to follow-up were excluded from analysis.
+METHODS: Participants were enrolled before 14-weeks' gestation, with follow-up 
+assessments of AS every 4 weeks until delivery. Anxiety symptoms were assessed 
+every trimester by the Beck Anxiety Inventory and by self-reported history of 
+emotional disorders (anxiety/depression).
+MAIN OUTCOME MEASURES: AS and wave reflection parameters, primarily 
+carotid-femoral pulse wave velocity and preeclampsia diagnosis.
+RESULTS: Of 235 individuals recruited, 161 were included in this secondary 
+analysis. Baseline anxiety symptoms were present in 35.4% of participants. 
+Anxiety was associated with a significant increase in carotid-femoral pulse wave 
+velocity across gestation, which persisted after adjustments for relevant 
+confounders, in a combined mixed-effects model (B = 0.27, 95% confidence 
+interval [CI] = 0.008-0.530, p = 0.04). A severity-response relationship was 
+observed, where greater anxiety severity correlated with higher AS. Twelve 
+participants (7.5%) developed preeclampsia. The association between anxiety and 
+preeclampsia risk showed a non-significant trend (odds ratio [OR] = 2.77, 95% 
+CI = 0.84-9.18). However, a history of emotional disorders significantly 
+elevated preeclampsia risk (OR = 3.91, 95% CI = 1.14-13.40), independent of 
+other risk factors.
+CONCLUSIONS: Anxiety in high-risk pregnancies is associated with increased AS in 
+a severity-response manner, and may be associated with preeclampsia risk. 
+Integrating psychological health assessments with traditional obstetric 
+evaluations could enhance the prediction and management of maternal 
+complications.
+
+© 2025 The Author(s). BJOG: An International Journal of Obstetrics and 
+Gynaecology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/1471-0528.18325
+PMID: 40776677

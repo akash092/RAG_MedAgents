@@ -1,0 +1,60 @@
+1. J Hypertens. 2025 Aug 8. doi: 10.1097/HJH.0000000000004115. Online ahead of 
+print.
+
+Potential role of the spleen in the development of arterial hypertension in 
+humans.
+
+Nardin M(1), Agabiti Rosei C(2), Rossini C(2), Bertacchini F(3), Piantoni S(4), 
+Brami V(2), Chiarini G(2), Malerba P(2), Piacentini N(2), Sartori S(5), 
+Ministrini S(6), Anastasia A(7), D'Adda M(7), Porteri E(2), Airò P(4), Tiberio 
+GAM(6), Rossi G(7), Franceschini F(4), Rizzoni D(2)(8), De Ciuceis C(2).
+
+Author information:
+(1)Division of Internal Medicine, Department of Medicine, ASST Spedali Civili di 
+Brescia.
+(2)Division of Internal Medicine, Department of Clinical and Experimental 
+Sciences, ASST Spedali Civili Brescia, University of Brescia.
+(3)Emergency Medicine, Department of Medicine, ASST Spedali Civili di Brescia.
+(4)Rheumatology and Clinical Immunology Unit, Department of Clinical and 
+Experimental Sciences, ASST Spedali Civili and University of Brescia, Brescia, 
+Italy.
+(5)The Zena and Michael A. Wiener Cardiovascular Institute, Icahn School of 
+Medicine at Mount Sinai, New York, New York, USA.
+(6)Surgical Clinic, Department of Clinical and Experimental Sciences, University 
+of Brescia, Brescia and ASST Spedali Civili di Brescia.
+(7)Hematology Division, Department of Oncology, ASST Spedali Civili di Brescia.
+(8)Division of Medicine, ASST Spedali Civili, Montichiari, Brescia, Italy.
+
+OBJECTIVES: Immunity, particularly T lymphocytes, plays an important role in the 
+development of arterial hypertension. Moreover, the so-called neuro-immune axis 
+has been identified as a crucial crossroads, occurring in the spleen and 
+involving placental growth factor as the principal mediator. However, no studies 
+in humans have yet investigated the role of the spleen in hypertension and 
+vascular damage.
+METHODS: In this retrospective, case-control, single-blind study, we enrolled 
+patients who had previously undergone elective splenectomy (cases) and subjects 
+who had undergone elective cholecystectomy (controls). All subjects underwent 
+24-h ambulatory blood pressure monitoring, evaluation of retinal arteriole 
+morphology by adaptive optics, capillary density assessment by 
+video-capillaroscopy, arterial stiffness measurements, and analysis of T 
+lymphocyte subpopulations by flow cytometry.
+RESULTS: Fifty patients were included: 25 (50%) cases and 25 (50%) controls. No 
+difference in hypertension prevalence (P = 0.39) or cumulative incidence 
+(P = 0.79) of new diagnoses was detected. Splenectomized patients displayed 
+lower 24-h (P = 0.024) and daytime (P = 0.011) diastolic blood pressure compared 
+to cholecystectomized patients. Similar results were obtained for retinal 
+structural parameters, capillary density, and arterial stiffness between the 
+groups. A significant impact of splenectomy on the relationship between 24-h 
+diastolic BP and wall cross-sectional area (P-interaction = 0.019) and forearm 
+capillary density recruitment (P-interaction = 0.020) was found. A higher number 
+and percentage of CD3+CD8+ T cells were observed in splenectomized patients 
+compared to cholecystectomized patients (P = 0.009 and P = 0.001, respectively), 
+although no differences in cytokine production patterns were detected.
+CONCLUSIONS: For the first time, our results support the role of the spleen in 
+blood pressure control in humans. Further and larger studies are required to 
+appropriately translate our findings into clinical practice.
+
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/HJH.0000000000004115
+PMID: 40778682

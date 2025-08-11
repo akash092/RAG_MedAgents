@@ -1,0 +1,64 @@
+1. bioRxiv [Preprint]. 2025 Jul 25:2025.07.21.666043. doi: 
+10.1101/2025.07.21.666043.
+
+The Tricuspid Valve is Transcriptionally Active During Prolonged Pressure 
+Overload, Right-Sided Heart Failure, and Valve Regurgitation.
+
+Goodyke A, Gaweda B, Piekarska M, Arora S, Westgate M, Loyaga-Rendon R, Jani M, 
+Rausch MK, Aguirre A, Prokop JW, Timek TA.
+
+BACKGROUND: Right-sided heart failure (RHF), in the presence of tricuspid valve 
+regurgitation (TR), can result from left-sided heart failure (LHF), pulmonary 
+hypertension (PH), or heart malformations. The occurrence of RHF and TR 
+represents a critical indicator of hospitalization rates and all-cause 
+mortality. However, RHF has remained understudied, specifically with respect to 
+the tricuspid valve, with few animal models to investigate the transformative 
+processes and identify novel interventions.
+METHODS: Using the outbred sheep ( Ovis aries ) model of pulmonary artery 
+banding (PAB) that induces RHF and TR, we generated three batches of ribosomal 
+reduced RNA sequencing for 354 samples (NCBI SRA PRJNA1182691) containing right 
+ventricle, left ventricle, each tricuspid valve leaflet, each mitral valve 
+leaflet, and the pulmonary artery that represents both male and female sheep. 
+The reads were assembled into a de novo sheep heart transcriptome for 
+differential analysis.
+RESULTS: The de novo sheep heart transcriptome enhanced transcript mapping of 
+reads by 43-45% in the heart valves relative to the known sheep reference 
+transcriptome. The identified transcripts produce validated tissue-specific 
+pathways in ventricles (2,756 isoforms), pulmonary arteries (535 isoforms), and 
+valves (1,215 isoforms), with transcript differences between the mitral and 
+tricuspid valve involved in extracellular and endocrine signaling. The 
+transcriptome also produced robust sex differences encoded by sex chromosomes 
+and autosomes, highlighting epigenetic and sex hormone differences in the heart. 
+Echocardiography and differential expression suggest that 8 weeks after PAB, the 
+right ventricle has extensive morphological changes and known stress-induced 
+lipid processing dysregulation. At 16-weeks post-PAB, tricuspid valve leaflets 
+show the most significant transcriptional changes, with alterations in endocrine 
+and immune pathway genes involved in cellular and extracellular remodeling. 
+Genes within the tricuspid valve with differential expression and known human or 
+mouse heart phenotypes include FLNA , LTBP4 , VDR , CR2 , PIGQ , CENPF , ACKR3 , 
+CR1 , KLF2 , and HIF3A .
+CONCLUSIONS: This project highlights the complexity of heart valve tissues and 
+their transcriptional activity in a sheep model of RHF. It suggests potential 
+therapeutic interventions in heart valve remodeling in PAH, RHF, and TR. This 
+work highlights the need for further human and model organism research into the 
+dynamic valve cells and genes.
+CLINICAL PERSPECTIVE: What Is New?: Improved cardiac and valve specific 
+transcriptome mapping through de novo transcriptome for clinically relevant 
+ovine model. Tricuspid valves show a sex dependent and active transcriptional 
+response to pulmonary artery banding induced pulmonary hypertension and right 
+sided heart failure.Transcriptional phenotypes in ovine model mirror known human 
+heart disease phenotypes.Several transcripts identified with therapeutic 
+potential for treating pressure overload conditions such as pulmonary 
+hypertension.What Are the Clinical Implications?: Tricuspid valve remodeling due 
+to pulmonary hypertension is accompanied by transcriptional alterations, and 
+mechanical alterations alone may not be sufficient to address valve 
+insufficiency.Valve and ventricle sex specific gene expression changes following 
+pulmonary hypertension indicate a potential role for hormonal influences and a 
+need for personalized treatment strategies.Improved patient outcomes for right 
+heart failure, including diagnosis, early detection, and improved treatment 
+strategies can be elucidated through the ovine model and supported through 
+expanded interrogation of human tissues.
+
+DOI: 10.1101/2025.07.21.666043
+PMCID: PMC12330682
+PMID: 40777379

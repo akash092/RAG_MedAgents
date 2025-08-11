@@ -1,0 +1,51 @@
+1. Med Int (Lond). 2025 Jul 31;5(5):58. doi: 10.3892/mi.2025.257. eCollection
+2025  Sep-Oct.
+
+Long-term outcomes following the clipping of ruptured intracranial aneurysms of 
+the anterior circulation: A retrospective institutional study.
+
+Pagkou D(1), Fotakopoulos G(1), Kogias E(1), Papadopoulou K(1), Patsalas I(1), 
+Foroglou N(1).
+
+Author information:
+(1)Department of Neurosurgery, AHEPA University Hospital, Aristotle University 
+of Thessaloniki, 54636 Thessaloniki, Greece.
+
+Aneurysmal subarachnoid hemorrhage (SAH) constitutes a devastating and 
+life-threatening neurosurgical emergency. Over a number of years, there has been 
+a debate as regards the most suitable timing for surgery. The present 
+retrospective study aimed to investigate the association between the timing of 
+treatment and the outcomes of patients who underwent clipping of ruptured 
+intracranial aneurysms. The present study performed a retrospective analysis of 
+92 of 142 consecutive patients who were diagnosed with anterior circulation 
+ruptured aneurysms and treated only by microsurgical clipping between January, 
+2013 and December, 2018. The patients were divided into two groups, namely group 
+A, which included patients who underwent microsurgical clipping for ruptured 
+anterior circulation aneurysm in the early stages (within the first 3 days of 
+aneurysm rupture occurrence), and group B, which included those who were 
+operated on in the late stages (after 3 days of aneurysm rupture occurrence). 
+The age of the patients ranged from 26 to 78 years, with a mean age of 54.6 
+years. In total, 52 patients were female (56.6%) and 40 patients were male 
+(43.4%). Risk factors associated with a high incidence of rupture included 
+hypertension in 47 (51.0%) patients, cigarette smoking in 39 (42.3%) patients, 
+alcohol consumption in 20 (21.7%) patients and diabetes mellitus in 2 (2.1%) 
+patients. The present study revealed that the mortality rate was lower in group 
+B (P=0.011; 4.3% compared with 11.9% in group A). This indicates that 
+particularly the timing of surgery in group B (patients who were operated on in 
+the late stages, after 3 days of aneurysm rupture occurrence) was more 
+appropriate. In addition, no complications, post-operative hemiplegia and 
+mortality were all independent factors associated with good outcomes (≥2 
+modified Rankin scale) (P<0.05 for all three parameters). On the whole, the 
+present study demonstrates that the outcomes of patients who underwent 
+microsurgical clipping for ruptured anterior circulation aneurysms ≥3 days after 
+admission or rupture occurrence, exhibited favorable outcomes compared to 
+patients operated on during the first 2 days of occurrence.
+
+Copyright: © 2025 Pagkou et al.
+
+DOI: 10.3892/mi.2025.257
+PMCID: PMC12329722
+PMID: 40777593
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,48 @@
+1. Chirurgia (Bucur). 2025 Jul;120(Ahead of print):1-11. doi: 
+10.21614/chirurgia.3129.
+
+The Impact of Laparoscopic Transversus Abdominis Release on the Intra-Abdominal 
+Pressure in Patients with Large Anterior Wall Defects.
+
+Vasile MA, Cochior D, Ștefanescu V, Betianu C, Neagu A, Bucur A, Turcu FL, 
+Georgescu DE, Enciu O, Pã Traşcu T.
+
+Introduction: The objective of this study was to collect and analyze data on 
+patient demographics, lifestyle, abdominal cavity characteristics, and their 
+impact on intra-abdominal pressure before and after minimally invasive treatment 
+of large parietal defects in hernia pathology. Additionally, the study examines 
+the role of the CT scan as a reliable and valid measure of defect and muscle 
+characteristics, which can help establish the indication for performing 
+Transversus Abdominis Release (TAR) and evaluate the outcomes of this procedure 
+along with differences in intra-abdominal pressure (IAP) and plateau pressure 
+(Pplat). Methods: This prospective study involved 20 patients with parietal 
+defects wider than 10 cm, treated over four years at the Central Military 
+Hospital in Bucharest. All procedures were performed using the laparoscopic TAR 
+technique by the same surgical team. Preoperative assessments included CT 
+imaging to measure defect size, volumes, and IAP. Data including defect 
+dimensions, muscle measurements, IAP, and Pplat were systematically recorded in 
+a dedicated database with a follow-up at 6 months with clinical and imaging 
+evaluations. Results: In our cohort of 20 patients, all female, the mean BMI was 
+26.81+-3.05, and the hernia sac volume (HSV) averaged 159.01+-189.79 cmÂ³. The 
+defect area was 69.53 cmÂ² (+-30.11). IAP decreased from 5 cmH2O (+-1.28) 
+preoperatively to 1.91 cmH2O (Ã+-1.93) postoperatively. The reduction in Pplat 
+was similarly significant. Pressure variations were influenced by the 
+topographic location of the defect, with higher pressures seen in epigastric 
+defects, and by the characteristics of the peritoneo-fascial defects, including 
+number, size, and localization, which affect pressure outcomes. Additionally, 
+dimensions of the anterior-lateral abdominal muscles correlated with pressure 
+changes. These findings highlight the importance of comprehensive preoperative 
+assessment of defect characteristics, muscular anatomy, and defect location for 
+predicting pressure reductions and guiding surgical planning. Conclusions: 
+Higher BMI and large, multiple parietal defects predict increased IAP and Pplat 
+postoperatively. Preoperative volumetric and morphometric parameters, defect 
+localization, and topographic characteristics significantly influence pressure 
+outcomes. The TAR technique effectively manages large defects while minimizing 
+pressure increases, but consideration of morphological factors is crucial for 
+optimal results. Further research is needed to refine patient selection and 
+surgical strategies.
+
+Celsius.
+
+DOI: 10.21614/chirurgia.3129
+PMID: 40778469 [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+1. Cardiovasc J Afr. 2025 Jun 4;36(1):21-27. doi: 10.5830/CVJA-2024-013. Epub
+2025  Apr 30.
+
+Correlation of cardiac risk factors with carotid and radial intima-media 
+thickness measurements.
+
+van Schalkwyk FG(1), Brown SC(2), Smit F(3), Botes L(1).
+
+Author information:
+(1)Department of Health Sciences, Central University of Technology, 
+Bloemfontein, South Africa.
+(2)Division of Paediatric and Congenital Cardiology, University of the Free 
+State, Bloemfontein, South Africa. Email: Gnpdscb@ufs.ac.za.
+(3)Department of Cardiothoracic Surgery, School of Medicine, University of the 
+Free State, Bloemfontein, South Africa.
+
+AIM: Early identification of patients at risk for future cardiovascular events 
+is essential. The aim of this study was to evaluate the relationship between 
+cardiovascular risk factors and carotid intima-media thickness (CIMT) and radial 
+intima-media thickness (RIMT).
+METHODS: A prospective, descriptive, analytical study design was used. Two 
+hundred and fifty patients with one or more modifiable risk factors underwent an 
+ultrasound measurement of left and right CIMT and RIMT, according to standard 
+guidelines.
+RESULTS: Eighty-one percent of patients had two or more risk factors. 
+Hypertension was the most common modifiable risk factor (89%), followed by 
+obesity (66%). Male gender demonstrated a significant increase in mean CIMT (p < 
+0.05). Hypertension, diabetes mellitus, hypercholesterolaemia and smoking 
+contributed to a thickened mean CIMT with odds ratios of 3.99, 2.82, 2.47 and 
+2.09, respectively (p < 0.05). Combinations associated with a thicker mean CIMT 
+included hypertension and diabetes, and hypertension and smoking, with odds 
+ratios of 6.92 and 3.67, respectively (p < 0.05). Only hypercholesterolaemia was 
+significantly associated with a thicker mean RIMT (p < 0.05).
+CONCLUSION: Male gender, increased age, hypertension, diabetes, 
+hypercholesterolaemia and smoking significantly contributed to a thickened CIMT, 
+whereas only hypercholesterolaemia was associated with a thickened RIMT. 
+Hypertension had the most significant impact on the mean CIMT thickness. 
+Combinations of risk factors appeared to add summative risks for thickened CIMT 
+and RIMT.
+
+DOI: 10.5830/CVJA-2024-013
+PMID: 40779039 [Indexed for MEDLINE]

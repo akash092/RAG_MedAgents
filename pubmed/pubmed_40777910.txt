@@ -1,0 +1,46 @@
+1. Iran J Public Health. 2025 Jul;54(7):1444-1451. doi:
+10.18502/ijph.v54i7.19150.
+
+Prevalence and Risk Factors of Carbohydrate Metabolism Disorders among Pregnant 
+Women in Kyrgyzstan.
+
+Sultanalieva R(1), Zhunusova B(2), Knyazeva V(2), Abylova N(1), Sorokin A(3).
+
+Author information:
+(1)Endocrinology Department, Kyrgyz State Medical Academy, Bishkek, Kyrgyzstan.
+(2)Therapy Department, International Higher School of Medicine, Bishkek, 
+Kyrgyzstan.
+(3)Department of Physics, Medical Informatics, and Biology, Kyrgyz Russian 
+Slavic University, Bishkek, Kyrgyzstan.
+
+BACKGROUND: We aimed to determine the prevalence of carbohydrate metabolism 
+disorders among pregnant women in Kyrgyzstan based on the 2013 WHO diagnostic 
+criteria, to study their frequency, and to assess the influence of key risk 
+factors on the likelihood of developing gestational diabetes mellitus (GDM) and 
+overt diabetes.
+METHODS: A prospective cohort study was conducted, including 617 pregnant women 
+between 2022 and 2024. All participants underwent an oral glucose tolerance test 
+(OGTT) in the second half of pregnancy. Diagnosis of GDM and overt diabetes was 
+carried out according to WHO criteria. Multivariate logistic regression was used 
+to analyze risk factors. ROC analysis was performed to assess the diagnostic 
+value of the number of risk factors in predicting carbohydrate metabolism 
+disorders.
+RESULTS: The incidence of GDM was 18.8% (116/617), and overt diabetes - 6.96% 
+(43/617). The main risk factors for GDM were: age over 35 years (P = 0.002), 
+arterial hypertension (P = 0.001), second-degree family history of diabetes (P = 
+0.001), pre-pregnancy overweight or obesity (P = 0.002), and multiparity (P = 
+0.000). For overt diabetes, key risk factors included first-degree family 
+history of diabetes (P = 0.034), second-degree family history (P = 0.001), and 
+overweight or obesity (P = 0.018).
+CONCLUSION: An increase in the number of risk factors correlates with the 
+incidence of GDM and overt diabetes. However, for GDM, the number of risk 
+factors is not a reliable predictor, highlighting the need for universal 
+screening of all pregnant women. For overt diabetes, the number of risk factors 
+showed satisfactory predictive value.
+
+Copyright© 2025 Sultanalieva et al. Published by Tehran University of Medical 
+Sciences.
+
+DOI: 10.18502/ijph.v54i7.19150
+PMCID: PMC12325850
+PMID: 40777910

@@ -1,0 +1,75 @@
+1. Rev Cardiovasc Med. 2025 Jul 21;26(7):36776. doi: 10.31083/RCM36776.
+eCollection  2025 Jul.
+
+Association of Estimated Glucose Disposal Rate With Risk of Abdominal Aortic 
+Aneurysm: Evidence From a Large-Scale Prospective Cohort Study of the UK 
+Biobank.
+
+Chen Y(1)(2), Zhou T(2), Luo S(2), Wang J(2), Yang F(3), Feng Y(4), Fang 
+L(2)(5), Luo J(1)(2)(5).
+
+Author information:
+(1)School of Medicine, South China University of Technology, 510006 Guangzhou, 
+Guangdong, China.
+(2)Department of Cardiology, Guangdong Provincial People's Hospital (Guangdong 
+Academy of Medical Sciences), Southern Medical University, 510080 Guangzhou, 
+Guangdong, China.
+(3)Department of Emergency and Critical Care Medicine, Guangdong Provincial 
+People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical 
+University, 510080 Guangzhou, Guangdong, China.
+(4)Department of Cardiology, Hypertension Research Laboratory, Guangdong 
+Cardiovascular Institute, Guangdong Provincial People's Hospital, Guangdong 
+Academy of Medical Sciences, Southern Medical University, 510080 Guangzhou, 
+Guangdong, China.
+(5)Department of Cardiovascular Medicine, Guangdong Provincial Key Laboratory of 
+Coronary Heart Disease Prevention, Guangdong Cardiovascular Institute, Guangdong 
+Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern 
+Medical University, 510080 Guangzhou, Guangdong, China.
+
+BACKGROUND: Insulin resistance has been recognized as a risk factor in the 
+pathogenesis of various diseases. The estimated glucose disposal rate (eGDR) has 
+been widely validated as a reliable, noninvasive, and cost-effective surrogate 
+measure of insulin resistance. However, the relationship between eGDR and 
+abdominal aortic aneurysm (AAA) has not yet been fully elucidated. This study 
+sought to investigate the association between the eGDR levels and the risk of 
+AAA development.
+METHODS: This prospective cohort study enrolled participants from the UK Biobank 
+who had complete eGDR measurements and no pre-existing AAA at baseline 
+(2006-2010). Participants were stratified into quartiles according to their eGDR 
+values. The association between eGDR and AAA was assessed using Cox proportional 
+hazards models with results expressed as the hazard ratio (HR) and 95% 
+confidence interval (CI). Kaplan-Meier curves were generated to visualize 
+cumulative AAA incidence across eGDR quartiles, whereas restricted cubic splines 
+(RCSs) were applied to characterize the exposure-response relationship. 
+Sensitivity and subgroup analyses were conducted to assess the robustness of the 
+findings.
+RESULTS: The final analytical cohort comprised 416,800 participants (median age: 
+58.0 years (IQR: 50.0-63.0), 45.83% male). During the median follow-up of 13.6 
+years, 1881 incident AAA cases were recorded. The Kaplan-Meier curve analysis 
+demonstrated a higher cumulative AAA risk with decreasing eGDR quartiles 
+(log-rank p < 0.05). The Multivariable Cox model confirmed that lower eGDR 
+levels were significantly associated with increased AAA risk. When eGDR was 
+assessed as categorical variable, compared with the participants in Quartile 1 
+group (reference group), the adjusted HR (95% CI) for those in the Quartile 
+2-Quartile 4 groups were 0.76 (0.66-0.87), 0.69 (0.59-0.80), and 0.46 
+(0.35-0.62), respectively. When eGDR was evaluated as a continuous variable, a 
+1-unit increment in eGDR corresponded to a 12% reduction in AAA risk (HR: 0.88, 
+95% CI: 0.85-0.90). After excluding patients with pre-existing diabetes or 
+short-term follow-up, the sensitivity analysis produced similar results. A 
+subgroup analysis further maintained the association between eGDR and AAA. 
+Furthermore, the RCS curve revealed a nonlinear association between eGDR and AAA 
+incidence risk (p for nonlinearity ≤ 0.05), identifying a threshold value of 
+7.78.
+CONCLUSIONS: Our study demonstrates that reduced eGDR levels are independently 
+associated with elevated AAA risk, exhibiting a nonlinear dose-response 
+relationship characterized by a threshold effect at 7.78. These findings 
+position eGDR as a potentially valuable biomarker for AAA risk stratification 
+and interventional strategies.
+
+Copyright: © 2025 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/RCM36776
+PMCID: PMC12326403
+PMID: 40776955
+
+Conflict of interest statement: The authors declare no conflict of interest.
