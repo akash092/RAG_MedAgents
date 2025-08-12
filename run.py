@@ -30,10 +30,10 @@ def shuffle_dict_values(original_dict):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='gpt4.1')
-    parser.add_argument('--dataset_name', default='PubMedQA')
-    parser.add_argument('--dataset_dir', default='./datasets/PubMedQA/')
-    parser.add_argument('--start_pos', type=int, default=0)
-    parser.add_argument('--end_pos', type=int, default=1)
+    parser.add_argument('--dataset_name', default='MedQA')
+    parser.add_argument('--dataset_dir', default='./datasets/MedQA/')
+    parser.add_argument('--start_pos', type=int, default=6)
+    parser.add_argument('--end_pos', type=int, default=7)
     parser.add_argument('--output_files_folder', default='.')
     parser.add_argument('--use_rag_agent', type=bool, default=False)
 
@@ -61,40 +61,47 @@ if __name__ == '__main__':
     test_range = range(args.start_pos, end_pos)  # closed interval
 
     ### set output_file_name
-    exact_output_file = f"{args.output_files_folder}/{args.model_name}"
+    exact_output_file = f"{args.output_files_folder}/{args.dataset_name}_{args.model_name}.json"
 
     total_questions = 0
     correct = 0
     input_prompt = {}
-    for idx in tqdm.tqdm(test_range, desc=f"{args.start_pos} ~ {end_pos}"):
-        raw_sample = dataobj.get_by_idx(idx)
-        question = raw_sample['question'] if raw_sample['question'][-1] in punctuation else raw_sample['question'] + '?'            
+    with open(exact_output_file, 'a') as f:
+        f.write("[\n")  # Start the JSON array
+        for idx in tqdm.tqdm(test_range, desc=f"{args.start_pos} ~ {end_pos}"):
+            raw_sample = dataobj.get_by_idx(idx)
+            question = raw_sample['question'] if raw_sample['question'][-1] in punctuation else raw_sample['question'] + '?'            
+            
+            options = raw_sample['options']
+            gold_answer = raw_sample['answer_idx']
+            gold_answer_string = options[gold_answer]
+            
+            if args.do_choice_shuffling:
+                gold_answer = ""
+                options = shuffle_dict_values(options)
+                for k, v in options.items():
+                    if v == gold_answer_string:
+                        gold_answer = k
+                        break
+            
+            if gold_answer == "":
+                raise ValueError("gold_answer is empty")
+            
+            data_info = fully_decode(question, options, gold_answer, handler, args.dataset_name, args.max_attempt_vote, args.use_rag_agent, rag_agent)
+            
+            record = json.dumps(data_info)
+            if idx == end_pos -1:
+                f.write(record + '\n')
+            else:
+                f.write(",\n")
         
-        options = raw_sample['options']
-        gold_answer = raw_sample['answer_idx']
-        gold_answer_string = options[gold_answer]
         
-        if args.do_choice_shuffling:
-            gold_answer = ""
-            options = shuffle_dict_values(options)
-            for k, v in options.items():
-                if v == gold_answer_string:
-                    gold_answer = k
-                    break
+        f.write("]\n")  # Close the JSON array
         
-        if gold_answer == "":
-            raise ValueError("gold_answer is empty")
-        
-        data_info = fully_decode(question, options, gold_answer, handler, args.dataset_name, args.max_attempt_vote, args.use_rag_agent, rag_agent)
-        
-        record = json.dumps(data_info)
-        with open(exact_output_file, 'a') as f:
-            f.write(record + '\n')
-        
-        # compute accuracy
-        total_questions += 1
-        if data_info["pred_answer"] == gold_answer:
-            correct += 1
+    # compute accuracy
+    total_questions += 1
+    if data_info["pred_answer"] == gold_answer:
+        correct += 1
 
     accuracy_percentage = (correct*100)/total_questions
     print(f"{args.use_rag_agent=}, {args.do_choice_shuffling}")
